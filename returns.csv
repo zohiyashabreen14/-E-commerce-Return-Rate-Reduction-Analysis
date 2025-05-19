@@ -1,0 +1,376 @@
+order_id,return_date,return_reason,return_status
+O101116,2025-04-19,Changed mind,Denied
+O101368,2025-01-23,Defective,Denied
+O100422,2025-01-06,Not as described,Denied
+O100413,2025-03-09,Late delivery,Approved
+O100451,2025-05-05,Defective,Approved
+O100861,2025-05-09,Wrong item,Approved
+O101063,2025-03-29,Wrong item,Approved
+O100741,2024-12-19,Changed mind,Denied
+O101272,2025-01-28,Defective,Denied
+O100259,2025-01-20,Late delivery,Approved
+O100888,2025-01-29,Late delivery,Approved
+O101432,2025-04-24,Defective,Denied
+O100712,2025-04-10,Changed mind,Denied
+O101382,2025-04-20,Wrong item,Denied
+O100070,2024-11-21,Late delivery,Denied
+O101268,2025-03-27,Not as described,Approved
+O101491,2025-05-10,Not as described,Denied
+O100607,2025-02-15,Late delivery,Approved
+O100433,2025-02-08,Not as described,Approved
+O100051,2025-02-16,Wrong item,Denied
+O101199,2025-02-15,Wrong item,Approved
+O101128,2025-01-07,Changed mind,Approved
+O101190,2025-01-06,Not as described,Denied
+O101249,2025-05-13,Wrong item,Denied
+O101419,2024-11-24,Late delivery,Denied
+O100432,2025-01-30,Late delivery,Denied
+O101452,2024-12-02,Changed mind,Approved
+O101470,2025-02-12,Not as described,Approved
+O101234,2024-12-13,Defective,Approved
+O101281,2025-02-22,Changed mind,Denied
+O101085,2025-04-19,Late delivery,Denied
+O100610,2025-05-05,Defective,Approved
+O101284,2025-02-20,Not as described,Denied
+O101041,2024-12-09,Changed mind,Denied
+O100220,2025-04-04,Changed mind,Approved
+O100339,2024-12-19,Defective,Approved
+O100423,2024-12-29,Changed mind,Denied
+O100428,2025-03-13,Late delivery,Approved
+O101105,2025-03-21,Late delivery,Approved
+O100076,2025-05-08,Defective,Approved
+O101391,2024-12-08,Not as described,Approved
+O100439,2025-03-02,Changed mind,Denied
+O101336,2025-01-05,Defective,Denied
+O100864,2025-03-04,Changed mind,Denied
+O101080,2025-04-20,Late delivery,Approved
+O100354,2025-04-18,Changed mind,Approved
+O100365,2025-01-17,Defective,Denied
+O100309,2025-03-27,Wrong item,Approved
+O100736,2025-05-10,Defective,Approved
+O100998,2025-02-08,Changed mind,Approved
+O100621,2024-12-18,Wrong item,Approved
+O100543,2025-01-15,Changed mind,Approved
+O101140,2024-12-28,Defective,Denied
+O101296,2024-11-28,Changed mind,Denied
+O100554,2025-02-24,Changed mind,Approved
+O100679,2025-04-07,Wrong item,Approved
+O100049,2025-05-02,Not as described,Denied
+O100490,2025-03-02,Late delivery,Approved
+O100316,2025-05-07,Not as described,Denied
+O100904,2024-11-30,Changed mind,Approved
+O100636,2025-03-21,Late delivery,Denied
+O100560,2025-03-19,Defective,Denied
+O100486,2025-03-07,Late delivery,Denied
+O100067,2025-03-18,Wrong item,Denied
+O100811,2025-05-23,Late delivery,Approved
+O100493,2024-12-08,Changed mind,Approved
+O100310,2024-11-26,Late delivery,Approved
+O101096,2025-05-15,Late delivery,Denied
+O101247,2025-02-22,Changed mind,Denied
+O100184,2025-04-03,Not as described,Denied
+O100306,2024-12-26,Defective,Denied
+O100852,2024-11-21,Defective,Denied
+O100792,2025-04-03,Late delivery,Approved
+O100289,2025-02-05,Wrong item,Denied
+O100706,2024-11-15,Defective,Denied
+O101329,2025-05-03,Wrong item,Denied
+O100654,2025-03-25,Changed mind,Denied
+O100522,2025-05-14,Wrong item,Approved
+O100461,2025-04-21,Late delivery,Approved
+O100930,2025-04-19,Not as described,Approved
+O101034,2025-02-10,Not as described,Denied
+O100029,2025-03-01,Defective,Approved
+O100240,2025-04-08,Wrong item,Approved
+O100798,2024-11-29,Defective,Denied
+O100817,2024-11-24,Not as described,Denied
+O100065,2025-03-21,Wrong item,Approved
+O100601,2024-12-28,Changed mind,Approved
+O100924,2025-05-15,Not as described,Approved
+O100754,2025-04-02,Changed mind,Denied
+O100926,2025-01-10,Not as described,Denied
+O101101,2025-01-05,Wrong item,Approved
+O100247,2025-01-02,Wrong item,Denied
+O100277,2025-04-09,Defective,Approved
+O101402,2025-05-06,Defective,Approved
+O101066,2024-12-27,Wrong item,Approved
+O100479,2025-03-13,Not as described,Denied
+O100426,2025-05-18,Late delivery,Denied
+O100123,2024-11-17,Changed mind,Approved
+O101169,2024-12-27,Late delivery,Approved
+O100394,2025-03-29,Changed mind,Approved
+O100985,2025-04-27,Not as described,Approved
+O100715,2025-05-12,Wrong item,Approved
+O101134,2024-12-22,Wrong item,Denied
+O101084,2025-01-06,Late delivery,Approved
+O100497,2025-02-09,Not as described,Denied
+O100044,2025-03-03,Defective,Denied
+O100059,2025-02-13,Wrong item,Approved
+O101161,2024-11-24,Not as described,Denied
+O100023,2025-04-19,Not as described,Denied
+O100874,2025-01-30,Not as described,Denied
+O100481,2025-01-20,Late delivery,Approved
+O101324,2025-05-20,Defective,Approved
+O100745,2025-04-17,Defective,Denied
+O100231,2025-01-07,Wrong item,Denied
+O100124,2025-05-09,Not as described,Approved
+O100427,2025-04-22,Late delivery,Approved
+O100818,2024-12-23,Defective,Denied
+O100168,2024-12-06,Wrong item,Denied
+O100115,2025-01-27,Changed mind,Denied
+O101088,2025-03-27,Changed mind,Denied
+O100986,2025-03-11,Defective,Approved
+O101395,2025-01-27,Not as described,Denied
+O101424,2025-03-22,Wrong item,Approved
+O100415,2025-02-01,Defective,Denied
+O100141,2024-12-10,Changed mind,Denied
+O101233,2025-03-10,Defective,Approved
+O101293,2025-02-04,Wrong item,Approved
+O100762,2025-01-21,Not as described,Approved
+O101206,2025-01-08,Not as described,Approved
+O100462,2025-04-02,Late delivery,Approved
+O101243,2025-05-14,Changed mind,Approved
+O100078,2025-05-19,Defective,Denied
+O101004,2024-12-11,Wrong item,Approved
+O101490,2025-03-30,Late delivery,Approved
+O100571,2025-05-03,Defective,Denied
+O100015,2024-12-07,Wrong item,Approved
+O100494,2024-12-01,Not as described,Approved
+O100350,2025-02-21,Changed mind,Approved
+O100999,2025-02-25,Defective,Approved
+O100274,2024-12-22,Changed mind,Denied
+O101191,2025-01-27,Wrong item,Approved
+O100271,2025-02-28,Defective,Denied
+O101473,2025-05-04,Wrong item,Approved
+O100237,2025-04-29,Wrong item,Approved
+O100585,2025-03-12,Not as described,Approved
+O101312,2025-02-19,Not as described,Approved
+O100694,2025-04-28,Changed mind,Denied
+O101001,2024-12-02,Changed mind,Denied
+O100322,2025-02-26,Defective,Approved
+O100782,2024-12-27,Late delivery,Approved
+O101358,2025-02-14,Defective,Approved
+O101203,2025-02-04,Defective,Approved
+O100970,2025-05-14,Late delivery,Denied
+O101466,2025-01-25,Not as described,Denied
+O100526,2025-05-01,Changed mind,Denied
+O101425,2024-12-27,Wrong item,Denied
+O101170,2025-01-13,Wrong item,Approved
+O100175,2025-02-10,Late delivery,Denied
+O100358,2024-12-20,Defective,Approved
+O100043,2024-11-29,Not as described,Denied
+O100416,2025-02-16,Changed mind,Approved
+O100344,2025-01-07,Changed mind,Approved
+O101026,2025-01-21,Not as described,Denied
+O101401,2025-02-03,Defective,Denied
+O100101,2024-11-22,Not as described,Approved
+O100107,2025-05-09,Defective,Approved
+O101489,2025-05-26,Wrong item,Approved
+O101052,2025-02-05,Defective,Approved
+O100964,2025-01-02,Not as described,Approved
+O100380,2025-02-07,Not as described,Denied
+O100244,2024-12-29,Not as described,Approved
+O101099,2025-03-22,Wrong item,Approved
+O100500,2025-02-21,Changed mind,Denied
+O100700,2024-12-01,Late delivery,Denied
+O100128,2024-12-19,Late delivery,Denied
+O100239,2025-04-27,Not as described,Denied
+O101114,2025-02-06,Wrong item,Denied
+O100682,2025-05-14,Not as described,Approved
+O100482,2025-04-16,Wrong item,Denied
+O101305,2024-11-29,Changed mind,Approved
+O100275,2025-03-01,Defective,Denied
+O100582,2025-05-05,Changed mind,Approved
+O100203,2025-04-09,Wrong item,Denied
+O100032,2025-04-27,Not as described,Approved
+O101319,2025-04-26,Changed mind,Denied
+O100813,2025-04-08,Late delivery,Denied
+O100997,2025-01-09,Changed mind,Approved
+O100381,2025-02-03,Defective,Denied
+O101073,2024-12-28,Late delivery,Approved
+O101348,2025-01-15,Changed mind,Approved
+O100578,2025-05-02,Wrong item,Approved
+O100887,2025-05-05,Changed mind,Approved
+O101325,2025-03-12,Late delivery,Approved
+O101326,2024-12-13,Changed mind,Denied
+O100941,2025-01-17,Late delivery,Denied
+O100163,2025-01-16,Not as described,Approved
+O100909,2025-03-16,Not as described,Approved
+O100297,2025-01-14,Late delivery,Denied
+O100755,2025-01-15,Defective,Approved
+O100405,2025-03-20,Defective,Denied
+O100968,2025-02-19,Defective,Denied
+O100605,2024-12-19,Defective,Approved
+O100420,2025-03-08,Wrong item,Denied
+O100464,2024-12-01,Changed mind,Approved
+O101187,2025-04-24,Changed mind,Approved
+O100939,2025-02-28,Not as described,Approved
+O100192,2025-02-17,Late delivery,Denied
+O100674,2024-12-12,Late delivery,Approved
+O100351,2025-03-01,Changed mind,Approved
+O100858,2025-01-10,Defective,Denied
+O100063,2025-04-30,Not as described,Approved
+O101173,2025-02-19,Wrong item,Approved
+O100765,2025-04-16,Wrong item,Approved
+O101440,2025-02-03,Not as described,Approved
+O100261,2025-05-21,Late delivery,Approved
+O100342,2025-05-04,Changed mind,Denied
+O101220,2025-01-23,Changed mind,Approved
+O100471,2024-12-17,Defective,Approved
+O101334,2025-05-04,Wrong item,Approved
+O100198,2025-03-12,Late delivery,Approved
+O101231,2024-12-05,Wrong item,Approved
+O100917,2025-05-14,Defective,Denied
+O100743,2025-01-22,Changed mind,Approved
+O100570,2025-03-08,Wrong item,Approved
+O100218,2025-02-16,Not as described,Approved
+O100453,2025-04-26,Late delivery,Approved
+O100030,2025-01-01,Not as described,Denied
+O100056,2025-02-27,Wrong item,Denied
+O101210,2025-02-12,Not as described,Denied
+O101385,2024-11-26,Late delivery,Approved
+O101065,2025-02-05,Defective,Approved
+O100430,2024-11-26,Not as described,Denied
+O100724,2025-01-01,Not as described,Denied
+O101144,2025-01-27,Wrong item,Denied
+O101005,2025-01-01,Changed mind,Approved
+O101050,2024-12-14,Defective,Denied
+O101345,2025-04-15,Late delivery,Approved
+O101236,2024-11-29,Not as described,Approved
+O101235,2024-12-12,Defective,Denied
+O101448,2025-02-26,Changed mind,Denied
+O100620,2025-04-14,Changed mind,Approved
+O101067,2025-03-16,Defective,Approved
+O100838,2025-04-18,Wrong item,Approved
+O100099,2025-04-19,Wrong item,Denied
+O100532,2025-04-27,Not as described,Approved
+O100528,2025-03-02,Changed mind,Denied
+O101346,2025-03-01,Not as described,Approved
+O101172,2024-12-14,Defective,Approved
+O101178,2025-02-25,Wrong item,Approved
+O100629,2024-11-25,Late delivery,Approved
+O101027,2025-01-13,Wrong item,Approved
+O100270,2025-02-02,Late delivery,Approved
+O101341,2025-01-29,Wrong item,Denied
+O100626,2024-12-08,Changed mind,Approved
+O101042,2025-04-29,Not as described,Approved
+O100976,2025-01-10,Changed mind,Approved
+O100371,2024-12-26,Late delivery,Denied
+O100588,2025-01-27,Changed mind,Denied
+O100967,2025-02-04,Late delivery,Approved
+O101165,2025-03-06,Wrong item,Denied
+O101146,2025-01-04,Defective,Denied
+O100236,2024-12-25,Defective,Approved
+O100596,2024-11-22,Changed mind,Denied
+O100962,2025-05-16,Late delivery,Approved
+O101445,2024-12-30,Defective,Denied
+O101163,2025-02-16,Defective,Denied
+O100590,2025-04-28,Defective,Denied
+O100208,2025-05-05,Not as described,Approved
+O101074,2025-05-05,Defective,Approved
+O100899,2025-02-14,Not as described,Denied
+O100353,2024-11-18,Changed mind,Approved
+O100058,2025-01-14,Wrong item,Denied
+O100303,2024-12-29,Late delivery,Denied
+O101447,2025-05-04,Wrong item,Approved
+O100843,2025-03-05,Defective,Denied
+O101261,2025-02-26,Defective,Approved
+O101430,2024-12-20,Changed mind,Approved
+O101209,2025-04-12,Defective,Denied
+O100367,2025-03-20,Not as described,Approved
+O101357,2025-01-03,Late delivery,Denied
+O101197,2024-12-05,Not as described,Denied
+O101304,2024-12-14,Late delivery,Approved
+O101232,2024-11-16,Late delivery,Approved
+O100704,2025-02-15,Not as described,Denied
+O100233,2025-05-09,Wrong item,Approved
+O100618,2024-12-15,Defective,Approved
+O100196,2024-11-29,Changed mind,Approved
+O101259,2025-01-29,Wrong item,Approved
+O100081,2025-05-21,Changed mind,Denied
+O101404,2025-04-01,Wrong item,Approved
+O100597,2025-04-12,Defective,Denied
+O101156,2025-03-29,Wrong item,Approved
+O100111,2025-05-08,Late delivery,Approved
+O101276,2025-02-07,Not as described,Approved
+O100780,2025-03-29,Defective,Denied
+O100983,2025-02-09,Late delivery,Approved
+O100799,2025-05-04,Late delivery,Denied
+O101265,2025-02-10,Defective,Approved
+O101150,2025-03-26,Changed mind,Denied
+O100824,2025-03-09,Late delivery,Approved
+O100382,2025-04-12,Late delivery,Approved
+O100538,2024-11-20,Defective,Denied
+O101493,2025-02-15,Defective,Denied
+O101112,2025-04-14,Changed mind,Approved
+O100324,2025-04-21,Wrong item,Approved
+O100361,2024-12-29,Not as described,Denied
+O101487,2025-04-25,Wrong item,Denied
+O101029,2025-02-12,Late delivery,Approved
+O100707,2025-01-12,Wrong item,Denied
+O100332,2025-04-25,Changed mind,Approved
+O100429,2024-12-06,Changed mind,Approved
+O101242,2025-01-22,Changed mind,Denied
+O100425,2025-01-04,Wrong item,Denied
+O100628,2024-12-11,Defective,Approved
+O101111,2025-01-22,Late delivery,Approved
+O100677,2025-01-27,Not as described,Denied
+O100693,2025-04-14,Not as described,Denied
+O100757,2025-03-10,Not as described,Denied
+O100254,2025-01-19,Not as described,Approved
+O101094,2025-03-16,Not as described,Approved
+O100916,2025-04-04,Wrong item,Denied
+O101185,2024-12-27,Defective,Denied
+O100668,2024-11-20,Changed mind,Denied
+O100841,2025-01-05,Not as described,Denied
+O100806,2025-03-13,Wrong item,Approved
+O101456,2025-04-16,Not as described,Denied
+O100086,2025-04-26,Wrong item,Approved
+O101421,2024-11-27,Defective,Denied
+O100265,2025-03-30,Defective,Approved
+O100287,2025-04-14,Late delivery,Approved
+O101483,2025-01-03,Late delivery,Approved
+O100892,2025-01-02,Defective,Approved
+O101495,2025-04-26,Defective,Approved
+O100978,2024-12-28,Wrong item,Denied
+O100534,2024-12-13,Late delivery,Approved
+O101000,2024-11-20,Defective,Denied
+O100221,2024-12-21,Defective,Denied
+O100113,2024-11-27,Not as described,Denied
+O100672,2025-01-14,Changed mind,Denied
+O100583,2024-11-24,Defective,Denied
+O100174,2025-04-10,Defective,Approved
+O100535,2024-12-02,Wrong item,Denied
+O101078,2024-12-03,Late delivery,Denied
+O101176,2024-11-27,Late delivery,Denied
+O101106,2025-03-20,Changed mind,Denied
+O100982,2024-12-16,Changed mind,Denied
+O100285,2025-03-10,Defective,Approved
+O100867,2025-04-08,Wrong item,Denied
+O100374,2025-05-05,Wrong item,Denied
+O101196,2025-01-06,Not as described,Denied
+O100031,2025-03-08,Not as described,Denied
+O100551,2025-02-12,Changed mind,Denied
+O100210,2025-03-02,Late delivery,Denied
+O101046,2025-01-17,Late delivery,Denied
+O100923,2025-03-30,Changed mind,Denied
+O100809,2025-03-24,Not as described,Approved
+O100617,2025-05-02,Changed mind,Approved
+O100932,2025-05-06,Late delivery,Approved
+O100619,2025-02-02,Changed mind,Approved
+O100188,2024-11-25,Changed mind,Denied
+O100710,2025-01-15,Wrong item,Approved
+O100936,2025-05-16,Defective,Approved
+O101168,2025-05-11,Not as described,Denied
+O101219,2025-02-15,Defective,Approved
+O101097,2025-05-08,Changed mind,Denied
+O100901,2025-03-12,Late delivery,Denied
+O100083,2025-03-13,Changed mind,Approved
+O100701,2024-11-16,Wrong item,Approved
+O100048,2024-11-25,Defective,Denied
+O101283,2025-02-12,Not as described,Denied
+O100155,2024-12-21,Wrong item,Approved
+O101151,2025-03-23,Changed mind,Denied
+O101141,2024-12-02,Changed mind,Approved
+O100974,2025-04-09,Wrong item,Denied
+O101057,2024-12-15,Defective,Approved

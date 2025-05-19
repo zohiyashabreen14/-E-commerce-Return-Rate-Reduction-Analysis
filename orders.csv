@@ -1,0 +1,1501 @@
+order_id,product_id,product_name,category,supplier,price,quantity,order_date,customer_id,region,city,marketing_channel
+O100000,P2046,Parent,Books,BrandB,263.23,2,2025-03-29,C7756,West,North Jasonmouth,Email
+O100001,P7574,Care,Beauty,BrandD,308.86,1,2025-02-28,C5597,North,Darleneville,Influencer
+O100002,P8632,Entire,Beauty,BrandD,399.34,1,2025-01-22,C2046,East,Mollyshire,Email
+O100003,P4772,Of,Apparel,BrandD,215.58,1,2025-04-28,C1447,West,North Adriantown,Social Media
+O100004,P7846,Remain,Books,BrandB,194.82,3,2025-04-25,C9698,West,South Cesarberg,Social Media
+O100005,P2694,Way,Apparel,BrandB,179.22,2,2024-12-19,C2240,South,New George,Influencer
+O100006,P5959,Read,Books,BrandC,80.13,1,2024-12-08,C5105,South,West Brianna,Social Media
+O100007,P3106,Trade,Books,BrandA,246.74,3,2025-01-27,C5547,South,South Amy,Direct
+O100008,P1710,Standard,Apparel,BrandC,100.21,3,2025-02-05,C4704,West,East Sandra,Email
+O100009,P4299,Appear,Electronics,BrandB,366.84,1,2024-12-28,C7682,West,North Joditon,Influencer
+O100010,P5130,Natural,Apparel,BrandA,337.09,3,2025-02-16,C2971,West,North Kathleentown,Email
+O100011,P9398,Lose,Books,BrandC,493.08,2,2025-01-15,C3068,South,Lake Aaron,Ads
+O100012,P2633,Can,Apparel,BrandD,363.3,3,2025-03-18,C6831,West,Victoriafort,Influencer
+O100013,P5614,Event,Beauty,BrandC,110.15,1,2025-02-12,C7043,East,Lauraport,Ads
+O100014,P8542,Year,Electronics,BrandC,314.98,2,2024-12-12,C3720,East,West William,Influencer
+O100015,P3044,Human,Beauty,BrandD,199.68,1,2024-11-24,C6439,South,Gabrielaville,Social Media
+O100016,P5049,Try,Apparel,BrandB,440.1,2,2025-02-22,C8636,East,Rachaelburgh,Influencer
+O100017,P4511,Top,Beauty,BrandA,18.58,1,2025-04-15,C7948,North,Lake Denise,Direct
+O100018,P2913,Big,Apparel,BrandC,274.3,2,2025-04-17,C9620,East,Morsetown,Social Media
+O100019,P3084,Fire,Electronics,BrandD,39.91,1,2024-12-15,C4796,West,East Sherylberg,Direct
+O100020,P1620,Fish,Apparel,BrandB,445.07,3,2025-01-16,C6510,North,Mercedesburgh,Email
+O100021,P2157,Defense,Beauty,BrandD,387.01,1,2024-11-13,C7235,South,Gilbertshire,Direct
+O100022,P9998,First,Apparel,BrandA,45.15,2,2025-01-20,C4506,East,Christophermouth,Ads
+O100023,P4699,Plant,Apparel,BrandA,398.58,1,2025-04-14,C9842,North,New Meghan,Influencer
+O100024,P1795,Against,Electronics,BrandB,164.95,2,2025-05-10,C2335,South,West Jessicaport,Influencer
+O100025,P8247,Manager,Apparel,BrandC,362.04,1,2025-01-22,C7374,East,Burnshaven,Social Media
+O100026,P6964,Institution,Beauty,BrandC,250.99,3,2025-01-06,C1700,South,West Cindy,Direct
+O100027,P7982,Win,Electronics,BrandC,479.46,1,2025-04-10,C9947,South,New Lori,Ads
+O100028,P5029,Number,Electronics,BrandA,393.09,2,2025-01-18,C1815,East,Kevinview,Ads
+O100029,P7960,Whom,Electronics,BrandA,212.81,2,2025-02-27,C6284,East,North Jennifer,Ads
+O100030,P3613,Exist,Apparel,BrandB,316.6,3,2024-12-19,C9607,South,Odonnellstad,Influencer
+O100031,P5008,Seem,Home,BrandB,61.94,3,2025-03-05,C7496,South,Avilafurt,Ads
+O100032,P4097,Compare,Beauty,BrandB,324.92,3,2025-04-19,C8848,West,South Darren,Email
+O100033,P5500,Moment,Apparel,BrandB,450.48,1,2025-02-01,C6274,South,East Ronald,Email
+O100034,P8560,Really,Books,BrandC,480.31,3,2025-02-02,C5107,South,Barrettborough,Influencer
+O100035,P7062,South,Books,BrandA,44.93,1,2025-03-05,C9700,South,Wilsonchester,Email
+O100036,P5453,Run,Home,BrandD,332.74,1,2024-12-21,C8334,West,Cordovahaven,Social Media
+O100037,P7601,Field,Apparel,BrandC,234.02,1,2024-11-23,C2766,East,West Christinebury,Social Media
+O100038,P8722,Idea,Electronics,BrandC,290.23,1,2025-01-03,C1726,North,Dianafurt,Direct
+O100039,P3724,Every,Home,BrandA,416.7,3,2025-01-23,C3550,West,Jonesshire,Ads
+O100040,P1446,Avoid,Beauty,BrandB,151.38,1,2025-01-23,C5572,North,West Rebecca,Direct
+O100041,P7823,Indicate,Apparel,BrandD,386.04,3,2025-01-24,C3519,West,Port Danieltown,Ads
+O100042,P5410,Develop,Books,BrandA,476.84,3,2025-03-16,C3457,West,Ramirezport,Email
+O100043,P3165,Some,Home,BrandD,149.18,2,2024-11-17,C8266,South,East Emily,Ads
+O100044,P9879,Sport,Beauty,BrandC,114.98,3,2025-02-21,C7366,East,North Brianna,Social Media
+O100045,P6983,Though,Electronics,BrandB,108.54,2,2024-11-26,C2404,South,Lake Richardfort,Email
+O100046,P3970,Medical,Apparel,BrandD,329.41,3,2025-01-17,C6640,West,Lake Ashleystad,Ads
+O100047,P4667,Side,Beauty,BrandD,198.09,1,2024-11-20,C9967,East,Gibbsfort,Direct
+O100048,P5716,Opportunity,Books,BrandD,498.74,1,2024-11-11,C8279,North,Port Brookemouth,Ads
+O100049,P5477,Mrs,Electronics,BrandB,369.73,2,2025-04-24,C3733,West,Port Kevinview,Email
+O100050,P4501,Star,Home,BrandD,454.63,2,2025-01-23,C9587,West,Lake Richardberg,Influencer
+O100051,P2311,Day,Beauty,BrandB,299.69,1,2025-02-12,C7328,North,North Amber,Social Media
+O100052,P7936,Republican,Beauty,BrandA,101.14,2,2025-02-22,C4662,North,South Robert,Ads
+O100053,P7428,Question,Apparel,BrandB,145.07,2,2025-02-07,C2783,East,New Michelle,Ads
+O100054,P7202,Play,Apparel,BrandC,176.12,1,2024-11-11,C6844,East,South Kylemouth,Influencer
+O100055,P3807,Position,Electronics,BrandD,162.73,1,2025-03-06,C3197,East,Lake Michelle,Influencer
+O100056,P3293,Attorney,Electronics,BrandC,101.79,3,2025-02-20,C1232,South,South Latashahaven,Ads
+O100057,P2265,Game,Beauty,BrandC,141.64,3,2024-12-11,C4190,South,Port Robert,Ads
+O100058,P8339,Full,Home,BrandB,165.4,1,2025-01-01,C4682,West,North Bradley,Ads
+O100059,P2883,Product,Electronics,BrandD,255.45,1,2025-02-06,C4606,North,Port Kristenberg,Direct
+O100060,P6878,Hospital,Books,BrandB,87.51,3,2025-01-29,C9815,East,Ferrellfort,Email
+O100061,P7185,Walk,Apparel,BrandC,48.08,2,2024-11-14,C2044,West,West Micheleshire,Ads
+O100062,P2020,Son,Electronics,BrandC,490.43,3,2025-01-16,C1945,North,West Amanda,Ads
+O100063,P1954,Never,Home,BrandD,124.95,2,2025-04-18,C4187,North,Edwardstad,Direct
+O100064,P1452,According,Apparel,BrandD,69.13,1,2025-02-21,C2567,West,Port Julie,Direct
+O100065,P8912,Two,Books,BrandC,308.7,2,2025-03-06,C1865,North,Wellsstad,Social Media
+O100066,P7068,Person,Books,BrandA,74.92,3,2024-12-31,C8419,East,Martinezchester,Social Media
+O100067,P8899,Buy,Beauty,BrandC,42.06,1,2025-03-08,C6595,South,Williamsborough,Direct
+O100068,P2703,People,Home,BrandD,421.61,1,2025-01-28,C7101,West,West Faith,Influencer
+O100069,P8004,Teacher,Apparel,BrandA,204.1,3,2025-01-28,C9609,South,Lewishaven,Direct
+O100070,P2385,Change,Beauty,BrandC,221.93,3,2024-11-16,C3599,East,Jenniferstad,Social Media
+O100071,P3478,Officer,Books,BrandC,484.51,3,2025-01-27,C1206,South,New Crystal,Direct
+O100072,P4831,Idea,Apparel,BrandD,300.58,3,2025-04-14,C2512,South,Lake Eric,Email
+O100073,P5276,Great,Electronics,BrandA,215.04,3,2025-04-14,C7901,North,Fletcherside,Social Media
+O100074,P2897,Remain,Beauty,BrandD,213.25,1,2025-04-01,C9629,East,Ballardborough,Influencer
+O100075,P2882,Agree,Apparel,BrandC,202.69,1,2025-05-01,C7335,South,South Steventown,Email
+O100076,P9144,Write,Books,BrandD,142.05,2,2025-05-04,C3725,West,West Tara,Ads
+O100077,P2487,Whom,Books,BrandC,422.76,1,2025-03-12,C4127,West,West Maria,Social Media
+O100078,P9087,Bank,Home,BrandB,499.8,2,2025-05-06,C6980,West,Bethanychester,Ads
+O100079,P8862,Care,Books,BrandD,329.3,3,2025-04-23,C3830,South,Smithchester,Social Media
+O100080,P3657,Television,Electronics,BrandD,335.89,2,2025-01-05,C5408,West,Kristinland,Ads
+O100081,P8379,Sense,Home,BrandC,393.84,3,2025-05-10,C1552,South,Phillipsburgh,Social Media
+O100082,P4154,Right,Books,BrandC,248.57,3,2024-12-25,C6542,South,Caseyton,Ads
+O100083,P8554,Become,Electronics,BrandD,401.88,2,2025-03-09,C1225,South,Haleyland,Ads
+O100084,P7254,Behind,Electronics,BrandB,451.42,3,2024-11-15,C9918,North,Jameschester,Direct
+O100085,P4676,She,Books,BrandC,281.87,3,2025-03-06,C5381,West,Joyceland,Email
+O100086,P1485,Family,Home,BrandD,231.67,3,2025-04-12,C2488,South,Rogersport,Influencer
+O100087,P8459,Produce,Electronics,BrandD,46.1,1,2025-03-18,C7200,East,Lake Charlesside,Direct
+O100088,P4997,Third,Beauty,BrandD,387.88,2,2025-02-25,C9208,West,Richardsonburgh,Direct
+O100089,P3171,Technology,Books,BrandB,343.84,2,2024-12-23,C3837,North,Lake Emily,Influencer
+O100090,P1085,Reason,Electronics,BrandB,104.99,3,2025-04-27,C6548,East,South Gregory,Influencer
+O100091,P7146,Rich,Home,BrandA,427.68,2,2025-02-03,C8218,South,Lake Samantha,Social Media
+O100092,P4162,Remain,Apparel,BrandA,171.68,3,2024-12-01,C8794,West,Lukebury,Direct
+O100093,P2095,Woman,Home,BrandA,277.61,2,2024-12-11,C5114,West,Paynefurt,Email
+O100094,P8361,Four,Home,BrandD,361.49,1,2025-05-03,C6718,South,New Jonathan,Ads
+O100095,P2483,Quality,Home,BrandA,477.62,2,2025-02-19,C4901,South,West Alexander,Direct
+O100096,P9759,Newspaper,Electronics,BrandA,304.48,2,2025-01-20,C5269,East,Shawnaville,Social Media
+O100097,P7569,You,Apparel,BrandB,352.57,1,2025-03-21,C4643,West,Owensstad,Email
+O100098,P7140,Become,Beauty,BrandD,351.37,2,2025-04-08,C9061,South,Sharonhaven,Email
+O100099,P1776,Well,Home,BrandA,217.74,2,2025-04-14,C4218,West,Port Brandyburgh,Influencer
+O100100,P9396,Six,Electronics,BrandB,126.99,2,2025-05-07,C6075,East,Port Jeremy,Direct
+O100101,P8184,Imagine,Books,BrandB,403.03,2,2024-11-19,C7078,East,Jamesborough,Email
+O100102,P5186,Term,Apparel,BrandB,139.65,1,2025-01-25,C6215,South,Bartonhaven,Ads
+O100103,P7072,Miss,Books,BrandB,335.21,1,2024-12-25,C3721,North,Christopherport,Ads
+O100104,P1339,Build,Home,BrandA,90.5,2,2025-04-26,C6471,East,East Leslieberg,Ads
+O100105,P4658,Move,Books,BrandD,392.27,3,2025-01-06,C4942,East,New Jacob,Ads
+O100106,P1693,Only,Apparel,BrandC,350.97,2,2025-02-17,C2399,West,East Kimberlymouth,Direct
+O100107,P5178,Model,Home,BrandC,78.9,2,2025-05-07,C1958,West,South Heatherport,Social Media
+O100108,P9330,Particular,Apparel,BrandA,25.24,1,2025-03-27,C4645,East,East Anthonyview,Influencer
+O100109,P5378,Involve,Beauty,BrandB,476.85,1,2025-03-05,C1965,North,Carterview,Ads
+O100110,P2714,Six,Books,BrandC,356.55,2,2025-04-05,C6783,North,Markborough,Influencer
+O100111,P9200,Leave,Apparel,BrandD,263.49,1,2025-04-26,C9440,West,Ramseyhaven,Direct
+O100112,P6916,Start,Beauty,BrandA,303.43,3,2025-03-30,C5674,West,Andrewsside,Direct
+O100113,P9930,Receive,Books,BrandB,208.0,2,2024-11-18,C4150,East,West Franceschester,Influencer
+O100114,P6662,Clear,Beauty,BrandD,448.02,1,2025-05-10,C7525,West,Lake Andrew,Ads
+O100115,P7889,Finally,Beauty,BrandA,263.0,2,2025-01-15,C3710,West,South Taylor,Social Media
+O100116,P4823,Fish,Beauty,BrandB,109.88,3,2024-11-13,C2499,North,Harrisbury,Email
+O100117,P8894,Compare,Beauty,BrandB,79.93,3,2025-01-24,C6713,West,Port Jeffrey,Ads
+O100118,P4871,Impact,Books,BrandA,100.79,1,2025-05-06,C6727,East,East Lisachester,Direct
+O100119,P2145,Per,Apparel,BrandD,314.85,3,2025-02-18,C7394,South,Sarachester,Email
+O100120,P5945,Hand,Books,BrandD,212.45,3,2024-12-18,C3523,West,Robertton,Ads
+O100121,P2449,Present,Beauty,BrandB,190.04,3,2025-02-22,C6023,East,Jamesview,Email
+O100122,P6619,Simple,Home,BrandC,230.06,2,2025-02-27,C9243,South,Riosberg,Influencer
+O100123,P7426,Provide,Home,BrandA,252.78,3,2024-11-10,C4583,North,Leslietown,Social Media
+O100124,P7742,Wait,Electronics,BrandC,210.74,2,2025-05-01,C3263,North,East Amanda,Influencer
+O100125,P9191,Door,Electronics,BrandD,223.4,3,2025-05-01,C9229,East,Danahaven,Direct
+O100126,P3034,Professional,Home,BrandC,413.89,3,2024-12-19,C8309,East,New Cassandrashire,Direct
+O100127,P4219,Few,Electronics,BrandD,432.18,1,2024-11-25,C4197,East,West Johnberg,Ads
+O100128,P1485,Term,Electronics,BrandA,328.95,1,2024-12-14,C1471,South,South Juanton,Direct
+O100129,P4868,Institution,Beauty,BrandD,230.55,1,2025-04-29,C2876,South,South Jessicaberg,Social Media
+O100130,P4641,Operation,Books,BrandA,483.45,1,2025-03-09,C2975,South,Wendyhaven,Direct
+O100131,P2878,Trial,Apparel,BrandB,368.17,1,2025-01-25,C3314,South,East Davidton,Social Media
+O100132,P8183,Father,Electronics,BrandD,475.37,2,2025-02-24,C6818,North,Lauraland,Ads
+O100133,P1589,House,Electronics,BrandA,239.27,1,2024-12-23,C3905,South,Patriciashire,Direct
+O100134,P6524,Teach,Apparel,BrandA,486.11,3,2025-04-16,C3473,East,Port Sonya,Social Media
+O100135,P4838,Condition,Books,BrandC,313.23,3,2025-02-11,C6992,South,Morganside,Direct
+O100136,P3071,Environmental,Apparel,BrandA,446.64,1,2024-12-06,C8203,North,Port Cameron,Email
+O100137,P5996,Town,Home,BrandB,159.19,3,2025-02-07,C5936,North,Lopezchester,Email
+O100138,P2287,North,Electronics,BrandC,197.69,2,2025-03-30,C4274,South,Colemanborough,Ads
+O100139,P8870,Anyone,Electronics,BrandB,389.61,3,2024-12-29,C9286,North,Henryfurt,Social Media
+O100140,P3888,Difference,Electronics,BrandA,53.11,1,2025-01-05,C9839,East,Angelaborough,Email
+O100141,P8573,Throw,Books,BrandC,374.63,2,2024-11-27,C9543,East,Maytown,Direct
+O100142,P4942,Care,Books,BrandA,369.12,2,2025-03-31,C2942,West,Ramirezshire,Influencer
+O100143,P2069,Strong,Beauty,BrandA,62.68,3,2024-11-19,C1630,North,Johnsonmouth,Social Media
+O100144,P2801,Between,Beauty,BrandA,223.25,3,2025-04-25,C8993,West,Montesburgh,Direct
+O100145,P2318,Culture,Apparel,BrandC,94.16,2,2025-03-15,C8350,South,New Ericmouth,Email
+O100146,P6679,By,Electronics,BrandC,256.51,1,2025-04-19,C9262,West,West Luismouth,Email
+O100147,P1657,Possible,Beauty,BrandC,74.82,3,2025-02-25,C4491,South,East Jacobchester,Ads
+O100148,P7074,Military,Home,BrandA,358.94,3,2025-01-20,C8143,North,East Dianaton,Direct
+O100149,P9608,You,Apparel,BrandC,193.29,2,2025-01-07,C6302,West,South Jeff,Influencer
+O100150,P4532,Me,Books,BrandC,263.88,2,2024-11-10,C4404,West,Matthewton,Email
+O100151,P5622,Accept,Beauty,BrandC,386.3,1,2025-02-06,C1551,South,Weavertown,Ads
+O100152,P4159,Fact,Books,BrandD,211.53,2,2025-03-11,C7176,West,New Angelastad,Influencer
+O100153,P9710,Take,Home,BrandC,251.77,1,2025-05-07,C9485,West,Smithburgh,Direct
+O100154,P9139,Right,Books,BrandC,103.43,2,2025-03-06,C8448,East,Marksstad,Email
+O100155,P4658,Official,Books,BrandA,76.91,3,2024-12-14,C7867,South,New Yolanda,Social Media
+O100156,P8111,Every,Beauty,BrandC,310.74,3,2025-03-15,C9863,North,Bradleyville,Influencer
+O100157,P4149,Party,Apparel,BrandC,135.83,3,2025-04-15,C4011,North,Jonesburgh,Influencer
+O100158,P7868,Travel,Books,BrandA,84.41,3,2025-03-01,C2860,East,Melanieberg,Influencer
+O100159,P2824,Father,Books,BrandD,236.93,2,2025-01-18,C1428,South,East Timland,Email
+O100160,P2788,Make,Electronics,BrandC,38.27,1,2024-11-23,C3589,East,Meganton,Email
+O100161,P4321,President,Books,BrandA,72.5,1,2024-12-22,C8639,West,Lewismouth,Direct
+O100162,P4896,North,Home,BrandB,140.09,3,2025-01-05,C8863,East,Liubury,Ads
+O100163,P3736,Finish,Apparel,BrandB,407.13,1,2025-01-11,C2950,West,Nealland,Ads
+O100164,P6151,Will,Home,BrandB,340.72,3,2024-11-22,C9316,North,Ericamouth,Ads
+O100165,P3382,Heart,Books,BrandA,414.07,1,2024-12-07,C6244,North,East Ashley,Email
+O100166,P6156,Surface,Apparel,BrandA,78.65,1,2025-02-11,C4924,South,South Joshuaberg,Influencer
+O100167,P6672,Become,Books,BrandC,278.92,2,2024-11-21,C8642,North,Millerland,Social Media
+O100168,P6907,Employee,Apparel,BrandA,107.46,1,2024-12-04,C5908,North,West Matthew,Email
+O100169,P8401,Reality,Home,BrandA,446.02,1,2024-12-02,C1704,West,Richardstad,Email
+O100170,P1895,Deal,Books,BrandA,36.42,1,2024-12-05,C6451,North,Port Briantown,Direct
+O100171,P2226,Art,Home,BrandD,490.66,1,2025-03-22,C9263,East,Jenniferstad,Influencer
+O100172,P5408,Significant,Beauty,BrandC,336.19,1,2025-04-18,C5883,West,Raytown,Direct
+O100173,P8260,Instead,Electronics,BrandA,283.11,2,2025-05-03,C7918,West,Lake Connorland,Email
+O100174,P2926,Story,Home,BrandB,312.56,2,2025-03-30,C3095,East,West Teresastad,Ads
+O100175,P2625,Director,Electronics,BrandD,322.41,2,2025-01-29,C9282,East,New Amy,Social Media
+O100176,P6136,Will,Electronics,BrandB,347.83,3,2025-03-21,C1667,South,South David,Email
+O100177,P2577,Case,Home,BrandD,299.14,1,2025-05-02,C8511,East,Aaronville,Social Media
+O100178,P9783,Man,Beauty,BrandD,289.89,1,2024-12-11,C2101,West,Monicaton,Ads
+O100179,P1242,Read,Beauty,BrandA,374.32,1,2025-05-11,C1588,South,Port Elizabethburgh,Influencer
+O100180,P8448,Gas,Beauty,BrandC,44.35,1,2025-01-13,C5804,North,Richardberg,Ads
+O100181,P5245,Green,Books,BrandB,167.38,3,2025-01-25,C1693,South,Lake James,Direct
+O100182,P6351,Key,Apparel,BrandB,44.91,2,2025-01-26,C1570,North,North Susan,Direct
+O100183,P5279,Several,Electronics,BrandC,16.57,1,2025-04-20,C5583,North,Tracystad,Direct
+O100184,P6003,Soon,Electronics,BrandC,286.24,3,2025-03-31,C2738,South,Josephberg,Direct
+O100185,P5089,Today,Home,BrandC,112.53,3,2024-11-20,C4135,East,Ericburgh,Direct
+O100186,P8681,Store,Home,BrandB,202.83,2,2025-04-12,C7883,West,Woodmouth,Influencer
+O100187,P8886,News,Apparel,BrandD,236.76,3,2024-12-21,C1799,South,Port Larryborough,Influencer
+O100188,P7158,News,Books,BrandC,27.79,1,2024-11-13,C2486,East,New Charleston,Ads
+O100189,P8005,Including,Electronics,BrandA,255.01,3,2025-02-25,C2464,East,North Maryside,Influencer
+O100190,P1941,New,Apparel,BrandB,208.15,1,2024-11-30,C2909,East,Michellestad,Influencer
+O100191,P9062,More,Apparel,BrandB,289.58,3,2025-05-08,C7975,West,Mclaughlinhaven,Ads
+O100192,P7761,Bar,Electronics,BrandB,262.4,2,2025-02-09,C5206,West,Lake Katherineland,Social Media
+O100193,P5065,As,Electronics,BrandC,437.92,2,2025-02-28,C5878,North,Morganview,Ads
+O100194,P5751,Computer,Apparel,BrandD,267.61,2,2025-02-04,C8884,East,Mooretown,Direct
+O100195,P1201,Degree,Books,BrandB,34.14,1,2025-01-21,C9979,South,Nicholeshire,Social Media
+O100196,P4678,Generation,Electronics,BrandA,58.7,1,2024-11-27,C3460,North,South Francistown,Direct
+O100197,P7517,Your,Beauty,BrandB,118.28,1,2025-05-07,C2599,West,Perezhaven,Influencer
+O100198,P7249,Improve,Electronics,BrandA,483.57,1,2025-02-26,C4341,East,Griffithfort,Direct
+O100199,P5999,Kitchen,Apparel,BrandC,144.75,2,2025-03-22,C3670,North,East Ashley,Email
+O100200,P3418,Choose,Beauty,BrandD,153.38,2,2025-02-10,C4849,South,Lake Alicia,Ads
+O100201,P7696,Simply,Apparel,BrandA,396.72,1,2025-03-13,C7804,West,Brownton,Ads
+O100202,P7200,Safe,Apparel,BrandA,205.97,2,2025-02-24,C9550,West,Lemouth,Social Media
+O100203,P2113,Week,Electronics,BrandD,381.42,1,2025-03-30,C3103,South,Katherineside,Direct
+O100204,P8975,Wife,Electronics,BrandC,66.36,3,2025-01-25,C7677,West,Lake Benjamin,Ads
+O100205,P3518,Stand,Beauty,BrandB,331.41,3,2025-01-08,C2183,East,Fitzgeraldfurt,Email
+O100206,P1329,Type,Beauty,BrandC,148.96,2,2025-03-09,C9331,West,Jasonfort,Direct
+O100207,P2541,Exactly,Books,BrandB,18.9,1,2025-02-21,C4360,East,Melissashire,Ads
+O100208,P5341,No,Apparel,BrandD,139.8,1,2025-04-23,C9338,East,Lake Lawrence,Direct
+O100209,P1592,Idea,Apparel,BrandA,85.18,3,2025-01-15,C5635,West,Edwardschester,Influencer
+O100210,P7173,Rich,Home,BrandD,353.38,3,2025-02-15,C7283,West,North Anthony,Social Media
+O100211,P8874,Cut,Apparel,BrandB,133.56,3,2025-03-29,C8909,South,Joshuamouth,Email
+O100212,P4550,Role,Home,BrandB,167.9,3,2025-02-09,C2658,North,Gonzalezview,Email
+O100213,P9518,Soldier,Electronics,BrandA,434.31,2,2025-03-03,C5813,North,South Nicole,Influencer
+O100214,P5648,Likely,Books,BrandB,140.36,3,2024-12-09,C1428,North,Bennettfort,Email
+O100215,P6987,Seat,Beauty,BrandC,52.04,2,2025-03-13,C8170,East,Lake Ericville,Social Media
+O100216,P2676,Run,Apparel,BrandD,150.3,2,2025-01-12,C3631,South,Martinport,Influencer
+O100217,P6251,Food,Books,BrandB,470.62,2,2025-01-16,C7105,East,New Thomashaven,Email
+O100218,P7024,Food,Beauty,BrandC,178.68,1,2025-02-13,C7856,West,Glennhaven,Ads
+O100219,P5450,Society,Home,BrandC,303.57,3,2025-04-01,C5459,South,Richardbury,Influencer
+O100220,P3704,Notice,Apparel,BrandD,31.26,2,2025-03-30,C7176,North,North Joshua,Email
+O100221,P9031,Court,Electronics,BrandC,398.16,2,2024-12-11,C1614,South,Parsonsfurt,Ads
+O100222,P4075,Son,Apparel,BrandB,329.26,2,2025-01-23,C9222,West,Natalieshire,Email
+O100223,P9093,Use,Beauty,BrandD,353.33,1,2025-04-25,C1984,North,East Heatherborough,Email
+O100224,P8747,Require,Electronics,BrandA,20.3,2,2024-12-31,C2472,West,Pamelafurt,Social Media
+O100225,P8459,Painting,Home,BrandB,126.19,1,2025-01-11,C9870,North,East Bradleystad,Direct
+O100226,P6035,Economy,Books,BrandB,225.72,2,2024-11-26,C5823,East,West Melissastad,Ads
+O100227,P1028,Safe,Apparel,BrandD,296.17,2,2025-05-06,C5217,West,East Michael,Ads
+O100228,P6247,He,Beauty,BrandC,93.32,3,2025-04-21,C3897,East,South Cameron,Influencer
+O100229,P1812,Focus,Electronics,BrandC,200.12,1,2024-12-23,C1091,West,Lake Lawrencestad,Influencer
+O100230,P6053,First,Beauty,BrandA,355.14,2,2025-05-02,C1619,North,Fernandezview,Ads
+O100231,P2015,Ability,Apparel,BrandC,189.55,1,2024-12-24,C6748,West,Annaport,Social Media
+O100232,P5934,Office,Apparel,BrandB,276.13,3,2024-12-06,C2801,North,West Cindyberg,Social Media
+O100233,P7985,Finish,Electronics,BrandB,372.7,1,2025-05-01,C9276,South,Bautistamouth,Direct
+O100234,P4321,Decision,Beauty,BrandB,229.71,1,2025-02-16,C3900,North,Port Keithborough,Ads
+O100235,P6129,Environmental,Electronics,BrandC,101.09,3,2025-05-03,C3431,North,Deborahfurt,Ads
+O100236,P6419,Since,Electronics,BrandD,66.43,1,2024-12-16,C7031,North,Tommychester,Influencer
+O100237,P3018,Example,Electronics,BrandB,143.4,2,2025-04-21,C3105,South,South Jamesstad,Influencer
+O100238,P5172,Care,Books,BrandB,49.05,2,2025-03-23,C8488,West,West Rachaelborough,Social Media
+O100239,P3369,Child,Electronics,BrandA,343.75,1,2025-04-19,C5172,South,Richardfurt,Social Media
+O100240,P1172,Imagine,Apparel,BrandB,274.08,1,2025-04-05,C9676,East,Jackview,Influencer
+O100241,P4595,Song,Home,BrandB,128.41,2,2025-01-13,C4009,North,Cameronton,Influencer
+O100242,P5278,Both,Beauty,BrandB,315.07,1,2025-01-13,C6423,North,West Matthewbury,Ads
+O100243,P3423,Organization,Home,BrandC,407.59,1,2025-04-02,C7032,East,Jenniferview,Social Media
+O100244,P6200,Process,Apparel,BrandC,59.01,3,2024-12-22,C7940,North,Lindsayland,Ads
+O100245,P5267,Also,Beauty,BrandC,162.3,1,2025-01-01,C1328,South,New Andreaberg,Social Media
+O100246,P2196,Natural,Apparel,BrandA,50.94,3,2025-02-18,C5541,East,Jennabury,Email
+O100247,P5320,Call,Apparel,BrandD,213.3,2,2024-12-30,C2740,North,Carrollmouth,Social Media
+O100248,P1903,Bed,Apparel,BrandB,449.66,2,2025-02-15,C4894,East,South Kylestad,Email
+O100249,P3004,Style,Home,BrandD,280.01,3,2025-04-14,C4418,North,South Rebecca,Direct
+O100250,P2717,Feeling,Electronics,BrandA,197.78,1,2024-12-08,C2532,East,Gomezbury,Direct
+O100251,P9452,Language,Electronics,BrandC,79.57,1,2025-01-02,C8972,North,Tammyside,Ads
+O100252,P1318,Sense,Home,BrandC,182.0,3,2024-12-16,C7911,East,East Diane,Email
+O100253,P8750,Tree,Electronics,BrandA,300.56,1,2025-03-29,C2138,South,Perezhaven,Influencer
+O100254,P3765,Brother,Electronics,BrandC,488.71,1,2025-01-09,C6608,North,East Frank,Ads
+O100255,P4347,Group,Apparel,BrandA,44.24,1,2025-01-10,C9282,South,Joneschester,Ads
+O100256,P5415,Off,Home,BrandB,463.38,1,2025-02-18,C6892,North,Nguyenborough,Direct
+O100257,P8583,Rather,Electronics,BrandC,141.12,3,2025-03-31,C9195,West,Nelsonland,Social Media
+O100258,P1485,Station,Beauty,BrandC,180.1,1,2025-04-26,C9581,South,Keithmouth,Social Media
+O100259,P3522,Loss,Home,BrandD,82.26,3,2025-01-17,C7993,East,Dannybury,Ads
+O100260,P6867,Assume,Beauty,BrandD,460.43,2,2025-01-21,C6889,West,Chrisville,Ads
+O100261,P6818,Game,Home,BrandD,253.3,1,2025-05-07,C8055,South,Davidsonside,Ads
+O100262,P1153,With,Home,BrandC,191.35,3,2025-01-19,C1637,South,West Nancy,Email
+O100263,P2917,Various,Beauty,BrandA,39.58,3,2025-02-01,C7626,North,West Stephenview,Influencer
+O100264,P4808,Cell,Books,BrandA,58.91,1,2025-01-25,C9462,South,New Larry,Ads
+O100265,P7189,Officer,Books,BrandD,337.29,2,2025-03-21,C8790,East,Sydneyburgh,Influencer
+O100266,P9373,Run,Apparel,BrandA,363.77,3,2024-12-28,C3404,East,Caitlynport,Email
+O100267,P6186,Necessary,Home,BrandA,88.85,1,2025-02-18,C1969,North,New Nicoleview,Direct
+O100268,P7374,Next,Electronics,BrandB,153.58,2,2025-03-25,C5779,North,Beverlyville,Ads
+O100269,P6443,Physical,Home,BrandC,423.69,1,2024-12-08,C7018,North,Susanview,Influencer
+O100270,P3813,Here,Books,BrandD,335.51,1,2025-01-31,C8702,North,Markstad,Social Media
+O100271,P3672,Side,Beauty,BrandD,24.89,3,2025-02-25,C1428,East,Austinborough,Ads
+O100272,P7320,Be,Beauty,BrandD,483.95,3,2025-02-12,C5596,East,South April,Direct
+O100273,P7863,Public,Home,BrandA,117.22,2,2025-02-07,C6449,East,Reynoldshaven,Influencer
+O100274,P9693,We,Beauty,BrandB,413.06,3,2024-12-19,C7207,South,Lake Kevin,Ads
+O100275,P4998,Side,Electronics,BrandA,385.51,3,2025-02-20,C7777,South,Matthewland,Social Media
+O100276,P6744,Community,Apparel,BrandB,487.16,1,2024-11-15,C5687,East,North Jerrymouth,Ads
+O100277,P4775,Ground,Beauty,BrandA,74.93,2,2025-03-27,C3730,East,Jonesmouth,Email
+O100278,P9213,War,Apparel,BrandC,249.51,3,2025-01-13,C1457,North,Lunaport,Direct
+O100279,P4340,Side,Books,BrandC,340.76,3,2025-01-02,C6195,South,West Ryan,Social Media
+O100280,P8031,Now,Apparel,BrandA,312.46,3,2025-02-10,C3511,East,Leeville,Email
+O100281,P7888,Scene,Apparel,BrandC,191.19,1,2025-04-12,C6352,South,Englishstad,Direct
+O100282,P9266,Old,Books,BrandA,38.75,2,2025-03-02,C6489,West,West Nathanmouth,Influencer
+O100283,P9721,Visit,Electronics,BrandA,409.97,1,2024-11-26,C7492,North,North Henryland,Influencer
+O100284,P9900,Outside,Home,BrandB,287.93,2,2024-11-26,C4287,South,Houseburgh,Direct
+O100285,P7610,Sound,Books,BrandC,421.37,2,2025-02-28,C8688,South,Morenofort,Ads
+O100286,P3692,Case,Home,BrandC,449.79,3,2024-12-04,C2381,East,Coopermouth,Social Media
+O100287,P7669,Beat,Beauty,BrandB,391.14,2,2025-03-30,C4090,North,South Andreafort,Influencer
+O100288,P7203,Information,Apparel,BrandA,348.89,2,2025-02-03,C3848,West,West Lisaport,Ads
+O100289,P7873,Guy,Books,BrandC,339.69,1,2025-01-29,C5662,West,Pittmanshire,Direct
+O100290,P5328,Leader,Home,BrandB,16.33,1,2024-11-18,C2971,South,South Laurenton,Influencer
+O100291,P9209,Cup,Apparel,BrandA,137.67,1,2025-03-27,C4716,South,Petersonberg,Social Media
+O100292,P3448,Serious,Apparel,BrandD,20.62,1,2025-02-08,C3243,East,Rachelfurt,Influencer
+O100293,P8398,Scene,Beauty,BrandA,275.77,2,2024-12-26,C6581,South,Rogersbury,Email
+O100294,P9178,Together,Beauty,BrandD,423.57,3,2025-02-22,C3178,North,Wrightfurt,Influencer
+O100295,P8432,Follow,Electronics,BrandB,343.12,2,2025-01-22,C8429,South,Jaredtown,Direct
+O100296,P4196,Meet,Home,BrandB,77.4,2,2025-04-27,C2511,West,Turnerstad,Social Media
+O100297,P2353,Eight,Beauty,BrandC,440.6,2,2025-01-12,C5861,North,Frenchmouth,Email
+O100298,P6421,Wish,Electronics,BrandD,36.29,2,2025-03-16,C9823,West,Amandafort,Email
+O100299,P8055,Will,Electronics,BrandD,397.27,2,2025-01-13,C1504,South,Robertburgh,Influencer
+O100300,P2132,Beat,Books,BrandA,404.65,1,2025-01-06,C1935,West,East Kimberly,Email
+O100301,P9989,Bad,Apparel,BrandC,25.95,3,2025-04-29,C9352,East,Lake Toddfurt,Ads
+O100302,P1025,Loss,Beauty,BrandC,132.77,1,2024-12-03,C6509,South,West Stephanie,Social Media
+O100303,P8803,Staff,Home,BrandA,202.64,1,2024-12-16,C7081,South,East Andrewtown,Social Media
+O100304,P4640,Friend,Beauty,BrandC,383.21,2,2025-05-02,C5881,South,Rhondahaven,Influencer
+O100305,P9907,Say,Apparel,BrandC,384.59,1,2025-01-08,C6994,West,Lake Douglas,Ads
+O100306,P4467,Something,Electronics,BrandB,440.49,1,2024-12-19,C3984,West,South Cherylmouth,Influencer
+O100307,P5512,Lead,Beauty,BrandD,221.44,1,2025-02-20,C1460,East,South Patrick,Email
+O100308,P3499,Successful,Beauty,BrandD,17.49,2,2024-12-16,C1744,North,East Robertstad,Email
+O100309,P9309,Those,Electronics,BrandB,258.71,3,2025-03-17,C2547,East,Port Angela,Social Media
+O100310,P9652,Happen,Electronics,BrandD,236.1,2,2024-11-23,C4243,North,Lake Crystalport,Social Media
+O100311,P2949,Clear,Electronics,BrandB,342.33,3,2024-11-16,C1069,South,Lake Cynthia,Influencer
+O100312,P6779,Series,Books,BrandB,379.32,2,2025-01-20,C3974,South,Nelsonshire,Ads
+O100313,P9330,Another,Home,BrandC,256.11,3,2025-04-27,C5061,North,West Nathaniel,Ads
+O100314,P6382,Hard,Books,BrandD,64.63,1,2025-04-21,C1960,South,West David,Email
+O100315,P3656,Give,Electronics,BrandA,102.16,2,2025-03-16,C9451,West,New Thomaschester,Direct
+O100316,P1685,Identify,Electronics,BrandB,73.25,3,2025-04-28,C5138,West,Rodriguezberg,Direct
+O100317,P4779,Record,Books,BrandB,178.36,2,2024-12-01,C1123,West,East Angelabury,Direct
+O100318,P8394,Few,Electronics,BrandD,319.9,1,2024-12-29,C3497,West,New Teresaview,Social Media
+O100319,P8413,Compare,Books,BrandD,65.14,2,2024-12-20,C3751,South,Lauratown,Ads
+O100320,P8865,Book,Apparel,BrandD,93.36,3,2025-01-06,C9025,North,East Krystalfurt,Influencer
+O100321,P7700,Part,Apparel,BrandD,458.97,1,2025-01-19,C6676,East,Lake Dillon,Email
+O100322,P5065,Beat,Home,BrandA,138.7,1,2025-02-23,C7341,South,West Jonathan,Social Media
+O100323,P4006,Meet,Books,BrandD,30.8,1,2025-02-24,C5070,South,West Michaelborough,Ads
+O100324,P9851,Nation,Apparel,BrandA,224.11,2,2025-04-09,C8141,South,Joneschester,Direct
+O100325,P7508,Heavy,Apparel,BrandC,205.49,3,2025-05-05,C9081,North,Kimberlyside,Influencer
+O100326,P2527,No,Books,BrandA,10.77,1,2024-12-09,C4644,South,Jonesborough,Email
+O100327,P1075,Quite,Books,BrandD,202.04,2,2025-01-07,C8304,North,Snydermouth,Direct
+O100328,P3706,Military,Beauty,BrandD,41.96,2,2024-12-23,C8186,North,Murphyport,Direct
+O100329,P1223,Realize,Electronics,BrandD,209.0,2,2025-03-06,C1745,North,Lake Douglasshire,Influencer
+O100330,P7678,See,Beauty,BrandB,81.49,3,2024-12-17,C5182,East,East Christopherbury,Influencer
+O100331,P8556,Money,Apparel,BrandA,351.17,1,2024-12-10,C5944,East,South Jeffrey,Social Media
+O100332,P8805,Manage,Electronics,BrandA,247.57,2,2025-04-18,C9477,South,East Cheryl,Email
+O100333,P9753,Himself,Electronics,BrandC,50.43,2,2025-03-15,C5581,South,East Amandahaven,Email
+O100334,P2918,Share,Apparel,BrandB,280.29,3,2025-01-19,C2185,North,Jenniferstad,Direct
+O100335,P5891,Term,Electronics,BrandB,314.15,2,2025-02-12,C4344,West,Nicholefort,Direct
+O100336,P6503,Husband,Electronics,BrandA,100.68,2,2024-11-20,C7400,North,Chrisfurt,Direct
+O100337,P3460,Record,Home,BrandD,113.1,3,2025-01-10,C2858,East,Huntside,Ads
+O100338,P8807,Collection,Beauty,BrandA,496.65,1,2025-02-08,C4620,South,Port Juliemouth,Direct
+O100339,P5474,Up,Electronics,BrandD,248.97,1,2024-12-13,C3651,West,Michaelview,Influencer
+O100340,P2661,Under,Home,BrandD,102.91,2,2025-01-07,C5550,North,Ochoabury,Direct
+O100341,P1699,Several,Books,BrandB,318.06,2,2024-12-31,C8342,North,South Cathyshire,Social Media
+O100342,P3232,Make,Books,BrandA,30.96,2,2025-05-01,C9833,South,West Stephenview,Email
+O100343,P9322,Anyone,Electronics,BrandB,431.46,3,2024-11-18,C1491,East,Rodneytown,Ads
+O100344,P9143,And,Apparel,BrandC,13.52,3,2025-01-05,C5718,South,North Troy,Direct
+O100345,P4362,Open,Apparel,BrandC,287.97,1,2025-05-11,C3644,South,Johnnychester,Email
+O100346,P8912,Car,Apparel,BrandC,219.66,3,2025-04-10,C2550,East,Port Sherry,Direct
+O100347,P7182,Rich,Home,BrandC,289.83,3,2024-11-29,C7550,North,Collinstown,Direct
+O100348,P6979,Cold,Apparel,BrandC,486.49,1,2024-12-05,C3896,East,Lopezburgh,Email
+O100349,P5410,Writer,Electronics,BrandD,133.81,1,2025-03-19,C9066,East,North Regina,Influencer
+O100350,P6111,Become,Beauty,BrandC,380.55,2,2025-02-08,C2512,North,Dunlapville,Email
+O100351,P1558,Dinner,Home,BrandD,26.47,2,2025-02-24,C3887,South,Port Roberto,Influencer
+O100352,P7107,Pick,Beauty,BrandC,40.03,3,2024-12-31,C6117,East,New Jeremyberg,Direct
+O100353,P4624,Very,Beauty,BrandB,485.63,2,2024-11-11,C3849,South,Lake Jamesbury,Social Media
+O100354,P7794,Single,Beauty,BrandB,355.09,3,2025-04-03,C8897,East,North Carl,Ads
+O100355,P2838,Believe,Apparel,BrandC,116.47,1,2024-11-29,C9104,North,Bellburgh,Ads
+O100356,P9217,Skin,Apparel,BrandC,320.74,3,2025-04-11,C5150,South,East Emily,Ads
+O100357,P1414,Whom,Books,BrandA,358.16,3,2024-11-17,C6593,North,North Howardborough,Direct
+O100358,P1228,Physical,Books,BrandD,302.1,2,2024-12-16,C3807,North,Brianberg,Ads
+O100359,P8916,Enjoy,Books,BrandD,487.62,3,2025-02-14,C8488,North,West Michele,Influencer
+O100360,P6868,Phone,Apparel,BrandD,318.27,1,2025-03-11,C3647,East,Randyfort,Email
+O100361,P8594,Thousand,Home,BrandC,428.61,1,2024-12-14,C2816,North,Jonathantown,Email
+O100362,P9073,Real,Electronics,BrandC,93.94,2,2024-11-17,C6899,North,North Kevinhaven,Ads
+O100363,P2028,Candidate,Home,BrandD,280.59,3,2025-04-01,C3985,North,Stevenbury,Social Media
+O100364,P5203,From,Electronics,BrandC,325.77,2,2025-02-08,C4057,South,Olsonville,Social Media
+O100365,P9951,Find,Apparel,BrandA,441.5,3,2025-01-14,C5812,West,New Benjamin,Email
+O100366,P7689,Think,Books,BrandB,402.58,3,2025-04-04,C4771,East,East Courtney,Email
+O100367,P1479,Instead,Electronics,BrandA,174.63,2,2025-03-09,C4557,East,North Melissaton,Email
+O100368,P3702,Light,Home,BrandA,84.95,3,2024-11-25,C8374,East,Courtneystad,Social Media
+O100369,P7175,Policy,Books,BrandD,308.79,3,2024-11-12,C2697,West,East Chloe,Social Media
+O100370,P3743,Teacher,Electronics,BrandC,307.45,1,2025-04-13,C5774,South,Herrerafort,Influencer
+O100371,P8600,Show,Books,BrandD,154.54,1,2024-12-16,C8520,East,New Reginald,Direct
+O100372,P1839,Maybe,Beauty,BrandA,243.3,3,2024-12-15,C5555,West,Port Veronicaville,Social Media
+O100373,P1186,Government,Electronics,BrandC,321.74,3,2025-03-15,C2185,South,Krausemouth,Influencer
+O100374,P5628,Imagine,Books,BrandA,306.93,1,2025-04-24,C7988,North,Romeroland,Direct
+O100375,P9745,Every,Electronics,BrandD,215.48,2,2025-02-15,C5085,East,Amyton,Direct
+O100376,P8255,Phone,Beauty,BrandA,206.46,2,2025-05-02,C4556,North,Port Jasonland,Influencer
+O100377,P7330,Those,Books,BrandC,407.3,2,2025-04-28,C4661,North,West Michaelview,Ads
+O100378,P9789,Store,Books,BrandB,490.02,3,2025-04-01,C3091,East,Peggyton,Influencer
+O100379,P2230,Laugh,Books,BrandA,230.82,1,2025-03-26,C3997,North,Avilaland,Direct
+O100380,P8244,Sign,Apparel,BrandC,216.62,3,2025-02-02,C9381,North,Traceybury,Ads
+O100381,P9556,It,Beauty,BrandB,437.9,1,2025-01-30,C3651,North,Haroldton,Influencer
+O100382,P1783,The,Books,BrandA,497.64,3,2025-04-03,C1229,West,Lake Aaronview,Social Media
+O100383,P6284,Sure,Beauty,BrandC,338.5,1,2025-02-26,C3114,West,New Colleen,Ads
+O100384,P1808,Leader,Books,BrandB,321.69,3,2024-11-25,C4269,West,Maryhaven,Email
+O100385,P6906,Glass,Beauty,BrandB,116.02,2,2025-03-08,C9720,South,Lake Christopherside,Email
+O100386,P4820,Attorney,Apparel,BrandB,297.52,1,2025-05-10,C1737,West,Caseyville,Direct
+O100387,P2864,Information,Beauty,BrandB,111.78,3,2024-11-25,C5216,East,South Matthewville,Social Media
+O100388,P1717,Book,Apparel,BrandB,479.63,2,2024-12-08,C1282,South,East Jennifer,Ads
+O100389,P3400,Example,Beauty,BrandD,477.21,3,2025-05-07,C6647,East,North Kerry,Ads
+O100390,P7522,Few,Apparel,BrandD,343.72,3,2024-12-26,C6808,West,New Manuelstad,Direct
+O100391,P2417,Truth,Electronics,BrandB,219.27,1,2025-02-11,C6475,North,West Scott,Social Media
+O100392,P7694,Line,Home,BrandA,311.91,1,2024-12-01,C5500,East,South Jimmyland,Influencer
+O100393,P3510,Front,Apparel,BrandA,483.21,2,2024-12-23,C1942,North,New Leahhaven,Direct
+O100394,P9084,Far,Books,BrandB,156.92,2,2025-03-20,C9247,South,Allisonmouth,Email
+O100395,P8355,Difference,Home,BrandD,383.59,3,2025-04-23,C8718,South,North Danielleville,Social Media
+O100396,P9898,System,Electronics,BrandB,57.29,3,2025-02-07,C3627,East,Davenportton,Influencer
+O100397,P4425,Five,Electronics,BrandB,196.66,3,2025-04-10,C5813,West,West Trevorshire,Email
+O100398,P9648,Relate,Beauty,BrandC,35.25,3,2024-12-25,C3176,West,Lake Bryanhaven,Direct
+O100399,P5102,Affect,Books,BrandC,186.16,1,2024-12-08,C8998,West,Smithshire,Ads
+O100400,P7571,Wonder,Beauty,BrandD,417.59,3,2025-03-12,C8426,East,Davidborough,Email
+O100401,P1223,Whose,Books,BrandD,323.57,1,2025-03-06,C4235,South,North Sharon,Direct
+O100402,P9879,Significant,Electronics,BrandA,13.09,2,2025-05-06,C2316,South,Port Lisamouth,Social Media
+O100403,P6706,Different,Books,BrandB,122.45,2,2024-12-09,C1091,West,Bishopview,Influencer
+O100404,P1076,Subject,Beauty,BrandA,333.17,2,2025-01-20,C7990,West,New Tracyview,Email
+O100405,P3344,Whole,Home,BrandD,447.55,2,2025-03-09,C3927,South,North Amanda,Social Media
+O100406,P4673,He,Electronics,BrandB,472.8,3,2025-02-10,C1767,North,New Shawnaview,Influencer
+O100407,P8844,Often,Electronics,BrandC,30.22,1,2025-03-09,C9763,East,Port Wendyhaven,Influencer
+O100408,P9306,Mind,Apparel,BrandD,413.16,1,2025-01-17,C9660,North,Thompsonberg,Direct
+O100409,P4533,Decade,Home,BrandB,17.36,1,2025-01-23,C4657,West,Fitzgeraldhaven,Social Media
+O100410,P4918,Example,Books,BrandC,368.7,1,2025-04-20,C6185,East,Port Franciscoberg,Direct
+O100411,P7770,Human,Apparel,BrandB,161.19,1,2024-12-31,C7725,North,Bergerhaven,Direct
+O100412,P7302,Require,Electronics,BrandA,152.76,3,2025-03-08,C2146,East,New Kelly,Ads
+O100413,P9274,Subject,Beauty,BrandC,444.21,3,2025-03-07,C3438,South,Schneiderberg,Direct
+O100414,P3419,Film,Beauty,BrandB,187.05,1,2024-12-30,C9006,North,Smithstad,Influencer
+O100415,P3345,Official,Beauty,BrandC,290.15,1,2025-01-18,C9203,West,Sotohaven,Email
+O100416,P8588,Once,Electronics,BrandA,150.58,1,2025-02-11,C9161,South,Corystad,Email
+O100417,P1273,Meeting,Home,BrandD,188.69,1,2025-02-27,C9442,West,Jerryhaven,Influencer
+O100418,P6088,Region,Apparel,BrandC,401.76,3,2025-01-19,C2566,South,Port Donnastad,Ads
+O100419,P2109,Today,Books,BrandD,488.71,3,2024-12-17,C6509,North,West Kenneth,Email
+O100420,P5151,Step,Apparel,BrandD,269.51,2,2025-03-05,C1145,North,Jessicaville,Ads
+O100421,P7091,Teach,Books,BrandC,334.62,2,2025-03-31,C2326,North,West Lori,Influencer
+O100422,P7072,Interest,Apparel,BrandA,152.49,2,2025-01-03,C9538,East,New Alvinmouth,Ads
+O100423,P5172,Same,Home,BrandA,86.53,2,2024-12-18,C2251,South,Richardsonfort,Direct
+O100424,P1994,Account,Electronics,BrandD,184.82,2,2025-03-21,C4113,East,Meyermouth,Social Media
+O100425,P1271,Score,Books,BrandA,95.47,1,2024-12-26,C3288,East,Avilatown,Email
+O100426,P2085,Situation,Beauty,BrandD,211.98,2,2025-05-04,C7101,South,Ronaldton,Influencer
+O100427,P4195,Occur,Apparel,BrandB,252.6,3,2025-04-16,C6607,East,Nicholasview,Social Media
+O100428,P8111,Week,Apparel,BrandD,153.1,2,2025-03-10,C6085,West,New Erinport,Email
+O100429,P6782,Behind,Beauty,BrandA,42.85,3,2024-11-25,C6027,South,Grahamborough,Ads
+O100430,P6677,Join,Books,BrandD,162.02,2,2024-11-23,C5839,East,Ashleyhaven,Direct
+O100431,P6920,Very,Home,BrandD,199.66,2,2025-04-06,C7456,West,South Christopherland,Influencer
+O100432,P7118,Allow,Electronics,BrandD,233.86,2,2025-01-27,C8571,South,Jenkinsmouth,Social Media
+O100433,P3056,Pattern,Books,BrandB,333.89,2,2025-02-04,C4774,North,East Brianview,Social Media
+O100434,P7911,Security,Electronics,BrandA,68.39,1,2025-02-17,C3006,North,East Christineport,Influencer
+O100435,P3581,Dog,Apparel,BrandD,148.3,1,2025-01-26,C7014,East,Danielfurt,Ads
+O100436,P4598,Voice,Beauty,BrandA,225.07,2,2025-05-10,C5054,East,Rowefort,Influencer
+O100437,P9693,Message,Home,BrandC,431.69,1,2025-04-29,C7043,East,Phamland,Email
+O100438,P6809,Personal,Beauty,BrandC,223.0,3,2025-03-11,C6160,South,Christopherhaven,Social Media
+O100439,P1466,Fight,Home,BrandC,41.15,2,2025-02-27,C2855,West,Lake Annette,Social Media
+O100440,P4589,Miss,Apparel,BrandB,314.67,3,2025-01-12,C7242,West,Mcdanielchester,Email
+O100441,P5733,Difficult,Books,BrandB,328.78,3,2025-02-25,C1268,South,Lake Ashleyland,Email
+O100442,P9571,Road,Electronics,BrandB,381.84,3,2025-01-13,C1713,South,Lake Shawnville,Social Media
+O100443,P6292,Itself,Home,BrandB,472.97,3,2025-01-27,C1766,South,South Chelseamouth,Direct
+O100444,P3144,Professional,Apparel,BrandC,160.86,1,2024-12-07,C2054,South,New Brittany,Social Media
+O100445,P7449,Move,Electronics,BrandA,287.12,1,2024-12-16,C4477,West,Phillipstown,Direct
+O100446,P6493,They,Books,BrandC,285.88,1,2025-04-24,C4928,South,Edwardsside,Direct
+O100447,P1028,Beyond,Beauty,BrandA,181.59,1,2025-01-11,C9637,North,Jonathanmouth,Email
+O100448,P2822,Heavy,Apparel,BrandA,442.32,1,2025-03-30,C3647,East,East Rebecca,Direct
+O100449,P1163,Worry,Electronics,BrandD,107.25,2,2025-04-18,C7658,South,Donaldberg,Email
+O100450,P6797,What,Electronics,BrandD,467.7,2,2024-12-29,C2720,West,Lake Jamesborough,Social Media
+O100451,P4020,No,Home,BrandA,358.28,1,2025-04-28,C4946,North,Lake Michael,Social Media
+O100452,P4133,Would,Home,BrandA,97.2,1,2025-03-18,C8932,South,Sydneychester,Influencer
+O100453,P3572,Today,Home,BrandC,13.77,3,2025-04-18,C1010,North,South Andrew,Direct
+O100454,P3515,Available,Home,BrandA,67.91,2,2024-11-28,C5917,East,West Audreyhaven,Social Media
+O100455,P4088,Plan,Apparel,BrandD,203.76,1,2025-01-10,C1248,South,Josephmouth,Direct
+O100456,P8463,Always,Apparel,BrandD,397.7,1,2025-02-25,C4653,North,Jamesfort,Ads
+O100457,P6270,Line,Apparel,BrandA,196.31,3,2025-04-18,C3573,East,Brittanybury,Influencer
+O100458,P6080,Increase,Books,BrandD,391.81,3,2025-02-28,C8261,West,Jasonmouth,Social Media
+O100459,P9821,Sign,Books,BrandD,256.57,2,2025-04-13,C2341,West,South Nancyfurt,Direct
+O100460,P8018,Any,Apparel,BrandA,419.06,3,2024-11-25,C6764,South,Lake Bradley,Email
+O100461,P9556,Ahead,Electronics,BrandA,344.35,1,2025-04-11,C1549,West,Santiagochester,Influencer
+O100462,P6796,Last,Home,BrandB,402.87,3,2025-03-21,C2157,East,New Philipville,Social Media
+O100463,P5320,Very,Beauty,BrandC,136.91,3,2025-01-01,C6472,South,Port Kimberly,Direct
+O100464,P2189,Place,Books,BrandA,281.08,3,2024-11-16,C7213,North,Nguyenborough,Ads
+O100465,P4532,Next,Beauty,BrandD,330.26,3,2025-04-27,C2885,West,Port Brian,Social Media
+O100466,P4347,Art,Beauty,BrandB,253.17,2,2025-01-17,C5986,East,Mooreville,Social Media
+O100467,P4408,Message,Beauty,BrandD,476.93,2,2025-04-18,C3834,West,New Mary,Direct
+O100468,P1159,Because,Books,BrandC,161.3,3,2025-02-26,C4812,North,West Kristen,Email
+O100469,P9063,Forward,Electronics,BrandB,42.26,3,2024-11-30,C9601,West,Lake Elizabethside,Direct
+O100470,P7983,Spring,Home,BrandD,342.58,1,2025-02-03,C5256,West,Markland,Email
+O100471,P2308,Moment,Books,BrandB,479.55,2,2024-12-13,C9651,East,Harrisside,Ads
+O100472,P2554,Room,Home,BrandA,362.68,1,2025-03-22,C3317,West,Curtisfort,Social Media
+O100473,P7275,Water,Home,BrandD,234.31,2,2025-01-14,C1100,North,West Matthewmouth,Social Media
+O100474,P5466,Type,Beauty,BrandB,18.8,3,2025-03-07,C1209,East,Port Stephanie,Influencer
+O100475,P9249,Always,Books,BrandB,336.1,1,2025-03-22,C2744,North,Seanborough,Direct
+O100476,P6183,Nature,Beauty,BrandB,350.9,2,2025-05-01,C2061,West,Port Teresa,Influencer
+O100477,P5703,Ready,Apparel,BrandA,321.87,2,2024-12-02,C3137,North,Port Jason,Ads
+O100478,P5514,Various,Beauty,BrandB,337.33,3,2025-02-18,C2468,East,Perezfurt,Social Media
+O100479,P2140,Suggest,Home,BrandD,215.46,3,2025-02-27,C1710,North,Andrewfort,Social Media
+O100480,P3147,Fact,Apparel,BrandB,333.41,1,2025-01-15,C4571,North,North Philip,Social Media
+O100481,P9988,Both,Home,BrandC,127.41,2,2025-01-10,C7708,East,Harringtonview,Direct
+O100482,P3410,Pull,Apparel,BrandB,473.6,2,2025-04-02,C6419,South,East Juliaview,Social Media
+O100483,P3968,Story,Beauty,BrandA,68.48,1,2025-01-10,C1717,East,North Nicolemouth,Influencer
+O100484,P9343,Group,Apparel,BrandC,28.09,2,2024-11-14,C6116,West,Rossstad,Ads
+O100485,P6043,Season,Books,BrandB,90.88,2,2025-02-16,C5640,West,Sherryport,Influencer
+O100486,P5215,Yeah,Home,BrandB,141.61,2,2025-02-22,C4293,West,New Seanport,Ads
+O100487,P2461,Top,Apparel,BrandB,455.89,2,2025-01-03,C4232,West,North Sabrinastad,Direct
+O100488,P6456,Thousand,Electronics,BrandC,113.19,3,2025-05-09,C9521,South,Port Katherinechester,Social Media
+O100489,P9118,Require,Electronics,BrandA,119.47,3,2025-01-30,C9023,North,Paynefort,Direct
+O100490,P8482,Case,Apparel,BrandC,126.44,3,2025-02-17,C6873,West,South Donna,Email
+O100491,P3084,Memory,Apparel,BrandB,465.79,2,2024-12-04,C7654,North,Piercehaven,Social Media
+O100492,P1198,Write,Electronics,BrandC,107.52,2,2025-05-06,C4240,West,New Brent,Direct
+O100493,P8581,Movie,Apparel,BrandB,80.35,1,2024-11-29,C3163,West,Robertborough,Social Media
+O100494,P1328,Evening,Home,BrandA,234.02,3,2024-11-28,C9531,South,South Ericfurt,Email
+O100495,P9599,Far,Electronics,BrandD,435.64,2,2024-11-28,C8378,West,Lake Latasha,Ads
+O100496,P1936,Seat,Beauty,BrandB,301.87,2,2024-12-09,C9772,West,Harrisside,Social Media
+O100497,P2105,Major,Books,BrandB,193.49,1,2025-01-31,C7234,East,Jessicaside,Direct
+O100498,P8191,Project,Books,BrandA,43.85,3,2024-12-31,C4089,West,Jillianchester,Influencer
+O100499,P1339,South,Home,BrandC,455.72,3,2024-12-05,C8187,West,Karenfurt,Social Media
+O100500,P9082,Practice,Apparel,BrandD,34.61,1,2025-02-19,C9011,North,South Loriside,Influencer
+O100501,P7749,Whose,Electronics,BrandB,158.68,2,2025-03-04,C3260,East,Donaldsonville,Influencer
+O100502,P8476,Cell,Books,BrandD,311.84,3,2025-03-31,C3069,East,Ritterberg,Direct
+O100503,P3188,Anyone,Apparel,BrandA,186.47,1,2025-04-14,C5822,East,Lyonsmouth,Direct
+O100504,P7958,Prove,Beauty,BrandD,373.85,1,2025-05-02,C2229,West,Camachoton,Email
+O100505,P1617,Control,Electronics,BrandB,91.79,2,2024-12-29,C7410,North,Bauerbury,Email
+O100506,P3367,Dark,Apparel,BrandC,152.91,1,2025-03-15,C3772,North,South Kathryn,Social Media
+O100507,P4106,Type,Books,BrandA,107.21,1,2025-04-22,C6749,West,South David,Ads
+O100508,P4859,Product,Beauty,BrandA,118.11,2,2025-03-23,C2653,North,New Heatherland,Email
+O100509,P5449,Loss,Beauty,BrandC,324.32,2,2025-03-03,C7628,North,Allisontown,Social Media
+O100510,P6643,Do,Beauty,BrandB,324.28,2,2025-01-07,C6471,South,Lake Mollystad,Influencer
+O100511,P6748,Interview,Beauty,BrandC,364.09,3,2025-03-07,C4630,South,Scottborough,Influencer
+O100512,P6750,Room,Home,BrandA,14.23,2,2024-12-03,C5168,West,Lopezland,Influencer
+O100513,P1519,Year,Beauty,BrandA,133.04,2,2025-04-09,C4817,West,South Elizabeth,Social Media
+O100514,P4844,Recent,Apparel,BrandA,298.79,2,2025-04-05,C2648,North,West Robertside,Ads
+O100515,P2344,Wait,Electronics,BrandC,22.73,1,2025-02-01,C9890,East,Cruzville,Influencer
+O100516,P8520,We,Books,BrandA,191.82,3,2025-03-28,C2955,North,Hudsonview,Influencer
+O100517,P4834,Our,Electronics,BrandB,269.03,2,2025-02-26,C5889,South,Williamsview,Influencer
+O100518,P7784,Particularly,Beauty,BrandB,218.65,3,2025-03-19,C4530,East,Jenniferton,Influencer
+O100519,P6609,Top,Electronics,BrandA,170.35,1,2025-01-20,C7969,North,Port Rachelmouth,Social Media
+O100520,P2627,Writer,Electronics,BrandD,384.35,2,2025-04-27,C9383,East,Danielleberg,Email
+O100521,P2596,Myself,Apparel,BrandD,171.06,3,2025-02-27,C7041,North,South Jessicaview,Direct
+O100522,P2232,Method,Electronics,BrandB,446.06,3,2025-05-08,C1214,West,Lake Mark,Ads
+O100523,P4502,Technology,Apparel,BrandD,468.5,1,2025-01-03,C9289,West,Susanborough,Email
+O100524,P9696,Window,Books,BrandD,172.45,2,2024-11-20,C9498,East,Elizabethtown,Direct
+O100525,P2531,Movement,Electronics,BrandC,213.77,3,2025-05-11,C3883,South,East Jenniferport,Direct
+O100526,P1842,Standard,Beauty,BrandA,246.51,3,2025-04-17,C9496,West,Bensonland,Ads
+O100527,P3659,These,Apparel,BrandC,493.63,2,2024-11-24,C3360,South,Mckinneytown,Influencer
+O100528,P9742,Already,Apparel,BrandD,444.16,3,2025-02-26,C8501,West,Theresaside,Direct
+O100529,P4989,State,Beauty,BrandA,350.9,3,2025-04-30,C3934,North,Lake Samanthaside,Social Media
+O100530,P4630,By,Books,BrandC,429.52,2,2025-03-25,C8079,East,Port Lauren,Email
+O100531,P5451,Push,Beauty,BrandA,73.67,3,2024-11-19,C3437,South,South Christian,Email
+O100532,P3506,Painting,Apparel,BrandA,347.34,2,2025-04-18,C1477,West,Longport,Influencer
+O100533,P1832,Thought,Books,BrandA,31.08,3,2025-03-29,C5666,North,South Tinaville,Social Media
+O100534,P3418,Most,Books,BrandA,434.73,2,2024-12-10,C3246,West,Lynnfurt,Social Media
+O100535,P2154,School,Electronics,BrandB,183.33,1,2024-11-24,C1612,West,Rossshire,Direct
+O100536,P2565,During,Electronics,BrandB,167.62,1,2025-03-18,C9519,East,Kennethton,Ads
+O100537,P6990,Plan,Beauty,BrandA,267.53,2,2025-04-25,C4898,West,Johnhaven,Ads
+O100538,P4418,Manager,Beauty,BrandD,354.9,2,2024-11-11,C3899,North,Floresbury,Ads
+O100539,P3963,Memory,Home,BrandB,303.82,1,2025-02-25,C5295,West,West Monica,Direct
+O100540,P8644,Back,Apparel,BrandC,323.8,2,2025-01-11,C3408,East,West Annette,Influencer
+O100541,P2872,Fly,Apparel,BrandC,158.78,1,2025-04-08,C8312,South,North Tracey,Direct
+O100542,P9280,Call,Electronics,BrandA,110.73,3,2024-12-10,C1521,North,Alejandraside,Direct
+O100543,P6056,Responsibility,Home,BrandB,111.61,1,2025-01-10,C5798,East,Jaimetown,Direct
+O100544,P5162,Fund,Electronics,BrandD,49.56,1,2024-11-15,C3495,North,Wilsonside,Ads
+O100545,P1825,Since,Home,BrandB,175.1,3,2024-12-04,C4615,North,Hernandezton,Influencer
+O100546,P3973,Page,Books,BrandB,150.91,2,2025-04-22,C9314,East,West Debra,Social Media
+O100547,P5801,Forward,Electronics,BrandB,195.77,3,2025-02-06,C8880,North,Samanthafort,Influencer
+O100548,P6520,Month,Electronics,BrandD,439.11,3,2024-11-28,C1813,East,Edwardsberg,Social Media
+O100549,P1761,Try,Books,BrandB,459.56,2,2025-01-11,C2980,North,Jameston,Email
+O100550,P1658,Then,Electronics,BrandD,42.75,3,2024-12-15,C1549,West,Nathanfort,Social Media
+O100551,P4900,Trade,Books,BrandA,483.81,2,2025-02-07,C3003,South,Kevinfort,Social Media
+O100552,P9861,Clear,Electronics,BrandD,27.59,3,2025-01-11,C5878,North,North Joel,Email
+O100553,P2506,Less,Electronics,BrandC,281.72,1,2024-12-26,C3111,North,Adamstown,Direct
+O100554,P1098,Out,Apparel,BrandB,192.23,3,2025-02-22,C7761,West,Meyertown,Email
+O100555,P7708,Trip,Books,BrandB,423.15,3,2025-03-01,C5128,North,Taylormouth,Email
+O100556,P6930,Film,Home,BrandC,35.47,3,2025-02-26,C9585,North,Port Victoriamouth,Direct
+O100557,P7527,Join,Home,BrandB,359.94,3,2025-02-05,C5426,North,Gilbertshire,Influencer
+O100558,P2439,Explain,Electronics,BrandA,256.95,3,2025-02-15,C8017,North,Meredithside,Email
+O100559,P2899,Identify,Books,BrandC,362.82,1,2024-12-29,C9087,East,Port Wendymouth,Influencer
+O100560,P8567,Quality,Apparel,BrandB,79.52,3,2025-03-06,C6794,South,Gilmoremouth,Influencer
+O100561,P6602,Product,Apparel,BrandB,382.26,2,2025-01-30,C9587,East,Stephanietown,Ads
+O100562,P1916,Gas,Apparel,BrandB,298.73,1,2025-01-07,C7147,West,Port Kellyview,Email
+O100563,P2122,Enter,Apparel,BrandB,423.5,2,2025-03-08,C7167,West,Lindseychester,Social Media
+O100564,P5765,Other,Electronics,BrandD,205.26,2,2025-03-11,C9985,North,South Taylortown,Email
+O100565,P5500,Bag,Electronics,BrandC,392.47,2,2024-12-18,C7014,East,Lake Susan,Ads
+O100566,P7158,Financial,Apparel,BrandA,44.28,2,2025-05-10,C4405,North,West Kimberlyburgh,Email
+O100567,P6185,Middle,Home,BrandB,483.6,2,2025-02-13,C6421,West,Michealchester,Influencer
+O100568,P1515,Meeting,Home,BrandB,306.15,2,2025-04-23,C6592,South,Wiseburgh,Social Media
+O100569,P4521,Rather,Books,BrandD,282.46,2,2025-04-18,C7316,North,Port Brent,Ads
+O100570,P9669,Country,Home,BrandC,103.94,2,2025-02-26,C7817,East,North Christina,Email
+O100571,P3767,Message,Home,BrandB,409.61,2,2025-04-27,C2631,North,New Ashleyberg,Ads
+O100572,P2921,Work,Electronics,BrandB,35.71,1,2025-01-08,C3500,North,New Joseph,Influencer
+O100573,P4380,Size,Apparel,BrandD,159.7,2,2025-02-11,C9889,North,North Brandonfort,Direct
+O100574,P6334,Try,Electronics,BrandB,411.48,3,2025-03-24,C9225,East,Port Jeffrey,Ads
+O100575,P3282,President,Home,BrandA,349.18,1,2025-04-04,C5362,North,Lake Jennifer,Ads
+O100576,P1857,Design,Apparel,BrandC,489.77,1,2025-02-24,C4606,West,South Josephshire,Influencer
+O100577,P6400,Now,Books,BrandB,47.59,1,2024-11-19,C3637,West,North Carol,Ads
+O100578,P2298,Decision,Home,BrandB,299.68,3,2025-04-17,C6515,South,Port Nicolechester,Ads
+O100579,P2838,City,Apparel,BrandA,356.13,2,2025-02-27,C6990,West,Port Candiceview,Email
+O100580,P9751,Than,Books,BrandA,233.76,2,2025-01-14,C1797,West,Christineport,Email
+O100581,P5133,Station,Electronics,BrandA,28.9,1,2025-02-21,C4018,West,Lake Kevin,Ads
+O100582,P1233,South,Home,BrandA,274.85,1,2025-05-01,C9509,North,Lindachester,Direct
+O100583,P5875,Drive,Books,BrandD,407.06,3,2024-11-15,C3183,North,Williamsstad,Email
+O100584,P3495,Add,Home,BrandC,171.24,1,2025-03-27,C4326,East,Lake Ashleychester,Email
+O100585,P6665,Suffer,Home,BrandD,22.6,2,2025-03-05,C3891,East,East Joeltown,Social Media
+O100586,P3854,We,Beauty,BrandB,345.77,1,2024-12-13,C2792,East,Davisborough,Social Media
+O100587,P5837,Thus,Home,BrandC,463.33,1,2025-01-05,C4259,West,East Christopher,Direct
+O100588,P1845,Method,Beauty,BrandA,210.52,3,2025-01-20,C9322,West,Lake Cheryl,Social Media
+O100589,P4757,Know,Home,BrandC,288.15,1,2025-01-31,C5010,North,West Julie,Influencer
+O100590,P2881,Hair,Apparel,BrandB,223.68,2,2025-04-13,C3256,South,Veronicamouth,Influencer
+O100591,P9583,Weight,Electronics,BrandC,315.02,1,2025-03-07,C6523,North,West Sharon,Social Media
+O100592,P2358,Mrs,Apparel,BrandC,195.66,1,2025-03-07,C8846,East,Blankenshipland,Direct
+O100593,P8749,Owner,Home,BrandB,317.66,2,2025-04-06,C2669,East,Port Emily,Email
+O100594,P6080,Least,Beauty,BrandB,47.87,2,2025-02-19,C9071,East,Lake Rodney,Social Media
+O100595,P7610,Move,Beauty,BrandB,140.42,3,2025-01-15,C4199,West,Lake Juliaborough,Influencer
+O100596,P7512,Garden,Beauty,BrandA,438.92,1,2024-11-12,C1591,South,North Justin,Email
+O100597,P7086,Give,Beauty,BrandC,157.16,1,2025-04-01,C8306,North,Lake Denise,Direct
+O100598,P6248,Impact,Apparel,BrandB,304.5,1,2025-04-27,C4760,North,Stephensmouth,Social Media
+O100599,P1664,Character,Home,BrandD,290.15,2,2025-01-30,C7633,North,Lake Alyssafurt,Email
+O100600,P1953,President,Books,BrandB,341.28,1,2025-02-16,C1807,North,South Kristine,Direct
+O100601,P6773,Magazine,Apparel,BrandA,438.95,2,2024-12-19,C1211,South,East David,Social Media
+O100602,P2770,Strategy,Beauty,BrandB,254.68,2,2024-11-26,C2781,South,South Jessica,Social Media
+O100603,P8643,Career,Beauty,BrandC,56.8,2,2025-03-14,C5824,North,West Kimberlyside,Direct
+O100604,P3464,Culture,Books,BrandB,299.19,1,2024-12-31,C2203,East,Hoodtown,Influencer
+O100605,P3415,Summer,Beauty,BrandC,18.91,2,2024-12-08,C1547,South,Josephborough,Ads
+O100606,P3606,Much,Electronics,BrandD,486.94,1,2025-02-02,C8316,East,New Lisaside,Influencer
+O100607,P3056,Stand,Apparel,BrandC,220.64,3,2025-02-11,C4708,North,West Christinamouth,Ads
+O100608,P6447,Hotel,Apparel,BrandD,396.54,2,2025-02-13,C9831,South,Raymondville,Influencer
+O100609,P7019,Guess,Books,BrandD,376.0,2,2025-05-03,C4665,West,New Ericfort,Ads
+O100610,P8056,Book,Beauty,BrandB,445.64,2,2025-04-23,C8365,West,Starkborough,Email
+O100611,P4973,Lay,Electronics,BrandB,72.31,3,2025-02-24,C9973,North,West Cynthiachester,Social Media
+O100612,P3062,Expert,Home,BrandC,10.13,1,2025-02-17,C5705,South,Lake Ricardo,Influencer
+O100613,P8585,Director,Beauty,BrandC,373.98,1,2024-12-24,C1141,North,West Julia,Influencer
+O100614,P2084,Current,Electronics,BrandD,404.93,3,2024-11-10,C9455,North,South Kaylee,Email
+O100615,P4236,Fill,Home,BrandD,343.91,2,2024-11-25,C1124,South,Perryborough,Direct
+O100616,P7328,Commercial,Electronics,BrandC,321.27,1,2025-05-08,C7746,North,Port Jennifer,Influencer
+O100617,P8058,Political,Home,BrandD,397.5,2,2025-04-18,C3214,West,Port Terri,Influencer
+O100618,P2074,Really,Books,BrandA,68.72,3,2024-12-05,C4321,West,Lake Jillville,Social Media
+O100619,P8599,Later,Books,BrandA,267.35,2,2025-01-21,C3599,West,Harrelltown,Influencer
+O100620,P8601,Sort,Books,BrandC,283.2,2,2025-04-03,C5394,East,Grahamborough,Email
+O100621,P7815,Good,Electronics,BrandA,346.74,3,2024-12-12,C5126,South,North Ashley,Direct
+O100622,P3223,Father,Home,BrandD,424.81,1,2025-02-26,C6835,West,Adrienneburgh,Direct
+O100623,P4539,Experience,Apparel,BrandB,284.4,3,2025-04-18,C8777,North,South Micheal,Social Media
+O100624,P3487,Dog,Electronics,BrandB,137.46,2,2025-02-12,C1380,East,Alvarezshire,Email
+O100625,P7429,Suddenly,Home,BrandB,71.91,2,2025-03-19,C6234,North,New Carl,Ads
+O100626,P8655,Through,Beauty,BrandB,39.9,2,2024-12-01,C8682,North,Codyfurt,Direct
+O100627,P2708,Rather,Home,BrandC,263.33,3,2025-01-01,C6256,West,Hernandezchester,Direct
+O100628,P2047,Necessary,Apparel,BrandA,288.14,3,2024-12-04,C6697,South,Lopezfurt,Social Media
+O100629,P6636,Hope,Beauty,BrandD,256.93,1,2024-11-10,C3297,East,Daveville,Direct
+O100630,P5581,Generation,Apparel,BrandD,284.33,1,2024-11-17,C4966,North,Dawnton,Influencer
+O100631,P7630,She,Electronics,BrandC,159.35,2,2024-11-16,C3661,East,South Mariaport,Ads
+O100632,P5387,Oil,Apparel,BrandD,201.83,1,2025-01-12,C8080,South,North Traceybury,Ads
+O100633,P3972,Happen,Books,BrandA,307.18,1,2025-04-15,C8150,East,West Kevin,Social Media
+O100634,P2487,Friend,Books,BrandD,348.81,1,2025-02-23,C1734,North,West Jeffreyberg,Ads
+O100635,P5149,Marriage,Home,BrandD,459.25,3,2025-03-24,C3622,West,Charlottebury,Social Media
+O100636,P9707,Special,Beauty,BrandD,476.52,3,2025-03-07,C4686,North,Hamptonmouth,Direct
+O100637,P1950,Business,Beauty,BrandA,441.92,2,2025-01-13,C4515,East,South Debrachester,Influencer
+O100638,P8403,Country,Beauty,BrandD,497.13,1,2025-02-24,C2731,North,Thompsonburgh,Direct
+O100639,P1114,Ten,Apparel,BrandD,138.81,1,2025-02-15,C9071,West,West Rebeccastad,Ads
+O100640,P1611,Radio,Home,BrandD,280.34,1,2025-04-17,C8546,North,North Lindachester,Direct
+O100641,P4552,Artist,Home,BrandD,195.48,3,2025-02-20,C7413,West,Coreymouth,Ads
+O100642,P4747,Represent,Electronics,BrandB,114.81,1,2024-12-04,C9261,East,Bullockmouth,Influencer
+O100643,P6740,Situation,Books,BrandA,299.75,3,2025-02-22,C7383,South,South Elizabethview,Influencer
+O100644,P8447,High,Books,BrandD,432.22,2,2025-01-05,C3240,North,Gonzalezburgh,Direct
+O100645,P8347,View,Home,BrandC,332.64,3,2025-03-26,C8012,East,Carrside,Email
+O100646,P8158,Environment,Electronics,BrandA,19.28,3,2025-02-16,C7301,East,South Mary,Email
+O100647,P5446,Determine,Beauty,BrandD,80.67,1,2025-02-07,C4388,North,South Jasmine,Ads
+O100648,P8053,If,Beauty,BrandC,166.64,3,2025-03-10,C8339,North,Port Christopher,Ads
+O100649,P5870,Fine,Beauty,BrandA,276.84,2,2024-12-28,C6865,South,Garciaview,Email
+O100650,P3663,Third,Books,BrandB,406.88,2,2025-02-03,C2920,South,Kennethmouth,Email
+O100651,P9324,Record,Electronics,BrandC,272.2,3,2025-04-17,C2243,South,Ericachester,Email
+O100652,P5585,Different,Beauty,BrandD,351.15,1,2024-11-10,C5869,South,Lake Kimberly,Ads
+O100653,P3819,Seek,Electronics,BrandC,57.92,2,2025-02-26,C5762,North,Lake Shirleyville,Ads
+O100654,P9625,Country,Electronics,BrandC,412.68,3,2025-03-21,C8568,South,Nicholaston,Direct
+O100655,P1724,Model,Electronics,BrandD,109.77,3,2025-01-11,C1880,South,South Joseph,Email
+O100656,P6452,Quickly,Electronics,BrandC,386.38,3,2025-01-03,C4599,North,Nancychester,Ads
+O100657,P3065,Onto,Beauty,BrandC,341.36,1,2025-01-27,C4359,North,Randallstad,Social Media
+O100658,P4215,Art,Beauty,BrandC,184.16,3,2025-02-19,C6589,North,Ericksonstad,Direct
+O100659,P1784,Property,Electronics,BrandA,50.0,1,2025-04-21,C1435,South,Aprilborough,Email
+O100660,P1331,Piece,Beauty,BrandB,115.24,1,2025-01-11,C5998,West,Wellsborough,Ads
+O100661,P2790,Air,Beauty,BrandA,390.21,2,2024-12-05,C2709,West,Hermanborough,Email
+O100662,P4806,Society,Electronics,BrandC,386.12,3,2025-04-26,C7663,West,Port Cynthiaport,Influencer
+O100663,P7680,Continue,Apparel,BrandB,410.06,1,2025-01-31,C2337,West,Lefort,Social Media
+O100664,P8275,Young,Beauty,BrandD,303.69,1,2025-04-11,C1765,South,West Aprilton,Direct
+O100665,P9935,Learn,Electronics,BrandC,460.9,2,2025-01-29,C6264,East,North Kurtmouth,Social Media
+O100666,P1207,Production,Books,BrandD,401.04,1,2025-01-31,C1934,West,Christopherburgh,Social Media
+O100667,P3265,Himself,Home,BrandC,26.31,2,2024-11-28,C2842,West,Mooreshire,Social Media
+O100668,P3179,Author,Books,BrandD,311.86,1,2024-11-12,C7507,North,Davisfurt,Email
+O100669,P3169,Total,Beauty,BrandD,408.85,1,2025-04-24,C3198,North,West Jennifer,Direct
+O100670,P8973,Commercial,Beauty,BrandD,107.99,2,2025-04-17,C8962,East,Caseyside,Direct
+O100671,P5917,Pm,Beauty,BrandC,354.93,1,2025-03-12,C8277,West,Deborahborough,Email
+O100672,P8777,Trip,Apparel,BrandC,465.41,1,2025-01-08,C9620,North,Port Christinaport,Social Media
+O100673,P7639,Suffer,Electronics,BrandA,366.12,3,2025-02-04,C7090,South,Kennethburgh,Influencer
+O100674,P9761,Feel,Beauty,BrandA,34.73,2,2024-12-01,C6728,East,East Debbie,Email
+O100675,P2242,Test,Electronics,BrandC,31.97,3,2024-11-10,C6111,West,Suttonshire,Social Media
+O100676,P9485,Level,Books,BrandD,191.91,3,2025-05-06,C9371,West,Fergusontown,Direct
+O100677,P5892,Strategy,Electronics,BrandD,276.18,1,2025-01-22,C9922,West,Normachester,Direct
+O100678,P4619,Quite,Books,BrandC,470.39,3,2024-12-08,C2456,West,Shawton,Influencer
+O100679,P5521,Light,Electronics,BrandC,16.4,2,2025-03-29,C2683,West,West Annamouth,Ads
+O100680,P6708,Area,Home,BrandB,441.51,3,2024-12-21,C4497,South,North Debra,Social Media
+O100681,P5085,Present,Books,BrandB,424.21,1,2025-04-26,C4041,West,Jonesfurt,Influencer
+O100682,P2871,Evening,Apparel,BrandA,245.42,3,2025-05-03,C6066,North,Cookehaven,Direct
+O100683,P2947,Today,Beauty,BrandB,154.98,3,2025-01-01,C5747,East,Lake Kristinaborough,Email
+O100684,P4483,Peace,Home,BrandA,382.68,2,2025-04-15,C6643,West,Randyfort,Social Media
+O100685,P3792,Land,Home,BrandA,445.73,3,2024-12-25,C1384,West,New Brandonshire,Social Media
+O100686,P1078,Do,Apparel,BrandB,259.64,1,2025-02-11,C6890,North,Port Mark,Email
+O100687,P8145,Attorney,Books,BrandD,346.56,1,2025-01-08,C3833,South,Lake Jason,Influencer
+O100688,P5845,Worker,Electronics,BrandD,496.41,3,2025-01-15,C2789,North,Mooreside,Ads
+O100689,P7191,Bed,Books,BrandC,436.32,3,2025-05-06,C5329,South,Port Paul,Social Media
+O100690,P8056,People,Electronics,BrandD,89.47,1,2025-01-21,C5462,East,Lake Carla,Direct
+O100691,P7661,Deal,Books,BrandB,267.88,2,2024-12-21,C5182,South,Sarahchester,Ads
+O100692,P6799,There,Apparel,BrandD,404.71,2,2024-11-22,C3088,West,East Jessica,Influencer
+O100693,P6016,Break,Books,BrandD,499.72,1,2025-04-07,C8449,South,Matthewfurt,Email
+O100694,P1637,Anything,Books,BrandC,337.1,2,2025-04-16,C9547,East,Morrowport,Ads
+O100695,P7300,Surface,Home,BrandB,329.97,1,2025-02-06,C5576,East,Dunnview,Email
+O100696,P8641,Experience,Electronics,BrandC,47.82,1,2025-04-10,C5971,East,New Matthew,Email
+O100697,P5744,Assume,Home,BrandC,106.14,1,2025-02-25,C8554,West,Williamsonborough,Influencer
+O100698,P4775,Decade,Apparel,BrandD,410.14,2,2025-04-25,C3493,East,New Timothy,Direct
+O100699,P6976,Drop,Apparel,BrandD,310.0,1,2025-01-21,C1539,North,Mayfort,Ads
+O100700,P5251,Situation,Electronics,BrandB,388.65,2,2024-11-24,C8458,East,West Kellyhaven,Social Media
+O100701,P6608,Entire,Home,BrandC,56.59,1,2024-11-14,C1332,West,Johnstad,Email
+O100702,P1252,Certain,Home,BrandC,50.48,1,2024-12-29,C4042,South,Tamaraberg,Direct
+O100703,P3827,Personal,Home,BrandA,309.55,1,2025-03-02,C1875,South,New Devinshire,Email
+O100704,P5105,Way,Apparel,BrandA,257.12,2,2025-02-08,C2869,West,Peterfurt,Direct
+O100705,P5522,Along,Electronics,BrandD,237.91,3,2024-12-22,C6761,South,West Michael,Direct
+O100706,P6579,Time,Home,BrandC,267.54,3,2024-11-12,C7143,West,Mcgrathchester,Direct
+O100707,P1203,Top,Beauty,BrandB,208.94,2,2025-01-05,C1077,East,Thompsonborough,Email
+O100708,P4868,Situation,Home,BrandA,315.54,1,2025-03-13,C7831,South,Jacksonville,Email
+O100709,P7772,To,Electronics,BrandC,69.17,3,2025-04-02,C1060,North,Williamschester,Ads
+O100710,P5301,Kitchen,Electronics,BrandB,285.33,3,2025-01-06,C1541,North,Lake Danielle,Email
+O100711,P5694,Listen,Beauty,BrandA,162.93,3,2025-02-18,C5756,South,Bentonton,Influencer
+O100712,P6528,Would,Books,BrandD,293.69,2,2025-04-04,C9399,West,West Cynthia,Influencer
+O100713,P9998,Prove,Apparel,BrandD,347.29,3,2025-04-10,C1265,East,Cynthiaside,Social Media
+O100714,P6666,Reduce,Home,BrandD,408.35,2,2025-02-20,C3899,East,Port Monicafort,Ads
+O100715,P5456,Everything,Beauty,BrandC,287.89,1,2025-04-27,C1778,East,South Sabrinaside,Influencer
+O100716,P6339,Eat,Home,BrandB,274.77,2,2024-12-20,C4927,North,Clarkside,Influencer
+O100717,P2725,Bad,Books,BrandC,18.63,1,2025-01-31,C3184,North,Veronicaview,Ads
+O100718,P1559,Similar,Books,BrandB,57.73,3,2025-05-10,C3354,West,West Marcusfort,Email
+O100719,P2128,Theory,Home,BrandC,112.45,3,2025-04-05,C2488,South,East Monica,Social Media
+O100720,P1155,Sort,Books,BrandA,479.52,2,2024-12-12,C1630,West,Foxhaven,Social Media
+O100721,P3271,Process,Electronics,BrandD,487.18,1,2024-11-24,C8432,North,Kevinton,Influencer
+O100722,P2247,Article,Beauty,BrandB,424.62,2,2025-03-18,C4434,East,Pattersonhaven,Direct
+O100723,P6462,Rate,Books,BrandD,81.89,3,2025-04-23,C3474,East,West Glennshire,Ads
+O100724,P2076,Trip,Apparel,BrandA,220.56,3,2024-12-24,C7831,South,Greerfort,Direct
+O100725,P6199,Night,Apparel,BrandB,332.4,3,2025-02-04,C4944,North,Lake Ericview,Ads
+O100726,P1806,Be,Beauty,BrandD,310.11,1,2024-11-18,C4677,South,Lake Matthewview,Email
+O100727,P6981,Can,Books,BrandB,213.61,2,2024-12-11,C4282,North,South Jessica,Social Media
+O100728,P6463,Visit,Beauty,BrandC,274.11,3,2025-05-02,C2725,West,East Martinbury,Ads
+O100729,P1297,Production,Beauty,BrandD,302.05,2,2025-04-07,C1309,South,Sanderstown,Influencer
+O100730,P8801,Audience,Electronics,BrandC,440.79,2,2025-04-14,C6361,East,New Robertberg,Email
+O100731,P1582,Audience,Books,BrandA,108.03,1,2025-03-26,C9276,West,New Biancabury,Social Media
+O100732,P4983,Production,Electronics,BrandA,411.49,3,2025-01-19,C6769,North,East Christopher,Ads
+O100733,P7257,Economy,Electronics,BrandC,198.23,3,2025-01-17,C1599,East,New Ryanville,Social Media
+O100734,P2611,Hotel,Home,BrandD,381.59,2,2024-11-22,C7135,South,Turnerberg,Ads
+O100735,P9172,Often,Beauty,BrandB,195.94,2,2025-03-01,C5668,East,Boothview,Ads
+O100736,P9008,Show,Home,BrandC,472.95,1,2025-04-27,C2708,West,Lake Holly,Email
+O100737,P9152,The,Electronics,BrandD,10.36,3,2024-11-16,C3934,West,South Paulatown,Influencer
+O100738,P9294,Write,Beauty,BrandD,489.47,2,2025-04-21,C9492,South,Lauriestad,Social Media
+O100739,P1593,True,Electronics,BrandC,301.03,1,2025-04-24,C3981,East,East Lindsey,Social Media
+O100740,P6542,American,Home,BrandD,63.55,3,2025-04-17,C2985,North,New Kevinview,Influencer
+O100741,P7152,Participant,Beauty,BrandB,13.66,3,2024-12-06,C2802,West,East Sarah,Direct
+O100742,P7940,Chair,Home,BrandB,399.44,1,2025-02-06,C1011,West,South Adam,Ads
+O100743,P1129,Station,Apparel,BrandD,302.22,3,2025-01-12,C7090,South,Cassandrafort,Ads
+O100744,P3177,South,Home,BrandC,74.26,2,2024-12-24,C4181,South,Adamstad,Social Media
+O100745,P7805,Matter,Books,BrandB,495.19,3,2025-04-13,C3696,East,Kimbury,Email
+O100746,P7784,Whose,Beauty,BrandC,78.1,3,2025-03-21,C7277,West,Lauraside,Email
+O100747,P6289,Explain,Home,BrandB,408.66,2,2025-01-23,C4328,West,Jonathanburgh,Email
+O100748,P9259,Thing,Books,BrandD,452.9,3,2025-02-18,C1003,West,Danielleport,Direct
+O100749,P9999,We,Home,BrandC,234.85,1,2024-11-11,C7870,North,Brianmouth,Social Media
+O100750,P8949,Difficult,Beauty,BrandB,351.58,1,2025-04-27,C5299,East,Lake Ericabury,Direct
+O100751,P8440,Focus,Home,BrandA,160.68,3,2025-02-24,C5544,West,Bryanbury,Influencer
+O100752,P8088,As,Apparel,BrandC,95.32,2,2025-04-13,C1026,West,South Ronald,Social Media
+O100753,P2265,Be,Electronics,BrandD,85.72,2,2025-01-10,C5921,West,Susanland,Social Media
+O100754,P2371,Area,Apparel,BrandD,428.33,3,2025-03-23,C8907,North,Lucasville,Ads
+O100755,P6048,Congress,Home,BrandB,153.85,1,2025-01-01,C2851,North,East Michael,Direct
+O100756,P1275,Break,Books,BrandA,81.27,3,2025-03-08,C8482,West,Reynoldsmouth,Email
+O100757,P2561,Way,Electronics,BrandB,399.79,2,2025-02-25,C1331,North,Benjaminland,Ads
+O100758,P1358,Up,Apparel,BrandB,321.06,2,2024-12-07,C9994,East,Robertport,Social Media
+O100759,P7242,Do,Electronics,BrandC,304.51,1,2025-01-21,C1783,North,Bellfurt,Email
+O100760,P2752,Policy,Beauty,BrandD,250.64,1,2025-02-04,C8448,North,South Karen,Social Media
+O100761,P2152,House,Apparel,BrandA,310.68,2,2024-12-24,C2373,North,North Stephanieburgh,Email
+O100762,P2957,Dog,Electronics,BrandA,492.56,2,2025-01-13,C9606,West,Phillipshaven,Social Media
+O100763,P1930,Difference,Beauty,BrandA,264.97,2,2025-01-28,C2304,East,Marcville,Ads
+O100764,P4786,Somebody,Electronics,BrandD,419.82,2,2025-02-04,C3011,East,Turnerport,Social Media
+O100765,P8876,Suggest,Home,BrandC,87.01,1,2025-04-07,C9093,West,North Elizabeth,Direct
+O100766,P5161,Never,Home,BrandC,92.45,1,2025-04-15,C9268,North,Jessicaberg,Direct
+O100767,P5697,Than,Beauty,BrandB,28.38,3,2025-01-18,C2332,South,New Lindsey,Influencer
+O100768,P1429,Sense,Electronics,BrandB,126.25,3,2025-01-19,C1495,North,North Maryfort,Influencer
+O100769,P3626,Case,Beauty,BrandA,136.49,2,2024-12-17,C4215,East,Lake Benjamin,Social Media
+O100770,P2949,Century,Apparel,BrandD,454.69,3,2025-04-20,C9177,East,New Julieville,Ads
+O100771,P6138,Paper,Books,BrandD,217.51,2,2024-12-12,C9050,South,North Nicholasville,Influencer
+O100772,P9071,Whether,Apparel,BrandC,438.65,1,2025-01-07,C2368,East,Dixonfort,Ads
+O100773,P7118,Dog,Beauty,BrandA,210.77,2,2024-11-23,C4528,South,Ashleymouth,Social Media
+O100774,P7231,Crime,Beauty,BrandA,444.48,2,2025-01-14,C5356,South,Evanberg,Influencer
+O100775,P1637,Relate,Home,BrandA,103.27,2,2024-12-16,C1619,East,Lake Amymouth,Influencer
+O100776,P5958,Degree,Books,BrandA,119.93,2,2024-11-17,C5204,North,Cynthiaview,Influencer
+O100777,P6536,Home,Beauty,BrandA,381.03,3,2025-01-10,C5404,South,North Davidhaven,Direct
+O100778,P6655,Wall,Books,BrandA,109.89,3,2025-03-26,C4930,West,Youngborough,Email
+O100779,P5349,Difficult,Home,BrandA,113.38,2,2025-04-19,C6858,West,West Savannahchester,Influencer
+O100780,P6200,Onto,Electronics,BrandA,473.98,2,2025-03-14,C2994,East,Garciaville,Social Media
+O100781,P1506,Conference,Electronics,BrandD,145.49,3,2025-02-08,C1316,West,Markfurt,Social Media
+O100782,P4629,Meeting,Apparel,BrandD,323.26,1,2024-12-18,C6798,North,New Nicoleborough,Social Media
+O100783,P8082,Future,Books,BrandA,236.25,3,2025-02-21,C7471,South,South Angela,Ads
+O100784,P5381,Join,Home,BrandB,193.87,2,2025-03-10,C2103,South,Pachecoland,Ads
+O100785,P4674,Enough,Books,BrandB,306.31,1,2025-04-19,C7915,East,Barneston,Social Media
+O100786,P2318,Seven,Electronics,BrandC,487.37,2,2025-03-31,C7983,South,Lake Joseph,Direct
+O100787,P2724,When,Apparel,BrandC,315.36,2,2024-11-19,C8370,East,South Lindaland,Email
+O100788,P4418,Teacher,Beauty,BrandC,324.49,1,2024-11-26,C2665,East,Curryberg,Email
+O100789,P5146,Born,Books,BrandA,389.57,1,2024-11-10,C9325,West,New Suzanne,Influencer
+O100790,P2159,Artist,Apparel,BrandC,197.08,3,2024-12-17,C9949,West,Port April,Direct
+O100791,P8624,Conference,Beauty,BrandC,360.28,3,2024-11-25,C1643,East,North Bryceshire,Influencer
+O100792,P6762,Year,Books,BrandA,428.57,3,2025-03-27,C7748,South,Alexanderside,Social Media
+O100793,P9644,Respond,Apparel,BrandB,66.17,1,2025-02-22,C7349,East,Collinland,Email
+O100794,P4484,More,Books,BrandC,93.01,1,2024-12-06,C2738,North,South Amyborough,Ads
+O100795,P5811,Life,Electronics,BrandD,19.21,2,2025-01-22,C4966,North,Nicolefurt,Social Media
+O100796,P5346,Chance,Books,BrandD,73.89,3,2025-03-31,C1325,East,South Norma,Social Media
+O100797,P3321,Deep,Apparel,BrandD,50.57,1,2025-02-13,C1038,South,Ericborough,Influencer
+O100798,P8533,Interview,Beauty,BrandC,274.13,1,2024-11-24,C6613,East,Mistyport,Influencer
+O100799,P4779,Out,Electronics,BrandB,205.89,3,2025-04-29,C1468,West,Cunninghamland,Direct
+O100800,P8704,Early,Apparel,BrandC,40.67,1,2025-01-18,C8419,East,North David,Ads
+O100801,P5622,Often,Books,BrandB,138.82,2,2025-01-09,C8595,West,Lake Eduardo,Email
+O100802,P9498,Plant,Books,BrandD,168.66,2,2025-02-18,C7550,South,Anthonyland,Email
+O100803,P5331,Everybody,Beauty,BrandA,168.29,2,2024-11-20,C4161,North,Kelleyberg,Influencer
+O100804,P1793,Series,Home,BrandB,485.23,2,2025-03-31,C2543,West,South Micheleburgh,Direct
+O100805,P3088,Avoid,Home,BrandD,496.24,3,2024-12-17,C8294,North,South Michaelstad,Direct
+O100806,P4757,Area,Electronics,BrandC,144.86,3,2025-02-26,C5162,South,Holmesmouth,Direct
+O100807,P3982,Blood,Books,BrandA,331.53,3,2024-11-17,C7960,South,North Ashley,Influencer
+O100808,P9840,Team,Beauty,BrandA,150.54,1,2024-12-08,C9255,West,Amandaburgh,Ads
+O100809,P3978,Cold,Books,BrandB,40.33,1,2025-03-21,C4970,West,North Christopher,Influencer
+O100810,P9771,Special,Home,BrandC,109.44,3,2025-04-15,C7374,North,Johnsonshire,Email
+O100811,P3050,Draw,Home,BrandA,10.03,2,2025-05-11,C2754,South,South Nicholasborough,Social Media
+O100812,P8328,Something,Books,BrandD,429.94,3,2025-04-05,C4289,West,Curtishaven,Ads
+O100813,P6182,Attorney,Beauty,BrandB,208.72,2,2025-03-31,C4411,West,Port Staceyfurt,Email
+O100814,P2369,Effect,Home,BrandD,384.48,3,2025-01-07,C6090,North,North Maryville,Direct
+O100815,P4274,Energy,Beauty,BrandC,363.04,1,2024-11-15,C6382,South,Haleyview,Direct
+O100816,P6672,Provide,Apparel,BrandB,84.76,2,2025-01-09,C7052,West,East Kathrynberg,Influencer
+O100817,P3383,Not,Electronics,BrandB,446.98,2,2024-11-14,C2168,East,Lake Michellehaven,Email
+O100818,P5938,But,Home,BrandA,120.51,3,2024-12-09,C2335,North,North Elizabethhaven,Influencer
+O100819,P9709,Nation,Home,BrandC,129.12,1,2025-04-16,C6319,West,Bairdbury,Social Media
+O100820,P5486,Force,Apparel,BrandB,102.93,3,2025-05-03,C4101,East,Lake Nancy,Social Media
+O100821,P2944,Information,Apparel,BrandC,334.4,2,2024-12-02,C4465,East,Lake Kimberlytown,Direct
+O100822,P4069,Somebody,Home,BrandC,348.18,3,2025-01-26,C7834,North,Kathleenmouth,Ads
+O100823,P1066,Deal,Home,BrandB,356.36,1,2025-03-07,C4907,North,Patrickchester,Email
+O100824,P9009,Parent,Apparel,BrandD,333.88,1,2025-02-24,C3840,West,New Kyleview,Social Media
+O100825,P2963,Offer,Books,BrandC,103.25,1,2024-12-28,C6956,East,West Lauren,Influencer
+O100826,P8290,Decide,Home,BrandA,82.07,1,2024-12-16,C3038,West,Mcdonaldland,Influencer
+O100827,P5427,Eight,Home,BrandA,68.87,3,2025-04-15,C6841,South,New Derrickshire,Email
+O100828,P7357,Research,Apparel,BrandA,493.75,3,2025-04-30,C4871,South,South Alexandria,Social Media
+O100829,P1557,Spring,Beauty,BrandA,441.12,1,2025-01-10,C7659,West,Lake Donald,Ads
+O100830,P3383,Environment,Home,BrandC,97.02,3,2025-01-03,C8452,North,Lake Michelle,Social Media
+O100831,P9677,Go,Home,BrandB,138.4,1,2025-04-27,C9193,North,Lake Stephen,Ads
+O100832,P1818,Too,Home,BrandC,205.04,1,2025-01-16,C4939,South,West Rodney,Social Media
+O100833,P9121,Case,Home,BrandC,331.34,2,2024-12-17,C2743,East,Port Vanessaview,Influencer
+O100834,P8264,Once,Beauty,BrandB,469.81,2,2025-04-30,C8834,East,Port Daniel,Direct
+O100835,P8850,Last,Books,BrandD,108.31,1,2025-03-06,C9291,North,West Hollybury,Email
+O100836,P8265,Poor,Beauty,BrandA,388.2,3,2025-05-11,C5775,East,Brownville,Social Media
+O100837,P1284,Charge,Electronics,BrandC,227.7,1,2024-11-15,C9291,North,East Kimberlyhaven,Influencer
+O100838,P3214,Across,Electronics,BrandC,397.61,1,2025-04-08,C3155,North,New Omarburgh,Influencer
+O100839,P1162,Ready,Books,BrandB,324.91,1,2025-04-25,C3081,North,Port Johnfurt,Social Media
+O100840,P4162,Ten,Books,BrandA,27.36,2,2025-03-15,C5639,East,East Jillianport,Social Media
+O100841,P2356,For,Electronics,BrandA,140.78,1,2025-01-01,C9770,West,North Elizabethmouth,Ads
+O100842,P2866,Bring,Beauty,BrandB,165.88,2,2025-01-25,C4168,North,Johnport,Influencer
+O100843,P5791,Everything,Books,BrandA,154.06,1,2025-02-24,C8587,South,East Amy,Direct
+O100844,P2630,Option,Books,BrandD,229.59,2,2024-12-24,C1503,East,Jonesland,Ads
+O100845,P6933,He,Electronics,BrandA,106.11,2,2024-12-28,C4504,West,Mejiamouth,Social Media
+O100846,P7652,Ball,Home,BrandA,35.85,1,2024-12-09,C5726,North,Newmanshire,Ads
+O100847,P2497,That,Books,BrandD,296.65,1,2025-04-22,C5050,West,Stanleymouth,Email
+O100848,P1594,Huge,Apparel,BrandC,461.32,2,2025-04-29,C2963,East,East Caleb,Influencer
+O100849,P4612,Responsibility,Home,BrandD,235.98,2,2024-11-24,C8896,West,West Richard,Social Media
+O100850,P1568,Local,Books,BrandD,398.9,3,2024-12-27,C1534,East,Petersonville,Direct
+O100851,P8657,Store,Books,BrandB,380.4,3,2025-01-02,C2249,North,Vasquezmouth,Influencer
+O100852,P4467,Measure,Books,BrandB,213.85,3,2024-11-16,C5201,South,New Cameron,Ads
+O100853,P1060,Effort,Books,BrandD,421.99,1,2024-12-13,C8365,East,Jamesborough,Ads
+O100854,P7639,Season,Books,BrandB,495.98,3,2024-12-14,C7914,South,West Shannon,Social Media
+O100855,P9445,Baby,Home,BrandB,291.51,2,2025-03-16,C1350,East,Lake Jesseborough,Influencer
+O100856,P8512,Significant,Apparel,BrandC,237.72,1,2025-03-11,C9504,West,North Makayla,Influencer
+O100857,P5051,Cold,Apparel,BrandA,420.48,1,2024-12-24,C2670,East,Lake Erica,Social Media
+O100858,P6314,Fact,Home,BrandA,220.98,3,2025-01-01,C8028,West,East Cheryl,Email
+O100859,P1179,Enough,Apparel,BrandB,473.4,3,2025-02-14,C4787,South,Port Amanda,Ads
+O100860,P6664,Close,Beauty,BrandA,102.92,3,2024-12-09,C9617,West,Lake Williammouth,Social Media
+O100861,P8478,Ago,Books,BrandB,476.04,3,2025-05-05,C2392,North,West Manuel,Social Media
+O100862,P5046,Gas,Books,BrandC,52.72,3,2025-04-24,C6847,North,Deanchester,Email
+O100863,P9932,Time,Home,BrandB,433.33,3,2025-02-16,C7615,East,Lake Joseshire,Influencer
+O100864,P7231,Purpose,Electronics,BrandD,397.56,2,2025-03-02,C2589,North,East Nicholas,Direct
+O100865,P9997,Responsibility,Home,BrandC,493.5,1,2025-04-18,C4163,North,Aaronshire,Direct
+O100866,P1277,Important,Books,BrandB,74.53,1,2025-01-13,C7807,South,West Kathrynberg,Email
+O100867,P7941,Side,Apparel,BrandB,65.2,1,2025-03-28,C3952,South,West Jeremy,Ads
+O100868,P6189,Career,Beauty,BrandD,349.61,2,2024-12-09,C1190,North,Ashleyfurt,Ads
+O100869,P7078,Keep,Apparel,BrandB,355.59,2,2025-03-19,C4524,West,Shafferland,Email
+O100870,P1139,Here,Electronics,BrandC,34.94,3,2025-01-21,C3528,West,Lake Denise,Email
+O100871,P1541,Service,Beauty,BrandA,139.87,2,2025-02-16,C4181,East,Sharonstad,Influencer
+O100872,P8771,Ready,Books,BrandB,104.52,1,2025-01-28,C2495,North,Patelmouth,Email
+O100873,P5292,Least,Electronics,BrandB,16.45,2,2025-04-05,C3280,East,Jaimeside,Email
+O100874,P9827,Save,Beauty,BrandA,392.4,3,2025-01-22,C9783,North,New Allisonhaven,Social Media
+O100875,P8934,International,Books,BrandA,227.15,2,2025-01-05,C8965,South,Millermouth,Social Media
+O100876,P7142,Alone,Beauty,BrandA,410.62,1,2025-05-11,C6355,West,North Loribury,Direct
+O100877,P1837,Pretty,Beauty,BrandC,443.68,1,2025-02-09,C1981,North,North Leetown,Influencer
+O100878,P5803,Recently,Electronics,BrandC,268.61,1,2024-12-07,C9594,South,Lake James,Ads
+O100879,P3383,Girl,Books,BrandD,13.9,2,2025-03-06,C7353,North,North Joshua,Ads
+O100880,P3391,Store,Apparel,BrandD,368.74,3,2025-01-21,C6925,South,Russellchester,Influencer
+O100881,P4610,Nothing,Home,BrandD,190.58,2,2025-03-29,C2173,North,Garciaborough,Direct
+O100882,P4513,Issue,Beauty,BrandA,216.0,1,2025-03-04,C6679,North,Port Kellyport,Direct
+O100883,P3930,Perform,Home,BrandA,278.29,2,2025-03-07,C5621,North,Jennatown,Email
+O100884,P3928,Loss,Beauty,BrandA,242.31,3,2025-01-06,C5527,West,West Alexanderhaven,Direct
+O100885,P5000,Space,Home,BrandB,493.97,2,2025-03-31,C3368,South,Port Cindyton,Social Media
+O100886,P7008,Water,Electronics,BrandD,240.34,1,2025-04-07,C4720,West,Scotttown,Social Media
+O100887,P3913,Statement,Electronics,BrandC,462.5,2,2025-04-28,C2126,South,Terryfort,Direct
+O100888,P9450,Strong,Beauty,BrandB,193.1,1,2025-01-27,C2330,West,Ashleyburgh,Ads
+O100889,P8895,May,Books,BrandB,389.59,3,2024-12-24,C4423,South,Lake Elizabeth,Direct
+O100890,P8047,Outside,Home,BrandD,272.73,3,2025-05-02,C5395,South,Dominguezburgh,Ads
+O100891,P1657,Note,Electronics,BrandA,122.34,3,2024-12-27,C5953,South,Lisahaven,Ads
+O100892,P3710,Particularly,Beauty,BrandB,321.26,3,2024-12-18,C4256,East,North Michael,Influencer
+O100893,P8648,Hotel,Apparel,BrandC,25.99,1,2024-11-27,C5892,South,Marshallshire,Influencer
+O100894,P8752,Through,Home,BrandB,336.79,3,2025-04-17,C6941,East,Clarkshire,Influencer
+O100895,P2796,Network,Home,BrandD,312.76,1,2024-12-06,C5234,West,Port Heatherbury,Ads
+O100896,P3267,Crime,Home,BrandB,419.08,3,2025-03-07,C1293,East,Raymondshire,Influencer
+O100897,P5478,Prove,Apparel,BrandA,202.4,2,2025-01-01,C6509,East,New Brandi,Social Media
+O100898,P9255,Audience,Books,BrandA,151.17,3,2024-12-20,C8845,North,Lake Travis,Influencer
+O100899,P9399,Next,Home,BrandB,159.13,3,2025-02-05,C4427,South,Aliciaborough,Influencer
+O100900,P3008,Air,Books,BrandA,298.44,3,2025-04-23,C9835,West,Rivasfurt,Influencer
+O100901,P5606,Small,Home,BrandD,219.35,2,2025-03-05,C8383,East,South Nicholasshire,Email
+O100902,P4186,Sit,Electronics,BrandB,48.76,1,2024-12-05,C6687,South,South Alice,Ads
+O100903,P8014,Strategy,Electronics,BrandC,246.6,3,2025-02-02,C7388,East,Port Anthony,Influencer
+O100904,P9204,Today,Books,BrandD,256.11,2,2024-11-15,C2828,East,East Davidfort,Ads
+O100905,P7919,Similar,Beauty,BrandD,127.15,2,2025-02-25,C2103,East,Kathychester,Social Media
+O100906,P9602,Technology,Electronics,BrandC,176.98,2,2025-04-08,C9304,North,East Maryfort,Email
+O100907,P9772,Nature,Books,BrandB,406.7,1,2025-01-18,C9888,West,New Angelafort,Direct
+O100908,P6588,American,Apparel,BrandB,160.85,1,2025-04-15,C8522,East,South Scott,Social Media
+O100909,P3910,Seven,Apparel,BrandC,222.0,2,2025-03-12,C8846,West,Hullburgh,Ads
+O100910,P3151,Worker,Apparel,BrandC,291.92,2,2025-02-10,C1402,West,Wadeside,Direct
+O100911,P3798,Sister,Beauty,BrandB,22.26,1,2024-11-16,C2887,West,West Richardtown,Email
+O100912,P4580,Glass,Apparel,BrandC,204.94,2,2024-12-17,C7974,South,Lake Kathyton,Direct
+O100913,P5128,Buy,Beauty,BrandA,301.14,2,2025-01-04,C6360,West,Chadstad,Social Media
+O100914,P8699,Wind,Books,BrandA,65.15,1,2025-02-22,C4198,West,East Kennethport,Influencer
+O100915,P2008,Him,Beauty,BrandD,23.42,2,2025-01-10,C6444,South,Williamsbury,Ads
+O100916,P6772,Language,Home,BrandB,233.01,3,2025-03-25,C2229,South,Williamsburgh,Direct
+O100917,P5045,Maybe,Home,BrandA,293.86,3,2025-04-30,C8042,East,New Amyview,Ads
+O100918,P2126,Data,Apparel,BrandD,433.83,2,2025-02-07,C1612,North,New Lindachester,Ads
+O100919,P7524,Guy,Beauty,BrandD,315.05,3,2025-02-07,C1179,East,Markfort,Social Media
+O100920,P5302,Compare,Apparel,BrandD,123.86,3,2025-04-04,C9399,South,Jeffville,Influencer
+O100921,P5760,Half,Beauty,BrandC,112.56,2,2025-02-05,C4323,North,Bergview,Social Media
+O100922,P5352,Keep,Books,BrandB,411.41,1,2024-11-14,C1416,East,Port Bradview,Direct
+O100923,P6956,Suddenly,Home,BrandD,293.35,3,2025-03-22,C5576,South,New Janetbury,Influencer
+O100924,P7440,Explain,Electronics,BrandC,413.64,3,2025-05-02,C6725,South,New Josephview,Direct
+O100925,P3700,Situation,Home,BrandC,471.41,1,2024-12-16,C7691,West,Rubenton,Influencer
+O100926,P2901,Find,Electronics,BrandC,189.28,2,2025-01-01,C2338,South,East Theresa,Email
+O100927,P8452,One,Beauty,BrandB,67.46,1,2025-01-06,C7925,East,Harriston,Social Media
+O100928,P3670,Week,Books,BrandD,179.97,3,2024-11-18,C3666,North,Philipmouth,Influencer
+O100929,P9955,Painting,Apparel,BrandB,362.4,2,2024-12-15,C9237,East,West Leslieland,Direct
+O100930,P1211,Poor,Beauty,BrandC,415.04,1,2025-04-12,C7383,North,Lake Samantha,Email
+O100931,P9393,High,Beauty,BrandC,150.11,3,2024-11-19,C6290,North,Jamesshire,Influencer
+O100932,P3540,Space,Home,BrandD,119.81,1,2025-04-30,C9050,South,South Michael,Ads
+O100933,P5660,Bring,Apparel,BrandB,42.45,2,2025-04-05,C6514,East,Bakershire,Direct
+O100934,P8357,Skin,Apparel,BrandA,385.1,1,2024-11-10,C7401,East,Lake Isabella,Social Media
+O100935,P1087,Determine,Electronics,BrandD,492.2,2,2025-01-03,C9375,East,Lake Anthonymouth,Ads
+O100936,P9401,Realize,Apparel,BrandA,55.99,2,2025-05-01,C5426,East,New Nicholasmouth,Email
+O100937,P8793,Drive,Home,BrandA,14.03,3,2025-01-21,C6955,South,East Max,Ads
+O100938,P1956,Director,Electronics,BrandA,84.44,3,2025-03-13,C9826,East,Johnsonborough,Ads
+O100939,P6689,Type,Beauty,BrandD,417.76,2,2025-02-17,C6739,West,Nicholashaven,Email
+O100940,P3462,Long,Electronics,BrandA,77.52,1,2024-11-18,C7096,South,Morrisland,Direct
+O100941,P1036,Admit,Electronics,BrandD,77.22,3,2025-01-07,C3239,East,Amyberg,Ads
+O100942,P3993,Development,Electronics,BrandD,305.99,1,2025-03-07,C3981,North,Jennifershire,Direct
+O100943,P3993,All,Books,BrandC,370.78,2,2025-03-12,C2669,West,East Lauren,Social Media
+O100944,P5715,Real,Apparel,BrandB,476.25,1,2025-04-17,C2675,North,Petersport,Influencer
+O100945,P6390,Question,Beauty,BrandA,24.26,3,2025-04-14,C6841,West,New Megan,Direct
+O100946,P1706,Door,Electronics,BrandD,477.18,1,2024-12-31,C4293,West,Port Chelseaside,Influencer
+O100947,P2972,Fine,Beauty,BrandA,116.39,3,2025-05-01,C9096,North,Timothybury,Ads
+O100948,P1844,Deal,Home,BrandA,244.26,3,2025-02-28,C4215,West,Parkerton,Ads
+O100949,P7558,Television,Home,BrandA,75.1,3,2025-03-30,C4090,West,Lake Noah,Direct
+O100950,P7610,Behind,Electronics,BrandB,95.17,2,2025-04-12,C2120,West,Harryfurt,Direct
+O100951,P9215,Build,Electronics,BrandC,174.35,1,2025-04-20,C6251,North,Lake Patriciafort,Influencer
+O100952,P3316,Another,Beauty,BrandC,215.58,2,2025-01-30,C9237,West,Lake William,Influencer
+O100953,P3199,Friend,Electronics,BrandC,13.51,2,2025-01-08,C5496,South,Lake Melindaview,Email
+O100954,P8286,Environment,Beauty,BrandD,229.34,1,2025-04-02,C7429,East,Shafferbury,Direct
+O100955,P9848,Memory,Apparel,BrandD,238.11,2,2025-02-06,C8564,North,Joshuahaven,Email
+O100956,P8831,Rule,Apparel,BrandD,38.12,1,2024-12-15,C1674,East,Port Stephanie,Direct
+O100957,P6723,Rather,Beauty,BrandB,404.37,2,2024-11-19,C3016,West,New Brenda,Influencer
+O100958,P7421,Write,Apparel,BrandC,285.52,2,2025-02-08,C1620,South,Port James,Social Media
+O100959,P2533,Happy,Home,BrandD,325.84,1,2025-04-06,C7287,South,East Jeremystad,Ads
+O100960,P2260,Who,Electronics,BrandA,474.59,3,2024-12-14,C6072,East,Lake Judith,Influencer
+O100961,P6392,Kind,Beauty,BrandD,220.51,3,2025-03-10,C3805,West,South Stephen,Email
+O100962,P3154,Talk,Books,BrandC,456.92,1,2025-05-08,C7554,West,Lake Melanietown,Influencer
+O100963,P3505,Imagine,Beauty,BrandC,472.18,1,2025-04-24,C1219,South,Gonzalesfurt,Email
+O100964,P4800,Life,Beauty,BrandD,344.65,2,2024-12-31,C3324,East,North David,Direct
+O100965,P8040,Suffer,Beauty,BrandA,204.56,3,2024-12-31,C6134,South,Lake Wesleymouth,Influencer
+O100966,P7179,Admit,Electronics,BrandD,141.91,1,2025-02-04,C9843,West,South Jenniferport,Social Media
+O100967,P4737,With,Beauty,BrandA,490.65,1,2025-01-30,C4462,West,Amberland,Direct
+O100968,P6966,Such,Electronics,BrandD,326.61,3,2025-02-14,C2677,East,East Destinyton,Social Media
+O100969,P9473,Stay,Beauty,BrandC,429.35,2,2025-02-08,C3324,East,Lake Rachelberg,Influencer
+O100970,P8058,Nice,Electronics,BrandD,432.94,3,2025-05-09,C4235,South,Lake Tiffanyland,Email
+O100971,P7265,Enough,Home,BrandC,310.8,1,2025-02-19,C3458,South,East Dannyhaven,Email
+O100972,P4022,State,Apparel,BrandB,58.39,3,2025-03-24,C7050,North,South Stephenberg,Email
+O100973,P9720,Somebody,Apparel,BrandA,402.93,2,2025-02-22,C6065,South,East Garyside,Direct
+O100974,P8220,Actually,Books,BrandB,77.58,3,2025-04-06,C9930,East,New Donna,Influencer
+O100975,P8808,Price,Electronics,BrandA,417.25,1,2025-03-05,C6502,East,Tonyahaven,Influencer
+O100976,P6397,Like,Beauty,BrandB,237.31,1,2025-01-01,C8464,South,South James,Ads
+O100977,P2000,Inside,Books,BrandD,182.93,3,2025-02-24,C9747,North,New Lisamouth,Influencer
+O100978,P7080,Court,Home,BrandA,205.58,1,2024-12-18,C1143,South,Lake Alan,Social Media
+O100979,P1924,Social,Beauty,BrandA,270.79,1,2024-12-08,C5030,South,Johnsonberg,Email
+O100980,P7496,Safe,Books,BrandB,405.41,2,2025-03-11,C6013,South,South Erin,Social Media
+O100981,P9895,Discuss,Home,BrandD,17.16,2,2025-03-21,C7303,South,Port Carrieview,Influencer
+O100982,P7299,Capital,Books,BrandC,130.12,3,2024-12-08,C7915,East,Jacobsstad,Direct
+O100983,P1929,Go,Beauty,BrandC,437.38,3,2025-01-28,C3029,South,North Tiffanystad,Direct
+O100984,P5288,Them,Home,BrandA,258.48,3,2025-05-11,C2557,East,Mcmillanbury,Social Media
+O100985,P1281,Everything,Beauty,BrandD,396.04,2,2025-04-16,C7528,South,North Kristen,Influencer
+O100986,P9710,School,Apparel,BrandC,238.75,2,2025-02-28,C6031,South,West Melissaburgh,Ads
+O100987,P4370,Represent,Beauty,BrandC,65.76,2,2025-03-25,C8889,North,Mcphersonfurt,Email
+O100988,P8011,Short,Apparel,BrandC,243.27,3,2024-12-31,C6126,West,Port Josephfurt,Email
+O100989,P6898,High,Books,BrandA,210.83,2,2024-12-31,C7838,South,Wrightfort,Email
+O100990,P4328,Rise,Books,BrandC,489.77,2,2024-11-27,C9708,East,West Crystalborough,Ads
+O100991,P1992,Rock,Apparel,BrandA,429.33,3,2025-03-05,C9867,South,Lake Amandaberg,Email
+O100992,P6735,Direction,Books,BrandD,445.07,1,2025-02-06,C9099,West,Lake Andrew,Email
+O100993,P1364,Surface,Electronics,BrandA,114.87,2,2025-04-04,C8836,South,Port Amy,Email
+O100994,P1103,Charge,Apparel,BrandC,444.52,1,2025-05-02,C4580,West,Kylebury,Email
+O100995,P2134,Save,Electronics,BrandA,184.41,1,2025-04-09,C3374,West,Port Joshua,Email
+O100996,P9510,Put,Beauty,BrandD,347.89,3,2024-11-28,C8362,East,Lake Megan,Influencer
+O100997,P6437,Wall,Home,BrandB,386.18,1,2025-01-04,C7866,South,New Sharonview,Email
+O100998,P9313,Most,Beauty,BrandA,163.61,2,2025-02-04,C8165,East,Georgeside,Social Media
+O100999,P4461,Nor,Beauty,BrandC,269.62,1,2025-02-10,C5727,West,New Sarah,Ads
+O101000,P8165,Determine,Beauty,BrandD,219.35,2,2024-11-14,C5404,South,Johnstonborough,Social Media
+O101001,P7216,Day,Home,BrandA,351.57,3,2024-11-30,C8648,East,North Theresaside,Influencer
+O101002,P4955,Officer,Home,BrandB,425.04,1,2025-03-17,C8694,South,Ricardoburgh,Influencer
+O101003,P4929,Cell,Home,BrandD,405.69,3,2025-03-26,C9946,South,New Erin,Email
+O101004,P7847,Manage,Electronics,BrandA,203.3,3,2024-12-03,C9991,West,Port Jasmineland,Influencer
+O101005,P2208,Whole,Electronics,BrandC,460.92,3,2024-12-17,C6526,West,South Valerieshire,Email
+O101006,P3675,Leader,Beauty,BrandA,410.4,3,2025-04-11,C5369,North,Hoffmanshire,Ads
+O101007,P5984,Spring,Beauty,BrandB,358.04,2,2025-01-19,C1039,North,South Sara,Email
+O101008,P4197,Network,Apparel,BrandB,121.89,3,2025-03-28,C4175,South,West Saraview,Influencer
+O101009,P4707,Easy,Books,BrandA,136.56,3,2025-02-07,C7913,North,North Juan,Email
+O101010,P7063,Role,Beauty,BrandA,43.09,2,2025-04-20,C8469,West,Mendozaville,Ads
+O101011,P2719,Give,Electronics,BrandB,307.33,1,2025-04-12,C3446,East,Conleyborough,Influencer
+O101012,P6294,Social,Books,BrandD,199.22,1,2025-02-13,C6635,North,Elizabethport,Social Media
+O101013,P7839,Pick,Electronics,BrandC,59.51,3,2025-04-22,C9770,West,Villaview,Influencer
+O101014,P8617,Environmental,Beauty,BrandA,134.64,3,2024-11-14,C5788,North,South Jasonfort,Email
+O101015,P1543,Rise,Books,BrandD,392.22,1,2025-02-01,C3998,East,Wrightburgh,Email
+O101016,P9367,Forget,Apparel,BrandA,466.38,1,2025-02-24,C1013,South,North Bradleychester,Email
+O101017,P5536,Clearly,Home,BrandD,190.16,1,2025-04-13,C3190,East,Allisonmouth,Ads
+O101018,P1908,Imagine,Books,BrandC,236.98,3,2025-04-27,C3568,South,South Andrea,Influencer
+O101019,P9516,Choice,Beauty,BrandB,252.11,3,2025-01-25,C3722,East,Bettyview,Direct
+O101020,P7530,Could,Home,BrandD,365.71,1,2025-03-29,C8285,East,Patriciamouth,Influencer
+O101021,P7810,Necessary,Beauty,BrandB,414.83,2,2024-11-30,C2180,North,Nicholaschester,Email
+O101022,P7830,Doctor,Apparel,BrandB,351.08,3,2025-03-08,C5187,West,Lake Kristin,Email
+O101023,P9666,End,Apparel,BrandD,295.7,3,2025-05-06,C6199,East,New Donna,Email
+O101024,P9861,Former,Books,BrandB,351.94,3,2025-04-02,C3834,North,South Kristopherland,Direct
+O101025,P2010,Cold,Books,BrandC,341.63,1,2025-01-22,C3836,West,Staffordport,Direct
+O101026,P7121,Customer,Books,BrandB,284.32,1,2025-01-19,C8389,South,Moonborough,Social Media
+O101027,P1220,Quickly,Beauty,BrandD,499.6,3,2025-01-04,C1006,West,North Timothy,Ads
+O101028,P9791,Whatever,Beauty,BrandA,405.61,1,2024-11-29,C2475,South,Lake Monicaborough,Email
+O101029,P8118,Home,Home,BrandB,69.29,1,2025-01-29,C1612,West,Garciahaven,Direct
+O101030,P7296,Table,Apparel,BrandD,438.07,2,2024-12-01,C3563,West,Port Teresa,Ads
+O101031,P1291,Professor,Home,BrandC,423.84,2,2025-05-09,C9689,West,Lauraton,Influencer
+O101032,P5481,Brother,Electronics,BrandD,327.72,1,2024-11-10,C1330,South,Port Wendyberg,Direct
+O101033,P1087,Rule,Home,BrandB,215.44,1,2025-04-15,C2010,South,Susanburgh,Ads
+O101034,P6718,Coach,Electronics,BrandC,413.93,1,2025-02-01,C8403,East,New Malik,Ads
+O101035,P8390,Partner,Home,BrandB,342.91,3,2025-02-03,C2351,West,Staceyfurt,Social Media
+O101036,P4782,Entire,Electronics,BrandC,483.15,2,2025-04-27,C9341,West,North Kim,Email
+O101037,P5479,Trip,Beauty,BrandD,361.97,1,2025-05-07,C2537,West,South Michael,Email
+O101038,P1838,Wrong,Books,BrandB,338.77,2,2025-03-15,C9688,West,West Brian,Ads
+O101039,P8356,Fill,Apparel,BrandB,85.32,1,2024-11-25,C5617,South,Rebeccabury,Influencer
+O101040,P1659,Response,Home,BrandA,332.22,2,2025-02-03,C7329,East,Williamville,Email
+O101041,P1850,Drop,Electronics,BrandB,68.24,2,2024-11-26,C3382,East,Shawnbury,Ads
+O101042,P4539,Rich,Books,BrandC,471.63,2,2025-04-20,C4261,North,South Justintown,Ads
+O101043,P9510,Majority,Apparel,BrandA,210.33,1,2024-11-16,C8332,South,North Megan,Email
+O101044,P6458,Memory,Apparel,BrandB,474.92,1,2025-02-10,C5017,South,Port Valerie,Ads
+O101045,P6239,Team,Electronics,BrandA,273.86,1,2025-01-14,C8533,West,Lake Sherry,Ads
+O101046,P2878,Piece,Beauty,BrandC,460.37,3,2025-01-15,C7302,East,Port Russell,Direct
+O101047,P7658,Name,Electronics,BrandD,211.9,3,2024-12-08,C1241,South,Port Meganshire,Direct
+O101048,P7802,Someone,Books,BrandA,54.16,3,2025-04-13,C7809,North,Clarkeland,Social Media
+O101049,P1592,Tend,Apparel,BrandC,249.24,1,2025-04-22,C3292,East,West Bryantown,Influencer
+O101050,P5237,Party,Home,BrandA,169.16,1,2024-12-10,C1765,East,Hubbardview,Influencer
+O101051,P3611,Drop,Books,BrandD,153.46,1,2025-02-08,C7888,South,West Sheri,Ads
+O101052,P7590,Success,Apparel,BrandA,304.27,1,2025-01-26,C6162,West,Arthurburgh,Influencer
+O101053,P1043,Yard,Apparel,BrandA,287.32,3,2025-02-10,C7626,East,Port Kevin,Influencer
+O101054,P5045,Nation,Apparel,BrandA,419.41,2,2024-12-30,C7775,West,East Timothy,Direct
+O101055,P7798,Describe,Beauty,BrandB,448.54,1,2024-12-25,C2435,East,South Lynnmouth,Direct
+O101056,P6775,World,Books,BrandB,194.37,3,2025-02-10,C6535,South,Benjaminburgh,Influencer
+O101057,P3872,Half,Apparel,BrandA,148.18,3,2024-12-07,C2276,West,Johnmouth,Ads
+O101058,P2516,That,Beauty,BrandA,385.66,2,2024-12-04,C9162,South,Sandrastad,Social Media
+O101059,P8349,People,Apparel,BrandB,193.37,2,2025-04-25,C1791,West,Mooremouth,Direct
+O101060,P9226,Walk,Home,BrandD,28.15,3,2024-11-30,C6015,West,South Josestad,Influencer
+O101061,P9601,Out,Home,BrandA,215.84,3,2025-04-18,C6705,East,South Brendamouth,Social Media
+O101062,P2505,Meet,Home,BrandA,404.88,1,2025-03-04,C7768,East,Lisafurt,Direct
+O101063,P7793,Much,Home,BrandD,265.73,1,2025-03-23,C9392,West,Smithville,Email
+O101064,P4771,Support,Apparel,BrandC,282.44,1,2024-11-23,C2921,South,Johnsonchester,Influencer
+O101065,P2922,Study,Beauty,BrandD,203.06,2,2025-01-30,C2898,North,New Stevenhaven,Email
+O101066,P3934,Plant,Beauty,BrandB,230.64,3,2024-12-16,C1129,North,East Lauraborough,Direct
+O101067,P4899,Summer,Electronics,BrandB,291.97,3,2025-03-01,C7704,North,Lake Chelsea,Influencer
+O101068,P2761,Without,Home,BrandA,113.77,1,2024-12-18,C7467,North,Porterstad,Influencer
+O101069,P7352,Song,Apparel,BrandB,193.71,3,2025-05-05,C8558,West,Ericberg,Email
+O101070,P7770,American,Electronics,BrandA,375.2,1,2025-02-21,C9899,West,Charlesbury,Ads
+O101071,P1315,Each,Beauty,BrandA,123.62,2,2024-12-14,C5504,North,Paulfurt,Influencer
+O101072,P4719,Unit,Electronics,BrandC,408.19,2,2025-03-02,C1568,East,Brandonstad,Influencer
+O101073,P6767,Since,Apparel,BrandA,446.57,2,2024-12-17,C3751,North,South Stacey,Social Media
+O101074,P8302,Popular,Beauty,BrandD,18.3,2,2025-05-01,C2293,North,Johnbury,Direct
+O101075,P1272,Institution,Beauty,BrandB,198.67,1,2025-01-05,C6648,West,South Kristenhaven,Influencer
+O101076,P3468,Remember,Electronics,BrandB,412.36,1,2025-01-17,C8408,East,Amberview,Social Media
+O101077,P5224,From,Home,BrandD,101.57,3,2024-12-07,C1832,East,Lake Staceychester,Direct
+O101078,P1125,Fund,Electronics,BrandC,320.08,2,2024-11-20,C9296,North,Marshallbury,Ads
+O101079,P6737,Yet,Home,BrandB,85.72,1,2025-05-01,C4886,East,North Gregorystad,Ads
+O101080,P9237,Crime,Beauty,BrandD,29.03,2,2025-04-08,C5794,North,South Ericabury,Social Media
+O101081,P5979,Behind,Apparel,BrandA,92.14,1,2025-04-25,C8597,East,New Michaelville,Direct
+O101082,P9964,Simple,Electronics,BrandA,414.69,2,2025-03-04,C1686,East,Bentleyton,Influencer
+O101083,P2436,Level,Books,BrandA,60.36,3,2025-01-29,C4084,West,Ryanfurt,Direct
+O101084,P6330,Second,Apparel,BrandB,53.88,3,2024-12-22,C1846,South,Clarkland,Influencer
+O101085,P2151,Opportunity,Beauty,BrandA,210.98,2,2025-04-08,C3905,North,Lake Sarastad,Ads
+O101086,P9967,East,Beauty,BrandA,399.86,3,2025-02-05,C2033,East,South Jessicamouth,Email
+O101087,P6446,Member,Beauty,BrandD,481.58,2,2024-11-16,C5366,North,Johnsonshire,Email
+O101088,P5415,Far,Apparel,BrandB,236.85,2,2025-03-18,C2726,North,North Benjamin,Influencer
+O101089,P2508,Wear,Apparel,BrandA,277.16,3,2024-12-26,C9254,East,Anthonytown,Email
+O101090,P8958,Recognize,Electronics,BrandB,415.55,3,2025-01-29,C9894,West,Websterbury,Email
+O101091,P1377,Building,Apparel,BrandC,279.04,1,2025-01-16,C6290,North,Priceport,Influencer
+O101092,P5067,Guess,Beauty,BrandD,334.89,1,2025-01-02,C2520,North,East Christopherberg,Ads
+O101093,P3543,Relate,Beauty,BrandC,354.64,3,2024-11-27,C3807,South,West Norma,Email
+O101094,P9897,So,Beauty,BrandA,132.92,3,2025-03-10,C8557,North,Berryburgh,Influencer
+O101095,P5634,Top,Home,BrandC,442.5,1,2025-01-11,C8099,South,Jessicaton,Direct
+O101096,P7330,Hot,Home,BrandC,322.35,2,2025-05-01,C2981,East,East Manuel,Influencer
+O101097,P5083,Instead,Books,BrandD,47.07,2,2025-05-03,C5417,South,Schneiderberg,Social Media
+O101098,P5940,Whom,Books,BrandA,120.69,1,2025-02-02,C4484,West,Lake George,Direct
+O101099,P3295,Trade,Beauty,BrandD,250.29,1,2025-03-12,C6620,West,Richmondview,Direct
+O101100,P4965,Growth,Apparel,BrandA,417.49,2,2025-03-28,C5756,North,Evansville,Social Media
+O101101,P5891,Name,Home,BrandC,430.79,3,2024-12-25,C2276,East,Shannonbury,Social Media
+O101102,P3813,Say,Apparel,BrandB,264.7,2,2025-01-04,C9666,South,Lake Jordan,Influencer
+O101103,P3886,Plan,Beauty,BrandC,402.99,2,2025-04-02,C8221,West,North Erin,Social Media
+O101104,P1554,Budget,Apparel,BrandC,471.8,3,2025-01-29,C5763,North,North Traci,Social Media
+O101105,P6007,Southern,Beauty,BrandC,82.58,1,2025-03-14,C4334,East,Amyton,Influencer
+O101106,P6351,Part,Beauty,BrandB,311.44,1,2025-03-16,C5480,North,North Georgeview,Influencer
+O101107,P5987,Race,Home,BrandA,25.99,3,2025-04-19,C2493,East,North Andrewchester,Email
+O101108,P3510,Gun,Apparel,BrandC,179.85,3,2025-04-23,C4817,West,Leblancburgh,Direct
+O101109,P4143,Political,Electronics,BrandC,15.04,3,2025-05-06,C9866,North,Scottmouth,Social Media
+O101110,P4882,Mission,Electronics,BrandC,64.81,2,2024-11-30,C6180,North,Alexandratown,Email
+O101111,P6767,Stock,Electronics,BrandC,298.28,3,2025-01-18,C4617,West,Weaverhaven,Influencer
+O101112,P7744,Many,Electronics,BrandD,205.34,1,2025-04-03,C4919,West,Byrdtown,Direct
+O101113,P7080,Describe,Home,BrandD,250.81,1,2025-04-25,C8295,South,Lake Kimberlyborough,Direct
+O101114,P9569,Size,Apparel,BrandD,382.78,3,2025-01-27,C3581,East,Brownside,Influencer
+O101115,P2297,West,Apparel,BrandC,298.2,2,2024-12-18,C4590,West,Rebeccafurt,Social Media
+O101116,P7928,Edge,Electronics,BrandA,484.78,1,2025-04-14,C1562,North,Lake Patricia,Social Media
+O101117,P3626,Whatever,Apparel,BrandC,278.53,1,2025-02-02,C8125,West,North Christopher,Direct
+O101118,P3864,Public,Books,BrandC,220.42,3,2025-01-21,C8695,South,Kevinfurt,Direct
+O101119,P1392,Everything,Books,BrandC,106.27,3,2025-04-17,C6774,West,East Yolandahaven,Direct
+O101120,P1801,Then,Beauty,BrandD,162.91,2,2024-12-23,C4099,East,Geraldbury,Social Media
+O101121,P3161,Sea,Beauty,BrandC,56.76,3,2025-02-27,C8461,South,Garzaburgh,Social Media
+O101122,P4098,Six,Beauty,BrandB,163.43,2,2024-12-24,C4614,South,Gonzaleztown,Social Media
+O101123,P7748,There,Home,BrandC,487.8,3,2025-04-16,C7248,West,Jamesside,Direct
+O101124,P6087,Poor,Beauty,BrandA,224.61,3,2025-03-22,C1352,East,Jamesside,Ads
+O101125,P7902,Return,Books,BrandD,218.06,3,2024-12-10,C9867,North,Markchester,Social Media
+O101126,P2462,Position,Apparel,BrandB,16.44,2,2024-11-28,C3663,East,Aaronmouth,Social Media
+O101127,P9611,Mission,Home,BrandB,74.74,2,2025-02-19,C5880,North,Roweborough,Ads
+O101128,P6391,Leave,Electronics,BrandB,262.81,3,2024-12-26,C9632,East,Lanehaven,Direct
+O101129,P8052,Six,Apparel,BrandB,408.59,3,2025-02-05,C6572,East,Monicaberg,Influencer
+O101130,P6341,Eat,Electronics,BrandD,202.42,1,2025-01-27,C3156,West,North Robert,Email
+O101131,P5781,Fall,Home,BrandA,466.45,3,2025-02-04,C3968,West,North Stacey,Direct
+O101132,P8956,Pull,Electronics,BrandC,53.97,2,2025-02-14,C2715,West,New Cheryl,Influencer
+O101133,P3633,Win,Home,BrandB,126.92,2,2024-12-16,C2310,South,Wardmouth,Social Media
+O101134,P7802,Her,Home,BrandA,181.25,2,2024-12-10,C4816,South,Staceychester,Email
+O101135,P3200,Wrong,Apparel,BrandD,498.41,2,2024-12-09,C3411,East,New Edwardside,Influencer
+O101136,P2766,He,Apparel,BrandC,110.75,3,2025-01-25,C8874,West,New Dominicville,Email
+O101137,P9337,Middle,Beauty,BrandD,202.33,1,2025-02-19,C4166,North,South Tanyatown,Influencer
+O101138,P8667,Worker,Electronics,BrandA,153.24,3,2025-04-15,C2673,East,New Jose,Social Media
+O101139,P8387,Training,Apparel,BrandA,495.43,3,2025-04-05,C9546,East,Ashleyville,Email
+O101140,P6663,Short,Home,BrandC,206.92,3,2024-12-18,C2238,South,New Branditown,Influencer
+O101141,P9940,Attack,Apparel,BrandD,203.14,1,2024-11-27,C7427,East,West Samuelside,Influencer
+O101142,P4342,Meeting,Books,BrandB,123.34,1,2024-12-19,C1475,East,Perezborough,Influencer
+O101143,P2050,Interest,Apparel,BrandA,382.13,3,2025-03-03,C7603,South,Amystad,Social Media
+O101144,P2317,Him,Electronics,BrandB,77.09,2,2025-01-18,C9590,South,New Brian,Email
+O101145,P4298,Always,Books,BrandA,444.88,2,2025-01-22,C4527,West,West Kariville,Influencer
+O101146,P1333,Early,Home,BrandD,262.57,3,2025-01-02,C7922,East,Garyberg,Social Media
+O101147,P2037,Tax,Home,BrandA,283.55,1,2025-04-24,C5589,North,West Andrew,Email
+O101148,P7220,Yes,Apparel,BrandD,120.46,1,2025-02-21,C9295,East,Anthonyland,Influencer
+O101149,P8145,Future,Home,BrandC,84.16,2,2025-05-05,C5641,East,West Michelleton,Direct
+O101150,P1992,Send,Home,BrandD,173.85,3,2025-03-23,C4182,East,North Katiechester,Direct
+O101151,P7411,Boy,Beauty,BrandA,380.2,2,2025-03-19,C7147,North,South Jeremyberg,Email
+O101152,P1073,Fall,Beauty,BrandB,471.58,2,2025-04-19,C7415,North,Joshualand,Direct
+O101153,P3553,Type,Electronics,BrandB,449.48,1,2025-04-04,C8424,West,Port Williambury,Social Media
+O101154,P4088,Public,Home,BrandB,99.2,3,2025-03-23,C5042,South,Schmidthaven,Social Media
+O101155,P8114,Quite,Apparel,BrandA,97.11,2,2025-05-10,C2668,South,Williefurt,Direct
+O101156,P4574,Your,Electronics,BrandB,323.76,1,2025-03-17,C9641,East,Dawsontown,Email
+O101157,P9286,New,Electronics,BrandC,151.25,2,2024-11-16,C5869,West,Warrenton,Influencer
+O101158,P4684,Create,Apparel,BrandB,167.07,1,2025-04-22,C1493,East,Johnsonville,Email
+O101159,P4323,Instead,Books,BrandB,369.08,2,2025-04-06,C1146,West,Tylermouth,Ads
+O101160,P5134,Realize,Apparel,BrandA,23.23,1,2025-01-31,C8613,West,New Melissa,Influencer
+O101161,P4770,Son,Books,BrandC,296.36,3,2024-11-13,C6326,North,East Susan,Direct
+O101162,P9829,Person,Home,BrandA,113.42,3,2025-04-02,C9578,East,West Duane,Social Media
+O101163,P8031,Lawyer,Home,BrandC,357.41,3,2025-02-02,C2442,North,Port Michaeltown,Direct
+O101164,P1940,Left,Home,BrandA,279.86,1,2025-02-24,C2419,East,Greenland,Email
+O101165,P8402,Debate,Apparel,BrandD,107.19,3,2025-02-25,C8907,North,Aliciaville,Direct
+O101166,P7226,Watch,Books,BrandA,408.83,3,2024-11-13,C2473,East,Goodwinmouth,Social Media
+O101167,P9269,Hour,Books,BrandB,497.06,2,2025-01-19,C6580,West,Richardtown,Direct
+O101168,P1441,Born,Electronics,BrandA,113.62,2,2025-05-04,C1000,West,Johnchester,Influencer
+O101169,P3712,Good,Apparel,BrandB,50.78,2,2024-12-19,C7068,South,Georgeview,Email
+O101170,P8238,Father,Beauty,BrandA,82.5,2,2025-01-11,C6675,South,South Charlene,Influencer
+O101171,P8162,Out,Apparel,BrandD,57.66,2,2024-12-17,C4822,West,Shafferside,Direct
+O101172,P9914,Receive,Home,BrandB,247.36,3,2024-12-10,C4559,West,New Timothy,Direct
+O101173,P9414,Surface,Beauty,BrandC,162.78,2,2025-02-13,C9810,East,Kramerhaven,Direct
+O101174,P7015,Power,Home,BrandA,25.06,1,2025-04-15,C7468,East,Leslieberg,Social Media
+O101175,P6854,Necessary,Books,BrandB,353.39,1,2025-02-26,C9174,North,Connieberg,Direct
+O101176,P1705,Artist,Apparel,BrandD,145.42,2,2024-11-23,C8735,East,Lake William,Social Media
+O101177,P4077,Hospital,Home,BrandD,392.99,3,2025-03-04,C5058,West,Jadebury,Email
+O101178,P5039,Old,Home,BrandA,218.82,3,2025-02-12,C1927,South,Port Rachaelmouth,Direct
+O101179,P9230,Situation,Beauty,BrandA,284.67,3,2025-01-20,C8145,North,Manuelview,Influencer
+O101180,P2481,Others,Apparel,BrandC,154.96,3,2025-04-27,C3908,West,Fergusonton,Influencer
+O101181,P9406,Rock,Books,BrandD,291.22,2,2025-03-05,C8290,North,Jenniferland,Influencer
+O101182,P4791,Include,Apparel,BrandA,352.0,3,2025-01-17,C5355,North,Port Kathryn,Social Media
+O101183,P1556,Religious,Apparel,BrandA,144.21,2,2025-02-04,C7797,North,East Joseph,Influencer
+O101184,P8164,At,Electronics,BrandA,110.08,3,2025-02-23,C3783,East,Kevinview,Direct
+O101185,P4971,Order,Home,BrandA,40.67,1,2024-12-25,C2357,South,Sabrinabury,Social Media
+O101186,P1722,Pretty,Home,BrandC,316.22,3,2025-02-07,C5260,West,Lake Derek,Influencer
+O101187,P7898,Such,Electronics,BrandC,24.75,1,2025-04-20,C6383,East,Lake Terri,Direct
+O101188,P2931,General,Books,BrandB,208.49,2,2025-01-28,C1958,East,West Annaside,Social Media
+O101189,P5582,Increase,Apparel,BrandD,420.54,2,2025-01-31,C5808,West,North Danielleland,Email
+O101190,P1029,Model,Electronics,BrandD,191.01,1,2024-12-23,C1682,West,Perkinston,Influencer
+O101191,P3669,Light,Electronics,BrandC,67.81,2,2025-01-15,C8374,East,Ashleyport,Direct
+O101192,P5369,Discussion,Electronics,BrandD,25.92,2,2025-04-21,C7949,West,Port Duaneton,Influencer
+O101193,P4687,Young,Books,BrandA,85.97,2,2024-11-23,C8387,North,South Coreyberg,Email
+O101194,P3350,Recent,Electronics,BrandD,132.62,3,2025-05-06,C8507,East,Aaronburgh,Direct
+O101195,P3761,Suggest,Apparel,BrandA,350.98,3,2025-02-04,C2700,South,Lake Miguelmouth,Social Media
+O101196,P1087,Whom,Beauty,BrandC,22.63,2,2024-12-28,C9928,North,Warrenborough,Email
+O101197,P7056,Audience,Beauty,BrandB,402.38,2,2024-11-21,C8931,West,South Nicole,Direct
+O101198,P9606,Small,Electronics,BrandD,116.75,3,2024-12-07,C3837,West,Henryport,Ads
+O101199,P9076,Plan,Apparel,BrandC,309.65,1,2025-02-02,C9727,South,Melissaport,Social Media
+O101200,P8723,Less,Beauty,BrandD,78.19,3,2025-03-13,C7927,East,Kristinbury,Ads
+O101201,P2573,To,Apparel,BrandC,64.49,2,2025-02-11,C8067,South,Olivialand,Influencer
+O101202,P9635,Report,Beauty,BrandA,14.06,2,2024-12-05,C6143,North,Callahanville,Ads
+O101203,P7249,Defense,Electronics,BrandD,17.08,2,2025-01-31,C3925,West,Port Davidmouth,Email
+O101204,P2048,Lead,Books,BrandD,436.96,1,2025-03-23,C4186,North,Kimberlyfort,Ads
+O101205,P8211,Among,Beauty,BrandB,438.14,1,2025-01-19,C3858,East,Paceport,Social Media
+O101206,P8850,Forget,Electronics,BrandC,21.1,3,2024-12-29,C7208,West,North Brianbury,Influencer
+O101207,P1538,Small,Electronics,BrandA,464.28,2,2025-03-08,C3683,North,Samuelfurt,Direct
+O101208,P9238,Hundred,Beauty,BrandD,450.41,1,2025-03-02,C6592,South,East Erinbury,Email
+O101209,P3114,Head,Beauty,BrandD,149.18,1,2025-04-02,C2174,South,Port Victoria,Email
+O101210,P2177,Anyone,Books,BrandC,389.41,1,2025-02-05,C7125,South,South Theresaburgh,Email
+O101211,P9958,Goal,Books,BrandB,388.5,3,2025-04-18,C6662,East,West Paulchester,Ads
+O101212,P5705,May,Books,BrandB,211.49,3,2025-03-23,C3121,South,Walkerchester,Direct
+O101213,P6328,Special,Beauty,BrandC,292.88,2,2025-04-08,C1125,North,Andersonhaven,Ads
+O101214,P7597,Theory,Electronics,BrandD,222.45,1,2024-12-25,C5082,South,Lake Matthewbury,Influencer
+O101215,P7824,Same,Apparel,BrandB,77.45,3,2025-02-04,C5633,East,North Heidiview,Direct
+O101216,P7550,Reach,Electronics,BrandB,233.63,1,2025-04-24,C7483,East,Meadowsstad,Ads
+O101217,P7638,Piece,Beauty,BrandC,122.73,1,2024-11-29,C2169,East,North Timothychester,Ads
+O101218,P4758,Rule,Apparel,BrandC,226.27,2,2025-04-30,C7377,North,Port Scott,Direct
+O101219,P8272,Much,Home,BrandC,486.4,1,2025-02-03,C5457,North,Brennanton,Email
+O101220,P8893,Turn,Beauty,BrandC,190.97,2,2025-01-08,C4948,South,Lake Angelaville,Social Media
+O101221,P1514,Include,Apparel,BrandA,186.72,2,2025-03-31,C3552,East,Port Laura,Email
+O101222,P3182,Case,Books,BrandB,92.59,2,2024-12-11,C6379,South,North Ericberg,Ads
+O101223,P2695,South,Beauty,BrandB,76.27,1,2025-01-23,C6331,East,Mariehaven,Ads
+O101224,P7812,Whose,Beauty,BrandC,187.27,3,2024-12-31,C9067,North,Andersonburgh,Ads
+O101225,P5220,Happy,Electronics,BrandB,432.15,1,2025-02-03,C5414,West,West Jessicachester,Email
+O101226,P5217,Strong,Beauty,BrandA,92.31,1,2024-11-16,C3365,North,Jennifertown,Ads
+O101227,P1943,Anything,Books,BrandA,185.45,2,2024-11-13,C3378,West,New Thomas,Social Media
+O101228,P4464,Research,Books,BrandA,330.95,3,2025-01-31,C4620,East,Bakerville,Email
+O101229,P4259,Before,Apparel,BrandC,102.9,3,2024-12-15,C9085,South,Josephburgh,Email
+O101230,P5006,Life,Home,BrandD,264.87,1,2025-01-30,C7918,South,South Christopherside,Influencer
+O101231,P4064,Hair,Beauty,BrandD,298.04,3,2024-12-03,C4551,East,Smithland,Social Media
+O101232,P5962,Wait,Beauty,BrandD,370.15,3,2024-11-10,C3357,North,North Carlystad,Ads
+O101233,P9797,Guess,Apparel,BrandA,414.44,1,2025-02-26,C3235,West,Port Colleenville,Email
+O101234,P6445,Arrive,Home,BrandC,252.56,1,2024-12-01,C4068,West,Grantberg,Direct
+O101235,P2294,Country,Beauty,BrandB,439.59,2,2024-12-01,C3283,West,New Charleneville,Social Media
+O101236,P6378,Hour,Apparel,BrandC,172.42,3,2024-11-21,C2059,East,Port Jessicabury,Ads
+O101237,P6289,Administration,Beauty,BrandB,212.65,1,2025-02-06,C8734,North,Pettystad,Ads
+O101238,P7794,Quality,Electronics,BrandA,409.06,1,2024-12-27,C8322,North,Whitemouth,Email
+O101239,P4594,These,Books,BrandC,133.8,3,2025-04-12,C4025,West,North Aaron,Direct
+O101240,P2768,Use,Home,BrandA,385.53,2,2025-03-17,C9619,South,Harveyberg,Social Media
+O101241,P1990,Nearly,Home,BrandD,296.31,2,2024-12-23,C6226,East,Port Whitney,Ads
+O101242,P7515,Simple,Books,BrandD,94.9,3,2025-01-15,C8810,West,South Ashleyland,Influencer
+O101243,P9298,Set,Beauty,BrandC,200.27,3,2025-05-11,C5624,West,Johnland,Direct
+O101244,P4848,Also,Apparel,BrandA,22.76,1,2025-04-23,C6204,South,Destinytown,Email
+O101245,P3301,Audience,Beauty,BrandC,105.17,3,2025-01-14,C2029,East,South Christopherburgh,Influencer
+O101246,P5646,Discover,Beauty,BrandB,335.66,3,2024-11-19,C8648,South,Terrishire,Ads
+O101247,P4040,Company,Electronics,BrandA,303.08,3,2025-02-17,C6206,South,New Joshuaburgh,Influencer
+O101248,P2452,Through,Electronics,BrandA,364.95,3,2025-04-15,C5699,North,Joshuamouth,Social Media
+O101249,P5796,Create,Beauty,BrandC,211.55,1,2025-05-08,C3197,East,Gonzalesview,Social Media
+O101250,P6989,Less,Electronics,BrandA,339.9,2,2024-12-03,C4107,West,North Paul,Email
+O101251,P2668,Among,Books,BrandD,16.98,1,2025-05-09,C7422,East,Ericksonburgh,Ads
+O101252,P4427,Sign,Beauty,BrandB,291.61,3,2024-12-29,C4373,East,Morrischester,Ads
+O101253,P8033,Social,Apparel,BrandB,11.92,2,2024-12-09,C7073,West,West Kathleen,Social Media
+O101254,P2104,Need,Apparel,BrandA,224.82,3,2025-02-13,C6863,North,Floresfurt,Email
+O101255,P7800,Power,Home,BrandD,461.1,2,2024-11-26,C9864,West,West Joshuaside,Ads
+O101256,P4994,Write,Apparel,BrandA,184.52,3,2025-03-29,C9866,East,Karenville,Influencer
+O101257,P1696,Fact,Apparel,BrandB,490.77,3,2025-04-06,C3681,East,Hernandezburgh,Ads
+O101258,P3706,Dog,Electronics,BrandD,142.31,1,2024-12-01,C4476,South,Katherineport,Direct
+O101259,P5888,Another,Apparel,BrandB,175.1,3,2025-01-16,C1987,East,Garytown,Email
+O101260,P4863,Dark,Electronics,BrandB,48.45,1,2025-03-19,C1325,North,New Gabrielburgh,Direct
+O101261,P3567,Back,Books,BrandD,266.28,3,2025-02-20,C3459,North,Port Mary,Email
+O101262,P9225,Just,Beauty,BrandA,327.19,2,2024-11-17,C1915,North,East Christopher,Social Media
+O101263,P5825,Fast,Books,BrandA,349.22,1,2025-03-04,C2073,East,Gibbston,Ads
+O101264,P7862,Cultural,Apparel,BrandD,179.64,1,2025-02-15,C1302,East,North Rogerton,Direct
+O101265,P7011,Hot,Books,BrandD,178.09,2,2025-01-31,C1633,North,New Rebecca,Ads
+O101266,P3027,Majority,Home,BrandB,70.86,3,2025-03-07,C5526,North,Traceytown,Email
+O101267,P7026,Evening,Electronics,BrandB,380.65,2,2024-11-22,C2371,West,Johnland,Influencer
+O101268,P5043,Capital,Books,BrandD,378.86,3,2025-03-22,C8571,North,Port Elizabeth,Social Media
+O101269,P8168,Describe,Books,BrandD,444.41,2,2024-12-23,C7339,North,Port Brendafurt,Direct
+O101270,P5634,Owner,Apparel,BrandC,212.41,1,2025-01-29,C1658,East,Jessicaland,Social Media
+O101271,P8315,Million,Home,BrandC,266.77,1,2024-12-14,C1175,North,East Amyshire,Direct
+O101272,P1730,First,Home,BrandA,189.16,3,2025-01-14,C1115,East,Port Colefort,Direct
+O101273,P4674,Detail,Apparel,BrandC,80.1,2,2025-03-28,C4071,South,Andreafurt,Ads
+O101274,P7382,High,Beauty,BrandD,263.68,3,2025-04-08,C4408,North,Jenkinsfurt,Email
+O101275,P6008,Theory,Books,BrandC,22.54,2,2025-04-04,C9058,West,Lake Emily,Email
+O101276,P6417,Over,Books,BrandA,164.96,2,2025-02-05,C6911,West,New Ericaburgh,Direct
+O101277,P7701,His,Books,BrandB,251.14,1,2025-02-26,C3195,South,North Amber,Ads
+O101278,P2826,Put,Books,BrandB,423.89,1,2025-02-19,C9511,East,East Ethanmouth,Social Media
+O101279,P6603,Thing,Books,BrandA,333.88,2,2025-04-17,C9941,East,Jeffreyberg,Direct
+O101280,P9021,With,Home,BrandD,459.22,2,2025-01-24,C1275,South,North Rebecca,Influencer
+O101281,P2930,Audience,Electronics,BrandB,425.65,1,2025-02-17,C7673,North,West Jamie,Ads
+O101282,P2267,Good,Beauty,BrandA,381.71,3,2025-03-19,C3473,North,Garciaton,Email
+O101283,P3766,Fine,Beauty,BrandB,78.23,3,2025-01-30,C2420,North,Cookland,Social Media
+O101284,P8073,Writer,Electronics,BrandB,363.67,2,2025-02-12,C8790,South,Lake Holly,Ads
+O101285,P1533,Or,Electronics,BrandB,144.74,1,2025-01-21,C7223,North,West Dorothy,Direct
+O101286,P7976,Tough,Electronics,BrandB,282.05,3,2024-12-10,C1505,South,Port Glenn,Social Media
+O101287,P2587,Out,Home,BrandA,113.14,1,2025-05-03,C6402,West,Codystad,Direct
+O101288,P6471,All,Apparel,BrandA,406.72,2,2024-12-12,C6654,South,Joelburgh,Direct
+O101289,P4733,Team,Beauty,BrandB,481.13,2,2025-02-25,C3244,West,Lake Monica,Direct
+O101290,P9143,Speech,Apparel,BrandC,409.4,1,2025-02-02,C2859,East,Andrewville,Influencer
+O101291,P9193,Feel,Electronics,BrandC,128.67,2,2025-03-24,C8192,North,Lake Amberport,Email
+O101292,P1252,Garden,Apparel,BrandC,133.77,3,2025-04-25,C7219,East,East Richardton,Ads
+O101293,P8265,Race,Books,BrandC,401.86,2,2025-01-29,C4517,West,Gravesmouth,Direct
+O101294,P5437,Yard,Home,BrandC,43.1,2,2025-04-27,C1868,North,Leestad,Social Media
+O101295,P8289,Affect,Books,BrandC,413.02,2,2025-04-06,C8314,South,North Jeff,Ads
+O101296,P4214,Decide,Books,BrandA,295.88,1,2024-11-14,C4114,South,Lake Dianaport,Direct
+O101297,P6161,Reflect,Apparel,BrandC,23.21,2,2024-12-25,C7833,South,West Sandraland,Social Media
+O101298,P4560,What,Electronics,BrandA,18.11,1,2025-03-11,C6241,West,Shannonmouth,Direct
+O101299,P1439,Reduce,Electronics,BrandB,211.49,2,2024-12-21,C8460,West,North Debra,Influencer
+O101300,P5528,True,Apparel,BrandB,87.45,1,2024-11-25,C4856,South,Smithberg,Ads
+O101301,P4174,Treatment,Apparel,BrandA,391.97,2,2025-03-17,C4558,South,Lake Taraport,Direct
+O101302,P9057,Important,Apparel,BrandD,301.0,1,2024-12-07,C6333,South,Barnesburgh,Ads
+O101303,P8866,Several,Electronics,BrandB,259.92,2,2025-01-11,C8656,East,South Thomastown,Social Media
+O101304,P6852,Network,Apparel,BrandD,345.09,1,2024-12-07,C8064,North,Gutierrezmouth,Email
+O101305,P3746,Stage,Home,BrandC,346.26,2,2024-11-14,C4728,East,Blakefurt,Influencer
+O101306,P5865,Resource,Books,BrandD,116.52,2,2025-05-09,C1718,South,Danielleville,Influencer
+O101307,P9063,Which,Home,BrandB,449.22,2,2025-02-10,C2310,East,Robertbury,Influencer
+O101308,P8536,Stop,Electronics,BrandB,37.06,3,2025-03-23,C8167,East,Port Travis,Direct
+O101309,P6243,Region,Books,BrandC,209.84,2,2025-01-30,C1160,East,East Davidshire,Social Media
+O101310,P6903,Born,Beauty,BrandD,26.96,1,2025-03-17,C4934,North,South Walter,Email
+O101311,P3578,Force,Books,BrandD,194.79,3,2025-04-30,C7791,West,Hillfurt,Email
+O101312,P8914,Foot,Home,BrandD,139.46,2,2025-02-17,C3502,West,Martinezville,Influencer
+O101313,P5158,Station,Home,BrandA,23.04,1,2025-02-19,C4460,South,Webbton,Ads
+O101314,P2706,Skill,Apparel,BrandB,208.6,1,2024-11-20,C6961,East,New Cassandra,Ads
+O101315,P7350,Third,Beauty,BrandD,176.66,1,2025-01-07,C6887,North,Lake Kimberly,Direct
+O101316,P7152,Really,Home,BrandB,31.55,3,2025-02-10,C5113,East,East Nicholashaven,Influencer
+O101317,P3450,Mission,Apparel,BrandD,379.81,1,2025-01-12,C7297,East,North Stacey,Email
+O101318,P5608,Floor,Home,BrandC,406.26,3,2025-02-21,C1600,South,Port Richardberg,Ads
+O101319,P4945,Production,Apparel,BrandA,247.21,3,2025-04-21,C9945,West,Jennafort,Direct
+O101320,P1722,Goal,Books,BrandA,96.63,2,2024-12-07,C5790,North,East Pennytown,Direct
+O101321,P9295,Security,Home,BrandD,208.74,3,2025-02-26,C8432,North,Weaverburgh,Ads
+O101322,P6352,Simply,Books,BrandD,454.44,2,2024-12-02,C7412,South,Michealburgh,Direct
+O101323,P9084,Modern,Books,BrandC,274.18,2,2025-05-01,C4083,South,Lake Michael,Direct
+O101324,P6011,Agent,Beauty,BrandB,406.24,3,2025-05-11,C1965,East,Lopezhaven,Email
+O101325,P1146,Station,Books,BrandB,211.26,3,2025-02-26,C7925,North,West Michaelberg,Direct
+O101326,P7120,Investment,Beauty,BrandA,229.27,3,2024-12-04,C4632,North,Brownville,Email
+O101327,P5142,Create,Home,BrandA,388.61,3,2024-12-12,C5908,South,Jacobsmouth,Email
+O101328,P6118,Talk,Apparel,BrandB,22.24,1,2025-03-30,C7446,West,West Racheltown,Social Media
+O101329,P5292,Notice,Beauty,BrandA,113.39,3,2025-04-23,C2066,East,Flemington,Direct
+O101330,P6437,Head,Electronics,BrandB,12.33,2,2024-11-30,C5203,East,Lake Thomas,Email
+O101331,P3063,Voice,Home,BrandB,218.8,3,2025-04-17,C3435,East,Cookmouth,Direct
+O101332,P6252,Environment,Beauty,BrandB,179.29,2,2025-05-08,C5172,North,New Amyside,Email
+O101333,P2539,Any,Apparel,BrandC,470.48,1,2024-12-25,C6878,West,Port Ericstad,Email
+O101334,P2405,Yet,Electronics,BrandB,367.69,3,2025-04-20,C1617,East,Port Russell,Influencer
+O101335,P4762,Theory,Electronics,BrandA,413.75,3,2025-01-12,C2730,South,West Jameston,Ads
+O101336,P8287,Pass,Beauty,BrandD,315.98,3,2024-12-21,C1569,South,Mollytown,Email
+O101337,P6108,Call,Electronics,BrandB,231.91,2,2025-05-07,C1804,West,North Heidi,Email
+O101338,P7576,Want,Books,BrandB,281.31,3,2025-01-22,C6060,South,Port Brianside,Social Media
+O101339,P2222,Enter,Apparel,BrandB,311.28,3,2025-02-24,C5410,North,Omarport,Direct
+O101340,P8725,Forward,Electronics,BrandC,384.75,3,2025-02-12,C6856,West,Gibsonshire,Email
+O101341,P6254,Never,Home,BrandB,379.58,2,2025-01-24,C1705,West,Raymondhaven,Social Media
+O101342,P6343,You,Beauty,BrandC,306.47,1,2024-12-23,C3430,South,Dianeberg,Ads
+O101343,P9632,Community,Electronics,BrandD,454.96,2,2025-01-23,C2256,West,Port Lorraine,Email
+O101344,P5165,Appear,Electronics,BrandA,151.95,3,2025-01-18,C4240,North,Port Rebeccaland,Direct
+O101345,P7170,Appear,Beauty,BrandD,311.3,2,2025-04-08,C2841,South,Olsenland,Email
+O101346,P9106,However,Electronics,BrandB,247.17,2,2025-02-27,C8614,West,New Patricia,Ads
+O101347,P6046,Name,Beauty,BrandB,169.73,1,2024-12-04,C6212,North,Sherryhaven,Ads
+O101348,P1231,Beyond,Home,BrandD,186.21,2,2025-01-04,C2928,West,Jillland,Social Media
+O101349,P5231,Son,Beauty,BrandB,288.02,3,2025-04-03,C6537,West,Allenburgh,Ads
+O101350,P2394,Sister,Books,BrandD,203.76,1,2025-02-20,C6195,East,Bowenfort,Social Media
+O101351,P2062,Choice,Home,BrandB,312.29,3,2025-03-04,C5035,North,Bradville,Direct
+O101352,P9944,Magazine,Home,BrandD,439.45,1,2024-12-11,C6869,South,Hallbury,Direct
+O101353,P2230,Effect,Electronics,BrandC,431.0,2,2025-02-07,C8784,East,Danielburgh,Direct
+O101354,P7751,History,Books,BrandC,212.96,1,2024-11-19,C6303,West,Dianemouth,Email
+O101355,P4964,Those,Home,BrandB,359.61,1,2025-03-06,C3449,North,Lake Patrickfort,Direct
+O101356,P4587,Mention,Beauty,BrandC,84.9,2,2025-04-13,C6634,West,South Vanessamouth,Ads
+O101357,P6251,Claim,Books,BrandC,318.9,3,2024-12-23,C4344,South,South Sarahstad,Influencer
+O101358,P1496,Suddenly,Home,BrandA,331.28,1,2025-02-07,C1533,South,South Matthew,Social Media
+O101359,P6015,Hand,Home,BrandD,393.57,2,2025-01-08,C3255,East,Wrightville,Social Media
+O101360,P7878,Notice,Books,BrandD,250.2,1,2025-01-02,C3954,West,Higginsland,Ads
+O101361,P4430,Race,Books,BrandA,279.24,2,2025-02-24,C5534,North,Williamhaven,Ads
+O101362,P5398,Watch,Apparel,BrandD,282.59,2,2025-04-30,C5652,South,North Jessica,Influencer
+O101363,P7483,Wear,Home,BrandC,161.34,2,2025-05-03,C7548,North,Pittsbury,Social Media
+O101364,P9089,Minute,Home,BrandB,393.21,1,2025-02-26,C3599,South,Alexanderside,Influencer
+O101365,P7210,Eat,Electronics,BrandC,273.67,3,2024-11-29,C5231,West,Lake Miranda,Email
+O101366,P9987,Talk,Apparel,BrandB,199.53,1,2025-03-07,C6619,East,Jorgeburgh,Influencer
+O101367,P2116,Attorney,Home,BrandC,236.16,2,2025-04-25,C3154,West,Lake Carolyn,Ads
+O101368,P1116,Despite,Electronics,BrandD,269.59,3,2025-01-12,C1568,South,Thomasmouth,Email
+O101369,P2885,Report,Beauty,BrandD,37.5,3,2025-04-17,C8267,East,West David,Direct
+O101370,P4600,Choice,Electronics,BrandC,304.83,2,2025-05-03,C2959,East,South Edwinport,Social Media
+O101371,P6401,Story,Electronics,BrandC,38.08,2,2025-02-26,C9989,North,Heatherborough,Ads
+O101372,P1665,Future,Beauty,BrandD,194.34,3,2025-04-10,C6082,West,Lisaview,Social Media
+O101373,P7952,Public,Home,BrandB,294.22,2,2025-01-24,C9948,South,North Kellyhaven,Influencer
+O101374,P1153,Participant,Books,BrandC,253.86,1,2025-05-10,C4718,North,East Douglasfort,Email
+O101375,P5875,Great,Apparel,BrandD,223.5,2,2024-11-28,C8065,South,Carlyville,Influencer
+O101376,P7943,Left,Electronics,BrandA,315.45,1,2025-04-26,C7326,South,North Peggyberg,Direct
+O101377,P8411,Wrong,Apparel,BrandA,100.04,1,2025-02-26,C4024,East,Lake Ana,Influencer
+O101378,P6675,Media,Home,BrandA,311.27,1,2025-04-24,C8849,North,East Shawnside,Influencer
+O101379,P6129,Project,Home,BrandD,467.74,3,2025-03-02,C6909,West,Mckinneyshire,Influencer
+O101380,P5313,Gun,Books,BrandA,463.71,2,2024-11-27,C9665,West,Stephanieshire,Ads
+O101381,P7302,Line,Beauty,BrandC,219.19,3,2025-01-03,C4624,South,Port Lauren,Ads
+O101382,P6204,Relationship,Beauty,BrandA,21.15,1,2025-04-17,C5953,West,Gardnerborough,Social Media
+O101383,P4727,Agreement,Home,BrandA,120.7,2,2025-04-05,C2203,North,Lake Susanhaven,Direct
+O101384,P7106,Particularly,Beauty,BrandA,488.43,2,2025-03-13,C6026,North,Jasmineport,Email
+O101385,P9164,Hand,Books,BrandC,140.78,1,2024-11-11,C2924,South,New Angela,Ads
+O101386,P1326,Commercial,Beauty,BrandA,378.71,3,2025-03-15,C8905,West,Johnsonhaven,Ads
+O101387,P3360,Method,Apparel,BrandB,99.11,2,2024-11-29,C5697,North,Caseyborough,Ads
+O101388,P1343,Economic,Books,BrandB,314.36,1,2024-12-29,C5175,North,North Carl,Direct
+O101389,P1686,Prove,Electronics,BrandC,191.45,2,2024-12-31,C5265,South,West Grantburgh,Influencer
+O101390,P6012,Minute,Books,BrandA,27.63,2,2024-11-29,C7309,South,Jessicastad,Direct
+O101391,P3425,Stuff,Beauty,BrandD,354.43,1,2024-12-04,C4114,South,Thomasmouth,Ads
+O101392,P7929,Range,Books,BrandA,355.72,2,2025-02-10,C8439,South,Savannahland,Email
+O101393,P8659,Occur,Electronics,BrandB,341.42,2,2025-01-31,C6285,East,New Kimberlyfort,Ads
+O101394,P6558,Seem,Home,BrandA,380.08,3,2025-05-09,C8187,East,North Joseph,Ads
+O101395,P2055,Catch,Books,BrandB,440.0,3,2025-01-17,C7145,East,Jamieshire,Social Media
+O101396,P4561,Understand,Home,BrandA,398.27,2,2025-01-17,C4577,South,North Kimberly,Email
+O101397,P2377,Place,Beauty,BrandB,329.07,2,2025-03-15,C6776,East,Port Jessicaton,Email
+O101398,P2838,Special,Electronics,BrandD,183.09,2,2025-01-21,C9189,West,Ayalaberg,Ads
+O101399,P3425,Hit,Books,BrandB,314.45,2,2025-02-05,C2839,North,Kingstad,Email
+O101400,P6068,Should,Electronics,BrandB,62.67,2,2025-04-04,C1247,East,Robertston,Social Media
+O101401,P6307,While,Home,BrandA,401.84,1,2025-01-30,C2008,North,North Maryland,Direct
+O101402,P4539,Support,Home,BrandD,399.19,3,2025-04-27,C8236,East,Toddchester,Ads
+O101403,P6833,Ball,Home,BrandB,389.4,1,2024-12-22,C6864,North,Huntton,Direct
+O101404,P9973,Edge,Home,BrandD,245.44,2,2025-03-21,C1992,West,New Dylan,Influencer
+O101405,P5528,Sound,Books,BrandB,469.12,1,2025-04-17,C4229,North,North Melanie,Influencer
+O101406,P6284,Five,Beauty,BrandC,53.49,3,2024-12-23,C2473,East,Zacharyville,Social Media
+O101407,P6580,One,Apparel,BrandA,252.66,1,2025-04-27,C3986,South,Stevestad,Direct
+O101408,P3143,Natural,Electronics,BrandD,164.91,3,2025-03-17,C1525,South,Jonesside,Email
+O101409,P8711,Join,Electronics,BrandD,349.66,3,2025-01-16,C9460,East,Bookerside,Social Media
+O101410,P7703,Director,Books,BrandC,440.42,2,2025-05-02,C8864,South,Port Alyssastad,Ads
+O101411,P9420,May,Electronics,BrandA,246.48,3,2024-11-27,C7942,West,Kellyland,Direct
+O101412,P2318,Second,Electronics,BrandB,422.77,1,2024-11-15,C6941,South,Jessicabury,Email
+O101413,P8147,Strategy,Home,BrandD,386.5,2,2025-05-07,C1532,North,Williamstown,Email
+O101414,P1036,News,Apparel,BrandA,418.96,1,2025-02-20,C4716,South,Owenmouth,Email
+O101415,P8672,Nothing,Beauty,BrandC,484.29,1,2025-04-17,C2234,South,Cindyberg,Social Media
+O101416,P4064,Very,Electronics,BrandC,363.89,1,2024-12-15,C3479,North,Mollyburgh,Influencer
+O101417,P5448,Writer,Home,BrandB,488.55,2,2025-04-13,C7019,South,Davidmouth,Email
+O101418,P6903,Poor,Electronics,BrandC,352.01,1,2024-11-22,C1632,North,Lake Dawn,Social Media
+O101419,P5644,Someone,Beauty,BrandB,402.54,3,2024-11-20,C7487,South,Andersonberg,Email
+O101420,P4689,Leader,Apparel,BrandC,217.65,1,2025-03-30,C5997,East,Lake Carrietown,Direct
+O101421,P1514,Politics,Books,BrandD,153.96,2,2024-11-16,C8037,South,Taraborough,Social Media
+O101422,P7194,Hope,Books,BrandD,297.99,1,2025-02-07,C3891,South,Samanthabury,Ads
+O101423,P2103,Stay,Apparel,BrandD,45.08,1,2024-11-15,C3657,West,Timothyport,Influencer
+O101424,P1992,Create,Books,BrandC,486.39,1,2025-03-15,C4552,North,Gilmoreview,Social Media
+O101425,P7771,Southern,Electronics,BrandB,26.37,3,2024-12-18,C3782,West,South Bryce,Direct
+O101426,P8996,Computer,Apparel,BrandB,449.69,1,2025-02-26,C8790,South,South Ronaldbury,Direct
+O101427,P2755,And,Electronics,BrandA,440.26,3,2025-04-26,C8090,East,Stephentown,Social Media
+O101428,P9620,Law,Apparel,BrandB,365.58,3,2025-02-05,C4533,South,Lake Debra,Direct
+O101429,P2858,Expert,Apparel,BrandB,317.53,2,2025-02-10,C9429,East,Ericborough,Social Media
+O101430,P9390,Else,Electronics,BrandB,171.71,3,2024-12-15,C1578,North,Vegabury,Ads
+O101431,P3692,West,Home,BrandA,17.36,1,2025-04-14,C2006,South,East Nicoleland,Social Media
+O101432,P5506,Until,Electronics,BrandC,183.53,2,2025-04-13,C8565,North,Chadbury,Email
+O101433,P8627,Social,Home,BrandA,460.59,2,2025-04-25,C4782,West,New Javierfort,Direct
+O101434,P8300,Plant,Home,BrandC,209.77,1,2024-11-10,C3299,North,Kellystad,Influencer
+O101435,P7370,Read,Apparel,BrandB,429.97,3,2025-05-10,C3797,North,North Dana,Influencer
+O101436,P5934,That,Home,BrandA,95.92,2,2025-01-09,C6288,East,Port Christophershire,Email
+O101437,P8264,Son,Beauty,BrandD,125.97,2,2025-02-03,C2848,North,East Doris,Ads
+O101438,P9684,Identify,Apparel,BrandB,36.09,3,2025-02-07,C4819,West,Ashleystad,Social Media
+O101439,P9099,Number,Electronics,BrandD,160.38,3,2025-01-11,C4504,East,Port Kristi,Social Media
+O101440,P9682,Part,Electronics,BrandA,197.9,3,2025-01-30,C9944,South,New Stacyville,Email
+O101441,P8845,Institution,Electronics,BrandB,279.07,1,2025-02-06,C7388,East,Combschester,Email
+O101442,P3921,First,Books,BrandB,45.85,3,2024-11-20,C6404,North,Davidview,Social Media
+O101443,P5581,Religious,Home,BrandC,137.75,3,2025-03-21,C9590,West,South Louishaven,Direct
+O101444,P6021,Plant,Electronics,BrandB,328.57,1,2024-11-23,C6481,East,South Brenda,Direct
+O101445,P2105,Military,Electronics,BrandD,251.81,3,2024-12-15,C8537,West,Johnhaven,Influencer
+O101446,P7500,Physical,Beauty,BrandB,394.11,2,2025-04-17,C8817,South,New Tina,Email
+O101447,P9793,Difference,Electronics,BrandC,376.15,3,2025-04-29,C8571,South,North Natalie,Influencer
+O101448,P3518,Follow,Books,BrandD,88.43,1,2025-02-18,C8031,East,East David,Social Media
+O101449,P8111,Heavy,Home,BrandB,379.25,1,2025-03-12,C3976,North,Nicholaston,Social Media
+O101450,P1371,A,Beauty,BrandB,283.71,2,2025-04-16,C2436,South,Andersonview,Direct
+O101451,P2383,International,Home,BrandD,237.95,3,2025-02-06,C9052,North,North Maria,Social Media
+O101452,P4048,Few,Electronics,BrandB,286.46,2,2024-11-19,C6571,West,Christopherhaven,Influencer
+O101453,P1208,Baby,Electronics,BrandC,423.46,3,2025-05-03,C6124,South,Anthonyton,Ads
+O101454,P5699,Lead,Apparel,BrandD,282.41,1,2025-03-05,C1879,South,East Charlesland,Email
+O101455,P8128,Individual,Home,BrandB,161.64,1,2024-12-16,C6228,West,North Warren,Ads
+O101456,P5762,Father,Electronics,BrandB,499.97,3,2025-04-03,C2066,South,West Holly,Email
+O101457,P8609,Environmental,Beauty,BrandA,274.05,1,2025-01-26,C2633,East,Port Shannon,Email
+O101458,P7245,Off,Home,BrandC,409.54,1,2024-12-13,C2340,South,Harringtontown,Social Media
+O101459,P1332,Concern,Beauty,BrandD,424.51,3,2024-11-14,C1714,East,Kathrynborough,Social Media
+O101460,P5572,Something,Home,BrandB,341.03,2,2025-02-24,C2074,North,New Lauraland,Influencer
+O101461,P2463,Analysis,Beauty,BrandC,160.0,1,2025-01-03,C8925,West,Donaldsonstad,Email
+O101462,P1552,That,Electronics,BrandC,240.14,1,2025-04-22,C8451,North,Maddenville,Social Media
+O101463,P5165,Son,Home,BrandC,422.47,1,2025-02-07,C6351,South,South Maurice,Ads
+O101464,P5577,She,Beauty,BrandA,65.95,1,2025-04-26,C4126,South,Khanfurt,Social Media
+O101465,P9598,Stuff,Books,BrandA,262.25,2,2024-12-13,C9437,North,North Kenneth,Email
+O101466,P1168,Improve,Electronics,BrandD,166.54,3,2025-01-20,C6353,North,Andreabury,Email
+O101467,P8883,Item,Beauty,BrandD,292.2,3,2025-01-25,C5934,South,Michaeltown,Ads
+O101468,P6287,Old,Apparel,BrandC,90.22,2,2025-02-10,C1433,South,Liside,Influencer
+O101469,P6182,Hear,Electronics,BrandC,415.51,3,2025-03-04,C3315,West,Caitlinport,Influencer
+O101470,P1632,Time,Apparel,BrandB,283.13,2,2025-01-31,C6700,South,Nelsonland,Ads
+O101471,P5499,Task,Electronics,BrandA,312.13,1,2025-05-03,C4054,West,Henrymouth,Ads
+O101472,P9245,Glass,Beauty,BrandB,118.29,2,2024-11-22,C9415,South,Michaelland,Direct
+O101473,P2063,None,Books,BrandC,354.58,1,2025-04-28,C9229,South,South Jerryport,Email
+O101474,P9148,Money,Beauty,BrandD,410.22,2,2025-03-25,C1359,South,East Douglas,Social Media
+O101475,P3132,Measure,Home,BrandC,258.71,1,2024-11-30,C9466,East,Wilsonton,Ads
+O101476,P3758,Free,Beauty,BrandD,387.77,3,2025-03-13,C8364,South,Port Sarah,Email
+O101477,P9517,More,Beauty,BrandD,491.03,1,2025-01-29,C1708,East,Jonesfurt,Social Media
+O101478,P9726,Station,Home,BrandB,48.05,3,2024-12-05,C9092,West,New Peggyburgh,Email
+O101479,P8851,Respond,Home,BrandB,336.85,1,2025-02-24,C2337,West,Durantown,Social Media
+O101480,P8588,Pattern,Beauty,BrandA,282.71,1,2024-12-12,C9800,South,Montgomeryland,Influencer
+O101481,P2797,Himself,Home,BrandC,315.46,1,2025-03-19,C4811,East,Rebeccaport,Social Media
+O101482,P5012,Similar,Apparel,BrandC,40.37,3,2025-04-06,C2625,South,West Danielfort,Influencer
+O101483,P5152,Stuff,Electronics,BrandB,379.8,2,2024-12-25,C1025,North,East Aprilburgh,Social Media
+O101484,P2681,Road,Home,BrandA,486.69,2,2025-02-27,C7237,South,Fosterview,Ads
+O101485,P3989,Suddenly,Electronics,BrandD,175.76,1,2024-12-05,C8938,South,North Donald,Ads
+O101486,P3928,Argue,Home,BrandA,256.58,3,2025-03-06,C4943,South,West Jessica,Email
+O101487,P7619,Politics,Home,BrandD,40.43,3,2025-04-14,C3063,East,New Matthewstad,Direct
+O101488,P9202,Before,Electronics,BrandC,38.76,3,2024-12-22,C3799,West,North Darrell,Email
+O101489,P7531,Guess,Home,BrandA,350.28,3,2025-05-11,C2753,South,Chavezborough,Social Media
+O101490,P9104,Test,Electronics,BrandD,43.38,3,2025-03-24,C9293,West,Saundersfurt,Direct
+O101491,P6602,Above,Books,BrandD,186.09,2,2025-05-04,C2943,South,West Jessicachester,Influencer
+O101492,P5886,Away,Home,BrandD,465.16,1,2024-11-29,C3447,West,Lauraburgh,Influencer
+O101493,P1536,Stuff,Home,BrandD,311.15,1,2025-02-07,C5777,North,Turnermouth,Influencer
+O101494,P3003,Sister,Books,BrandC,492.62,2,2024-12-07,C5617,East,East Zachary,Email
+O101495,P2004,Water,Apparel,BrandC,425.65,3,2025-04-24,C6637,North,Kimberlyborough,Social Media
+O101496,P3788,Before,Electronics,BrandB,343.04,2,2025-04-12,C7595,East,Port Hollyport,Email
+O101497,P4563,Against,Home,BrandD,29.39,2,2025-03-07,C4839,South,West Andrewbury,Influencer
+O101498,P5231,Produce,Home,BrandA,352.95,3,2024-12-09,C1887,North,New Marymouth,Direct
+O101499,P9233,Thing,Apparel,BrandA,88.17,1,2025-04-25,C3450,North,East Lauren,Direct
